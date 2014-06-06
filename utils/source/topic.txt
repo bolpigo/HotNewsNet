@@ -26,4 +26,8 @@
                 "title": "美国哈佛图书馆证实发现人皮书",
                 "url": "http:\/\/gb.cri.cn\/42071\/2014\/06\/06\/782s4566987.htm",
                 "imgUrl": "http:\/\/h.hiphotos.baidu.com\/news\/pic\/item\/d1a20cf431adcbef6d781de2aeaf2edda2cc9f81.jpg",
+                "index": 8,
+                "title": "娱乐24小时：宋祖英亲弟弟曝光",
+                "url": "http:\/\/gb.cri.cn\/27224\/2014\/06\/06\/1326s4566539.htm",
+                "imgUrl": "http:\/\/h.hiphotos.baidu.com\/news\/pic\/item\/c2cec3fdfc039245b284b3eb8594a4c27d1e2524.jpg",
                 
