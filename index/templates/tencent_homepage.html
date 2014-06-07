@@ -60,47 +60,16 @@
         				</div>
                     </div>
 					<div class="copyrights">Collect from <a href="http://sc.chinaz.com/" >Website Template</a></div>
+                    {%for ndb in newsinfo%}
                     <article class="row">
 						<div class="col col-md-12">
-							<img src="{%static "tencent/images/tencent01.jpg"%}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
-                            <h3>强雷雨袭昆明</h3> 
-							<p>昆明市气象台2014年06月05日15时30分发布雷电黄色预警信号。晚九时许，昆明主城区上空雷电交加持续一个多小时，都市时报摄影记者相机数据显示从21：30-22：36，圆通山上空总共拍摄到65张闪电。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
+							<a href="{{ndb.url}}" target = "_blank" > <img src="{%static "tencent/images/"%}{{ndb.imgname}}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
+                            <h3>{{ndb.title}}</h3> 
+							<p></p>
+							<p><a  href="{{ndb.url}}" target = "_blank" class="btn btn-primary" role="button">View More</a></p>
 						</div>								            
 					</article>
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "tencent/images/tencent02.jpg"%}" alt="Templatemo Pic 2" class="img-thumbnail img-responsive img_left">
-                            <h3>高三学子的最后一课</h3>
-							<p>6月5日，广东省惠州市，"即将来临的考试，对苦熬过的你们，是最后的战役，更是一次特别的成人礼。请诸位带着和梦想，一道题一道题的攻克，一步一个脚印打好这一战。命运是你们挣来的，请加油……"，惠州实验中学高三年级彭军老师在讲台上动情地说。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>							
-					</article>	
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "tencent/images/tencent03.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>高考陪读奶奶</h3>
-							<p>79岁的白中廷奶奶是安徽毛坦厂镇上万余高考陪读家长中的一员，她的孙子王润泽在被称为"亚洲最大高考工厂"的六安市毛坦厂中学读高三。王润泽幼年父母离婚，从小便跟奶奶一起生活。去年王润泽高考落榜，奶奶一直暗暗自责没有照顾好孙子，执意跟着孙子到了离老家淮南200多公里外的毛坦厂来陪读。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                   <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "tencent/images/tencent04.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>北京垃圾分类"踏步"20年</h3>
-							<p>今天是第43个世界环境日。早在上世纪90年代，北京就已经开始提倡垃圾分类收集处理。1993年，北京率先制定《城市市容环境卫生条例》，对"城市生活废弃物逐步实行分类收集"，然而20年后的今天，北京街头、社区尽管分布了许多分类垃圾箱，但依然是各种垃圾混杂，除了定时来翻捡饮料瓶的拾荒者，你很难判断哪些垃圾能够被回收和再利用。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>   
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "tencent/images/tencent05.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>侗乡茶语</h3>
-							<p>贵州省黎平县，是中国侗族人口最多的一个县，也是最不出名的"名茶之乡"。城市化进程和外出务工潮，打破了这个和美侗乡千百年来的安静生存。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>  
-                   
+                   {%endfor%}
 				</div>
 			</div>
 			<footer class="row credit">

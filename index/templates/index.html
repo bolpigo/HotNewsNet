@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
 	<meta name="viewport" content="width=device-width" />
-	<title>热点新闻综合网站</title>
+	<title>百度新闻首页</title>
 	<meta name="keywords" content="botany, responsive, bootstrap, free template, fluid layout, templatemo, html css" />
 	<meta name="description" content="Botany Template is free responsive template with a fluid background image." />
 	<link href="{% static "css/bootstrap.min.css"%}" rel="stylesheet" type="text/css">
@@ -60,74 +60,16 @@
         				</div>
                     </div>
 					<div class="copyrights">Collect from <a href="http://sc.chinaz.com/" >Website Template</a></div>
+                    {%for ndb in newsinfo%}
                     <article class="row">
 						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu01.jpg"%}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
-                            <h3>《诺曼底词典》_百度新闻特别策划</h3> 
-							<p>德军为防御盟军登陆在西线建造了 15641 个掩体及 799 座钢筋水泥炮台，埋下近 800 万枚地雷。艾森豪威尔将军向即将被空投敌后的美国空降部队士兵下达命令，"我们必须取得彻底的胜利！"诺曼底登陆战正式打响，前往滩头的登陆艇上，几名英国士兵翻阅一本法国旅游指南。密集的炮火引爆了一艘登陆艇上的手雷，整艘船裹着浓烟冲向海滩。盟军士兵前赴后继冲上奥马哈滩头，很多人下水后因涨潮和装备过重而溺死。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
+							<a href="{{ndb.url}}" target = "_blank" ><img src="{%static "baidu/images/"%}{{ndb.imgname}}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left"></a>
+                            <h3>{{ndb.title}}</h3> 
+							<p></p>
+							<p><a  href="{{ndb.url}}" target = "_blank" class="btn btn-primary" role="button">View More</a></p>
 						</div>								            
 					</article>
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu02.jpg"%}" alt="Templatemo Pic 2" class="img-thumbnail img-responsive img_left">
-                            <h3>哈尔滨松花江畔出现涉色情服务"老头乐"</h3>
-							<p>新华网哈尔滨６月５日电（记者王君宝）进入夏季，哈尔滨松花江畔便成为市民纳凉散步的好去处。但在闲适的气氛中，一种打着按摩旗号却在光天化日下提供涉色情服务的群体显得尤为扎眼，当地人俗称其为"老头乐"，许多领着孩子散步的家长避之不及。
-
-　　夏季傍晚，哈尔滨市道外区松花江边的人行步道上，满是饭后散步纳凉的市民。在路灯照不到的堤坝围墙下，坐着一些浓妆艳抹的"大婶大妈"，对着过往的男士招揽生意："大哥，按个摩不？"</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>							
-					</article>	
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu03.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>男子行凶 中学生夺刀救人无缘高考</h3>
-							<p>2014年6月5日消息，江西省宜春市，5月31日，宜春至金瑞的中巴车上，一名男子突然持菜刀行凶，致5名乘客受伤。危急关头，被砍两刀的宜春三中高三（17）班学生柳艳兵，不顾危险，勇敢地冲了上去，将歹徒按倒在地，并最终夺下歹徒手中的凶器，保护了更多的乘客。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                   <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu04.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>有线电视拆机大潮即将到来</h3>
-							<p>在世界范围内，广播电视等传统视频媒体都遭遇到严峻挑战，而电信运营商捕蝉背后更是互联网公司的虎视眈眈。在中国，广电也面临前所未有的危机，这危机不是来自政策，而是来自客户，一场史无前例的抛弃有线电视的热潮很可能在今年年底前后上演。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>   
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu05.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>昆明1.2亿私人飞机开卖 云南富豪组团"看货"</h3>
-							<p>中国青年网北京6月6日电 2014年6月5日下午，云南昆明长水机场迎来一辆加长悍马车，车里七八个云南本土富豪都是来看私人飞机的，这架飞机为塞斯纳飞机，奖状君主型号，售价1.2亿元人民币，喷气式飞机。有8个座位，配有外国机长和副机长，全国有机场的城市都能起降，养护费用每年就高达700万，养个私人飞机相当于一天花2万元。不过如此高额起步价依然没有阻挡富豪们的热情。据主办方一位不愿透露姓名的女士称，这些富豪资产都在20亿以上，来看的人都买得起，只是想不想买而已。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>  
-                    
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu06.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>携子偷渡去美国</h3>
-							<p>由于坚信奥巴马政府在对待没有家长看护的未成年非法移民问题上的微妙变化，中美洲一些国家的成人开始通过各种手段将小孩偷渡至美国，美国西南边境掀起了一股大规模的未成年人非法入境浪潮。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article> 
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu07.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>美真人秀 孕妇野外分娩</h3>
-							<p>据报道，Lifetime是一个主要针对女性观众群体的美国电视台，该台周三宣布推出一档名为《野外分娩》的真人秀，拍摄没有医生护士的协助下，一些孕妇在野外分娩的过程。
-对此,一些产科医师认为，在野外自然生育确实是对于自然繁衍过程的回归，但这种自然繁衍过程却伴随着巨大的危险。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "baidu/images/baidu08.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>娱乐24小时</h3>
-							<p>中国网娱乐6月6日讯 刘凯威与杨幂爱情结晶"小糯米"日前在港出生，预料今日出院。约十时四十分刘丹与太太、刘凯威妹妹及其亲友一同抵达港安医院。新任老爷奶奶笑容满面下车并表示:"感谢大家，很快就下来"。随后其亲友亦手拿着婴儿篮步入医院。 </p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
+                    {%endfor%}
 				</div>
 			</div>
 			<footer class="row credit">
@@ -165,4 +107,5 @@
 <script type='text/javascript' src='{%static% "js/logging.js"}'></script>
 <div style="display:none"><script src='http://v7.cnzz.com/stat.php?id=155540&web_id=155540' language='JavaScript' charset='gb2312'></script></div>
 </html>
+
 

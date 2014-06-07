@@ -2078,11 +2078,11 @@ UI.each(UI.$$('button', 'span', UI.$('loginNav')), function(obj, index){
 </div>
 <script type="text/javascript">
     
-   var sTime1='2014年06月06日';
+   var sTime1='2014年06月07日';
 
-    var sTime2 ='5';
+    var sTime2 ='6';
 
-    var sTime3 = '15:32:25';  
+    var sTime3 = '18:36:56';  
     var sMday = { 
        1:"一",
        2:"二",
@@ -2097,7 +2097,7 @@ UI.each(UI.$$('button', 'span', UI.$('loginNav')), function(obj, index){
    document.getElementById("echoData").innerHTML = sTime1;
    
     var wTime = {};
-    wTime.currentHours = '15';
+    wTime.currentHours = '18';
     
     
 
@@ -2117,60 +2117,59 @@ UI.each(UI.$$('button', 'span', UI.$('loginNav')), function(obj, index){
 	<div class="chief" role="main">
 		<div id="headingNews" bosszone="toutiaozhengti">
 			<div class="hdNews cf" id="theOne" style="z-index:9">
-<h2 bosszone="focusnews1" class=""><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/043348.htm">媒体揭七常委高考往事：习近平三个志愿填清华</a></span></h2>
+<h2 bosszone="focusnews1" class=""><span><a target="_blank" class="linkto" href="http://edu.qq.com/zt2014/gkzwts/">2014年全国各地高考作文题公布</a></span></h2>
 <div class="commonArea">
-<a target="_blank" class="pic" bosszone="focusnews" href="http://news.qq.com/a/20140605/043348.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631456_240130/0"></a><div class="fl" bosszone="focusnews2"><ul>
-<li><a target="_blank" class="" href="http://news.qq.com/a/20140605/036113.htm">高考期间滇黔桂等地将有暴雨 华北东北需防雷</a></li>
-<li><a target="_blank" class="" href="http://news.qq.com/a/20140606/001981.htm">非京籍考生高考征程：只能考专职 望有更多选择</a></li>
-<li><a target="_blank" class="icon_video" href="http://news.qq.com/a/20140606/000712.htm">母亲在深圳生活22年 女儿因居住证问题无法高考</a></li>
-<li><a target="_blank" class="" href="http://news.qq.com/a/20140606/000923.htm">参与者揭秘37年间高考试卷安保：24小时把守</a></li>
-<li><a target="_blank" class="" href="http://news.qq.com/a/20140606/001643.htm">男生高考前被母亲拉去雍和宫拜佛：我不信这个</a></li>
+<a target="_blank" class="pic" bosszone="focusnews" href="http://edu.qq.com/zt2014/gkzwts/"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18700824_240130/0"></a><div class="fl" bosszone="focusnews2"><ul>
+<li><a target="_blank" class="" href="http://edu.qq.com/a/20140607/011942.htm">2014年新课标I卷高考作文题：山羊过独木桥</a></li>
+<li><a target="_blank" class="" href="http://news.qq.com/a/20140607/010949.htm">山东18名大学生跨省当高考“枪手”被抓获</a></li>
+<li><a target="_blank" class="" href="http://news.qq.com/a/20140607/010875.htm">班主任睡过头 全班学生准考证被堵路上</a></li>
+<li><a target="_blank" class="" href="http://news.qq.com/a/20140607/007907.htm">学霸考前遇车祸受伤 高考当日为其单独安排考室</a></li>
 </ul></div>
 </div>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="top1newsp" href="http://coral.qq.com/1008391658">2048</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top1newsf"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="top1newsp" href="http://coral.qq.com/1008460659">616</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top1newsf"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="1">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'媒体揭七常委高考往事：习近平三个志愿填清华','http://news.qq.com/a/20140605/043348.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631456_240130/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'2014年全国各地高考作文题公布','http://edu.qq.com/zt2014/gkzwts/','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700824_670250/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'媒体揭七常委高考往事：习近平三个志愿填清华','http://news.qq.com/a/20140605/043348.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631456_240130/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'2014年全国各地高考作文题公布','http://edu.qq.com/zt2014/gkzwts/','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700824_670250/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('媒体揭七常委高考往事：习近平三个志愿填清华','http://news.qq.com/a/20140605/043348.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631456_240130/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('2014年全国各地高考作文题公布','http://edu.qq.com/zt2014/gkzwts/','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700824_670250/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div><div class="hdNews hasPic cf" style="z-index:8">
-<a class="pic" target="_blank" bosszone="top2focus" href="http://news.qq.com/a/20140606/027415.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_12088/0"></a><h2 bosszone="top2news" class=""><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/027415.htm">海军东海舰队一架战机在夜间训练中坠毁</a></span></h2>
-<p bosszone="top2type"><a target="_blank" class="" href="http://news.qq.com/a/20121204/001568.htm">广东汕头一军机坠毁击中房屋 飞行员跳伞逃生</a><br><a target="_blank" class="" href="http://news.qq.com/a/20130403/000489.htm">媒体披露苏27战机坠毁事件牺牲飞行员生前照片</a></p>
+<a class="pic" target="_blank" bosszone="top2focus" href="http://news.qq.com/a/20140607/015049.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18723311_12088/0"></a><h2 bosszone="top2news" class=""><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/015049.htm">中纪委网站刊文解释“通奸”含义</a></span></h2>
+<p bosszone="top2type"><a target="_blank" class="" href="http://news.qq.com/a/20140605/038614.htm">中纪委罕见使用通奸通报官员违纪 专家称非犯罪</a><br><a target="_blank" class="" href="http://news.qq.com/a/20140605/031704.htm">中国出口信用保险公司原副总经理被开除党籍</a></p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="top2newsp" href="http://coral.qq.com/1008416502">662</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top2newsf"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="top2newsp" href="http://coral.qq.com/1008470275">118</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top2newsf"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="2">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'海军东海舰队一架战机在夜间训练中坠毁','http://news.qq.com/a/20140606/027415.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'中纪委网站刊文解释“通奸”含义','http://news.qq.com/a/20140607/015049.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723311_12088/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'海军东海舰队一架战机在夜间训练中坠毁','http://news.qq.com/a/20140606/027415.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'中纪委网站刊文解释“通奸”含义','http://news.qq.com/a/20140607/015049.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723311_12088/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('海军东海舰队一架战机在夜间训练中坠毁','http://news.qq.com/a/20140606/027415.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('中纪委网站刊文解释“通奸”含义','http://news.qq.com/a/20140607/015049.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723311_12088/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div><div class="hdNews hasPic cf" style="z-index:7">
-<a class="pic" target="_blank" bosszone="top3focus" href="http://news.qq.com/a/20140606/004378.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0"></a><h2 bosszone="top3news" class=""><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/004378.htm">人大副教授曝自主招生腐败：有学生仅考十几分</a></span></h2>
-<p bosszone="top3type"><a target="_blank" class="" href="http://news.qq.com/a/20140525/000745.htm">教育部：将对高校自主招生录取结果抽查10%</a><br><a target="_blank" class="" href="http://news.qq.com/a/20140531/001500.htm">人大原招生处长被捕 学生称花10万买加分名额</a></p>
+<a class="pic" target="_blank" bosszone="top3focus" href="http://news.qq.com/a/20140607/002004.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_12088/0"></a><h2 bosszone="top3news" class=""><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002004.htm">东海舰队坠毁战机疑为“飞豹” 未酿附带伤害</a></span></h2>
+<p bosszone="top3type"><a target="_blank" class="" href="http://news.qq.com/a/20121204/001568.htm">广东汕头一军机坠毁击中房屋 飞行员跳伞逃生</a><br><a target="_blank" class="" href="http://news.qq.com/a/20130403/000489.htm">媒体披露苏27战机坠毁事件牺牲飞行员生前照片</a></p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="top3newsp" href="http://coral.qq.com/1008398129">2342</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top3newsf"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="top3newsp" href="http://coral.qq.com/1008416502">5623</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="top3newsf"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="3">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'人大副教授曝自主招生腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'东海舰队坠毁战机疑为“飞豹” 未酿附带伤害','http://news.qq.com/a/20140607/002004.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'人大副教授曝自主招生腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'东海舰队坠毁战机疑为“飞豹” 未酿附带伤害','http://news.qq.com/a/20140607/002004.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('人大副教授曝自主招生腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('东海舰队坠毁战机疑为“飞豹” 未酿附带伤害','http://news.qq.com/a/20140607/002004.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18669556_670250/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div>
-<!--[if !IE]>|xGv00|90dc20d3eca88aced4b2781c9657eb51<![endif]-->
+<!--[if !IE]>|xGv00|dfb8fe5680cf8e185f4f808808a0f5a8<![endif]-->
 		</div>
 		<div id="textAd" bosszone="tg1">
 			<div class="bd">
@@ -2186,7 +2185,7 @@ href="http://news.qq.com/a/20140604/047137.htm
 href="http://news.qq.com/a/20140605/012927.htm" target="_blank">Yeti野帝都会系列登场
 </a></li> 
                                                                              <li><a 
-href="http://news.qq.com/zt2014/newszp/index.htm" target="_blank" style="color:#bd0a01">诚邀加入腾讯新闻 让生活好一点</a></li>
+href="http://news.qq.com/zt2014/newszp/index.htm" target="_blank" style="color:#bd0a01">诚邀加入腾讯新闻 让未来好一点</a></li>
 
                                                                
                                                               
@@ -2194,7 +2193,7 @@ href="http://news.qq.com/zt2014/newszp/index.htm" target="_blank" style="color:#
 				</div>
 
 			</div>
-		</div><!--[if !IE]>|xGv00|cba56e691b81ae3f00c031bae8179b5f<![endif]-->
+		</div><!--[if !IE]>|xGv00|22e1fb0400d82d3c4822f9ba8242c133<![endif]-->
 <script>try{QosS.topSpan("news_index", 20);}catch(e){}</script>
 <!--pgv 20140225v1.0.3 by Austinjin-->
 <script language="javascript" src="http://pingjs.qq.com/ping.js"></script>
@@ -2247,44 +2246,292 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 
 		<div role="tabpanel" aria-hidden="false" id="mainTabPanel" tabindex="0" bosszone="news">
 <div class="Q-pList" style="z-index:96">
-<em bosszone="news1"><span><span class="icon_pic"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/014506.htm">组图：中国又一艘4千吨级海警船交付</a></span></span></em><ul class="l26" bosszone="news1">
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668552_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668553_207138/0"></a></li>
+<em bosszone="news1"><span><span><a target="_blank" class="linkto" href="http://edu.qq.com/a/20140607/016013.htm">无臂男孩的高考路</a></span></span></em><ul class="l26" bosszone="news1">
+<li class="pic"><a target="_blank" href="http://edu.qq.com/a/20140607/016013.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18724112_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://edu.qq.com/a/20140607/016013.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18724113_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://edu.qq.com/a/20140607/016013.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18724114_207138/0"></a></li>
 </ul>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news1p" href="http://coral.qq.com/1008405791">878</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news1f"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news1p" href="http://coral.qq.com/1008473976">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news1f"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="4">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'无臂男孩的高考路','http://edu.qq.com/a/20140607/016013.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18724112_207138/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'无臂男孩的高考路','http://edu.qq.com/a/20140607/016013.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18724112_207138/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('无臂男孩的高考路','http://edu.qq.com/a/20140607/016013.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18724112_207138/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div>
 <div class="Q-tpList" style="z-index:95"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news2" href="http://news.qq.com/a/20140605/040261.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0"></a><em class="f14 l24" bosszone="news2"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/040261.htm">外交部：越方冲撞中方船只超过1200艘次</a></span></span></em><p class="l22">中方要求越方立即停止一切挑衅行动，并撤走现场所有船只。</p>
+<a target="_blank" class="pic" bosszone="news2" href="http://news.qq.com/a/20140607/016103.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18722419_12088/0"></a><em class="f14 l24" bosszone="news2"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/016103.htm">广州地铁发生乘客拥挤事件 6人轻微擦伤</a></span></span></em><p class="l22">不明情况的乘客喊“砍人”，其他乘客争先逃离，6人受轻伤。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news2p" href="http://coral.qq.com/1008383458">12636</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news2f"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news2p" href="http://coral.qq.com/1008474516">2</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news2f"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="5">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'广州地铁发生乘客拥挤事件 6人轻微擦伤','http://news.qq.com/a/20140607/016103.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18722419_12088/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'广州地铁发生乘客拥挤事件 6人轻微擦伤','http://news.qq.com/a/20140607/016103.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18722419_12088/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('广州地铁发生乘客拥挤事件 6人轻微擦伤','http://news.qq.com/a/20140607/016103.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18722419_12088/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div></div>
 <div class="Q-tpList" style="z-index:94"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news3" href="http://news.qq.com/a/20140606/008862.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18647514_12088/0"></a><em class="f14 l24" bosszone="news3"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/008862.htm">美国发表中国军力报告 提及侦察卫星中国航母等</a></span></span></em><p class="l22">与去年相比篇幅缩短，内容涉及军力发展，台海军事形势等。</p>
+<a target="_blank" class="pic" bosszone="news3" href="http://news.qq.com/a/20140607/015797.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18723300_12088/0"></a><em class="f14 l24" bosszone="news3"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/015797.htm">江苏警方捣毁大型幼童色情网站 会员超9万人</a></span></span></em><p class="l22">网站上有大量的涉及幼女、女童的淫秽色情图片和视频。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news3p" href="http://coral.qq.com/1008400536">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news3f"><ul class="shareBtn16" id="shares">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news3p" href="http://coral.qq.com/1008472924">43</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news3f"><ul class="shareBtn16" id="shares">
 <li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="6">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'江苏警方捣毁大型幼童色情网站 会员超9万人','http://news.qq.com/a/20140607/015797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723300_670250/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'江苏警方捣毁大型幼童色情网站 会员超9万人','http://news.qq.com/a/20140607/015797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723300_670250/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('江苏警方捣毁大型幼童色情网站 会员超9万人','http://news.qq.com/a/20140607/015797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18723300_670250/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:93"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news4" href="http://news.qq.com/a/20140607/001775.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18698727_12088/0"></a><em class="f14 l24" bosszone="news4"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/001775.htm">广东茂名窝案159人行贿买官被处理 63人被免职</a></span></span></em><p class="l22">共摸查出千余名“裸官”，其中200多人将家人迁回国内。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news4p" href="http://coral.qq.com/1008451486">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news4f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="7">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'广东茂名窝案159人行贿买官被处理 63人被免职','http://news.qq.com/a/20140607/001775.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18698727_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'广东茂名窝案159人行贿买官被处理 63人被免职','http://news.qq.com/a/20140607/001775.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18698727_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('广东茂名窝案159人行贿买官被处理 63人被免职','http://news.qq.com/a/20140607/001775.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18698727_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:92"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news5" href="http://news.qq.com/a/20140607/003153.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699655_12088/0"></a><em class="f14 l24" bosszone="news5"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/003153.htm">济南弃婴岛启用5天收42人 官方将打击恶意遗弃</a></span></span></em><p class="l22">6岁昏睡女孩被直接从车上扔下，重重地摔在马路边上。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news5p" href="http://coral.qq.com/1008452383">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news5f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="8">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'济南弃婴岛启用5天收42人 官方将打击恶意遗弃','http://news.qq.com/a/20140607/003153.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699655_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'济南弃婴岛启用5天收42人 官方将打击恶意遗弃','http://news.qq.com/a/20140607/003153.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699655_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('济南弃婴岛启用5天收42人 官方将打击恶意遗弃','http://news.qq.com/a/20140607/003153.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699655_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:91"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news6" href="http://news.qq.com/a/20140607/002681.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699001_12088/0"></a><em class="f14 l24" bosszone="news6"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002681.htm">中国登顶珠峰女登山家承认曾乘直升机 此前否认</a></span></span></em><p class="l22">中国女登山家被指乘直升机登顶珠峰引争议，当事人此前否认。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news6p" href="http://coral.qq.com/1008451881">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news6f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="9">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'中国登顶珠峰女登山家承认曾乘直升机 此前否认','http://news.qq.com/a/20140607/002681.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699001_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'中国登顶珠峰女登山家承认曾乘直升机 此前否认','http://news.qq.com/a/20140607/002681.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699001_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('中国登顶珠峰女登山家承认曾乘直升机 此前否认','http://news.qq.com/a/20140607/002681.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699001_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-pList" style="z-index:90">
+<em bosszone="news7"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002887.htm">组图：湖北武汉送考家长沿街烧纸跪拜</a></span></span></em><ul class="l26" bosszone="news7">
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140607/002887.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18700931_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140607/002887.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18700932_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140607/002887.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18700933_207138/0"></a></li>
+</ul>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news7p" href="http://coral.qq.com/1008452071">3</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news7f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="10">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：湖北武汉送考家长沿街烧纸跪拜','http://news.qq.com/a/20140607/002887.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700931_207138/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：湖北武汉送考家长沿街烧纸跪拜','http://news.qq.com/a/20140607/002887.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700931_207138/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：湖北武汉送考家长沿街烧纸跪拜','http://news.qq.com/a/20140607/002887.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18700931_207138/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div>
+<div class="Q-tpList" style="z-index:89"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news8" href="http://news.qq.com/a/20140607/001292.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699601_12088/0"></a><em class="f14 l24" bosszone="news8"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/001292.htm">广西否认组织狗肉节:食狗肉是个人行为短期难改</a></span></span></em><p class="l22">部分明星倡议抵制吃狗肉，遭玉林当地网民针锋相对的辩驳。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news8p" href="http://coral.qq.com/1008450532">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news8f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="11">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'广西否认组织狗肉节:食狗肉是个人行为短期难改','http://news.qq.com/a/20140607/001292.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699601_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'广西否认组织狗肉节:食狗肉是个人行为短期难改','http://news.qq.com/a/20140607/001292.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699601_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('广西否认组织狗肉节:食狗肉是个人行为短期难改','http://news.qq.com/a/20140607/001292.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699601_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:88"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news9" href="http://news.qq.com/a/20140606/049833.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18694134_12088/0"></a><em class="f14 l24" bosszone="news9"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/049833.htm">越南公布打砸抢烧犯罪团伙：反政府组织挑起动乱</a></span></span></em><p class="l22">该组织企图推翻越南政府，利用形势，挑动民众对企业打砸抢。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news9p" href="http://coral.qq.com/1008443290">7041</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news9f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="12">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'越南公布打砸抢烧犯罪团伙：反政府组织挑起动乱','http://news.qq.com/a/20140606/049833.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18694134_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'越南公布打砸抢烧犯罪团伙：反政府组织挑起动乱','http://news.qq.com/a/20140606/049833.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18694134_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('越南公布打砸抢烧犯罪团伙：反政府组织挑起动乱','http://news.qq.com/a/20140606/049833.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18694134_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:87"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news10" href="http://news.qq.com/a/20140607/002864.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699932_12088/0"></a><em class="f14 l24" bosszone="news10"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002864.htm">杭州拟立法减轻救人不当致死者责任</a></span></span></em><p class="l22">听证代表力挺救人者免责，鼓励大家该出手时就出手。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news10p" href="http://coral.qq.com/1008452050">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news10f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="13">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'杭州拟立法减轻救人不当致死者责任','http://news.qq.com/a/20140607/002864.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699932_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'杭州拟立法减轻救人不当致死者责任','http://news.qq.com/a/20140607/002864.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699932_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('杭州拟立法减轻救人不当致死者责任','http://news.qq.com/a/20140607/002864.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699932_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:86"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news11" href="http://news.qq.com/a/20140606/046690.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18691733_12088/0"></a><em class="f14 l24" bosszone="news11"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/046690.htm">朝媒曝光金正恩穿短袖休闲T恤造型</a></span></span></em><p class="l22">之前金正恩都是穿人民装，这样的造型公开尚属首次。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news11p" href="http://coral.qq.com/1008435931">3254</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news11f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="14">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'朝媒曝光金正恩穿短袖休闲T恤造型','http://news.qq.com/a/20140606/046690.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18691733_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'朝媒曝光金正恩穿短袖休闲T恤造型','http://news.qq.com/a/20140606/046690.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18691733_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('朝媒曝光金正恩穿短袖休闲T恤造型','http://news.qq.com/a/20140606/046690.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18691733_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:85"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news12" href="http://news.qq.com/a/20140607/002400.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699045_12088/0"></a><em class="f14 l24" bosszone="news12"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002400.htm">美国一游客疑因把圣经留在住过酒店被朝鲜扣押</a></span></span></em><p class="l22">外媒称该游客被扣原因可能是把一本圣经留在了住过的酒店里。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news12p" href="http://coral.qq.com/1008451773">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news12f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="15">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'美国一游客疑因把圣经留在住过酒店被朝鲜扣押','http://news.qq.com/a/20140607/002400.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699045_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'美国一游客疑因把圣经留在住过酒店被朝鲜扣押','http://news.qq.com/a/20140607/002400.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699045_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('美国一游客疑因把圣经留在住过酒店被朝鲜扣押','http://news.qq.com/a/20140607/002400.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699045_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:84"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news13" href="http://news.qq.com/a/20140607/002646.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18699022_12088/0"></a><em class="f14 l24" bosszone="news13"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140607/002646.htm">男子性侵女孩后向其发短信：亲爱的做我女朋友吧</a></span></span></em><p class="l22">在网上向受害者诉思念，发送“做我女朋友吧”等暧昧信息。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news13p" href="http://coral.qq.com/1008451798">1</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news13f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="16">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'男子性侵女孩后向其发短信：亲爱的做我女朋友吧','http://news.qq.com/a/20140607/002646.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699022_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'男子性侵女孩后向其发短信：亲爱的做我女朋友吧','http://news.qq.com/a/20140607/002646.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699022_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('男子性侵女孩后向其发短信：亲爱的做我女朋友吧','http://news.qq.com/a/20140607/002646.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18699022_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:83"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news14" href="http://news.qq.com/a/20140606/046006.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18688117_12088/0"></a><em class="f14 l24" bosszone="news14"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/046006.htm">商务部一副处长进夜总会被警告</a></span></span></em><p class="l22">两次接受援外企业请吃，到夜总会娱乐，受党内严重警告处分。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news14p" href="http://coral.qq.com/1008433834">4008</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news14f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="17">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'商务部一副处长进夜总会被警告','http://news.qq.com/a/20140606/046006.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18688117_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'商务部一副处长进夜总会被警告','http://news.qq.com/a/20140606/046006.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18688117_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('商务部一副处长进夜总会被警告','http://news.qq.com/a/20140606/046006.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18688117_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:82"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news15" href="http://news.qq.com/a/20140606/037584.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18678852_12088/0"></a><em class="f14 l24" bosszone="news15"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/037584.htm">四川红会原常务副会长文家碧涉贿被立案侦查</a></span></span></em><p class="l22">中纪委称，文家碧的行为已构成严重违纪，部分问题涉嫌犯罪。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news15p" href="http://coral.qq.com/1008425959">5064</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news15f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="18">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'四川红会原常务副会长文家碧涉贿被立案侦查','http://news.qq.com/a/20140606/037584.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18678852_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'四川红会原常务副会长文家碧涉贿被立案侦查','http://news.qq.com/a/20140606/037584.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18678852_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('四川红会原常务副会长文家碧涉贿被立案侦查','http://news.qq.com/a/20140606/037584.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18678852_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-pList" style="z-index:81">
+<em bosszone="news16"><span><span class="icon_pic"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/046740.htm">印度锡克教徒寺庙内与守卫冲突 6人受伤</a></span></span></em><ul class="l26" bosszone="news16">
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/046740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18689528_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/046740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18689529_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/046740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18689530_207138/0"></a></li>
+</ul>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news16p" href="http://coral.qq.com/1008436038">3909</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news16f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="19">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'印度锡克教徒寺庙内与守卫冲突 6人受伤','http://news.qq.com/a/20140606/046740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18689528_207138/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'印度锡克教徒寺庙内与守卫冲突 6人受伤','http://news.qq.com/a/20140606/046740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18689528_207138/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('印度锡克教徒寺庙内与守卫冲突 6人受伤','http://news.qq.com/a/20140606/046740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18689528_207138/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div>
+<div class="Q-tpList" style="z-index:80"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news17" href="http://news.qq.com/a/20140606/041890.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18685716_12088/0"></a><em class="f14 l24" bosszone="news17"><span><span class="icon_pic"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/041890.htm">四川：大妈高速公路遇堵车 下车跳广场舞</a></span></span></em><p class="l22">阿姨们为打发时间，在车前跳了一曲，把广场舞带到高速路上。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news17p" href="http://coral.qq.com/1008431294">12115</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news17f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="20">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'四川：大妈高速公路遇堵车 下车跳广场舞','http://news.qq.com/a/20140606/041890.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18685716_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'四川：大妈高速公路遇堵车 下车跳广场舞','http://news.qq.com/a/20140606/041890.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18685716_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('四川：大妈高速公路遇堵车 下车跳广场舞','http://news.qq.com/a/20140606/041890.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18685716_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:79"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news18" href="http://news.qq.com/a/20140606/048978.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18693089_12088/0"></a><em class="f14 l24" bosszone="news18"><span><span class="icon_pic"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/048978.htm">第九大菜系食堂菜迎来“西瓜炒肉”</a></span></span></em><p class="l22">6月5日，网友爆料称，中国第九大菜系食堂菜又添新成员，“西瓜炒肉”闪亮登场了，不少网友惊呼食堂黑暗料理。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news18p" href="http://coral.qq.com/1008440881">419</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news18f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="21">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'第九大菜系食堂菜迎来“西瓜炒肉”','http://news.qq.com/a/20140606/048978.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18693089_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'第九大菜系食堂菜迎来“西瓜炒肉”','http://news.qq.com/a/20140606/048978.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18693089_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('第九大菜系食堂菜迎来“西瓜炒肉”','http://news.qq.com/a/20140606/048978.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18693089_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:78"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news19" href="http://news.qq.com/a/20140606/008862.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18647514_12088/0"></a><em class="f14 l24" bosszone="news19"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/008862.htm">美国发表中国军力报告 提及侦察卫星中国航母等</a></span></span></em><p class="l22">与去年相比篇幅缩短，内容涉及军力发展，台海军事形势等。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news19p" href="http://coral.qq.com/1008400536">5721</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news19f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="22">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'美国发表中国军力报告 提及侦察卫星中国航母等','http://news.qq.com/a/20140606/008862.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18647514_12088/0')">QQ空间
 								 </a></li>
@@ -2295,75 +2542,26 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:93"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news4" href="http://news.qq.com/a/20140606/023201.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0"></a><em class="f14 l24" bosszone="news4"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/023201.htm">内蒙古东胜警方抓获15名“门徒会”邪教成员</a></span></span></em><p class="l22">打着“传福音、治百病”幌子，以跳“天堂舞”健身吸引群众。</p>
+<div class="Q-tpList" style="z-index:77"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news20" href="http://news.qq.com/a/20140605/040261.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0"></a><em class="f14 l24" bosszone="news20"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/040261.htm">外交部：越方冲撞中方船只超过1200艘次</a></span></span></em><p class="l22">中方要求越方立即停止一切挑衅行动，并撤走现场所有船只。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news4p" href="http://coral.qq.com/1008415560">0</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news4f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="7">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news20p" href="http://coral.qq.com/1008383458">12891</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news20f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="23">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('外交部：越方冲撞中方船只超过1200艘次','http://news.qq.com/a/20140605/040261.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18621357_12088/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:92"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news5" href="http://news.qq.com/p/topic/20140531003404/index.html"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0"></a><em class="f14 l24" bosszone="news5"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/p/topic/20140531003404/index.html">招远血案嫌犯称母亲是“恶灵之王”：见面就杀</a></span></span></em><p class="l22">招远血案嫌犯张帆向记者交代，自己认为母亲是“恶灵之王”，见面之后就会杀了她。</p>
+<div class="Q-tpList" style="z-index:76"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news21" href="http://news.qq.com/a/20140606/004534.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631930_12088/0"></a><em class="f14 l24" bosszone="news21"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/004534.htm">广东调整866名裸官任职 涉及市厅级9名</a></span></span></em><p class="l22">含市厅级9名，处级134名，科级及以下723名。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news5p" href="http://coral.qq.com/1008397270">63</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news5f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="8">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:91"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news6" href="http://news.qq.com/a/20140606/002437.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0"></a><em class="f14 l24" bosszone="news6"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002437.htm">甘肃村民堵路求修路 工程车突然启动碾死女村民</a></span></span></em><p class="l22">当地工程车辆将村里道路碾压得坑坑洼洼，村民出行受影响。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news6p" href="http://coral.qq.com/1008397439">13053</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news6f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="9">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-pList" style="z-index:90">
-<em bosszone="news7"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/001203.htm">组图：安徽六安万余民众“十里相送”高考考生</a></span></span></em><ul class="l26" bosszone="news7">
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630569_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630570_207138/0"></a></li>
-</ul>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news7p" href="http://coral.qq.com/1008396446">7798</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news7f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="10">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div>
-<div class="Q-tpList" style="z-index:89"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news8" href="http://news.qq.com/a/20140606/004534.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631930_12088/0"></a><em class="f14 l24" bosszone="news8"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/004534.htm">广东调整866名裸官任职 涉及市厅级9名</a></span></span></em><p class="l22">含市厅级9名，处级134名，科级及以下723名。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news8p" href="http://coral.qq.com/1008398216">3189</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news8f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="11">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news21p" href="http://coral.qq.com/1008398216">3659</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news21f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="24">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'广东调整866名裸官任职 涉及市厅级9名','http://news.qq.com/a/20140606/004534.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631930_12088/0')">QQ空间
 								 </a></li>
@@ -2374,11 +2572,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:88"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news9" href="http://news.qq.com/a/20140606/002018.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630654_12088/0"></a><em class="f14 l24" bosszone="news9"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002018.htm">去年以来50余名官员非正常死亡 自杀者超4成</a></span></span></em><p class="l22">据不完全统计，2013年以来共有54名各级官员非正常死亡，其中自杀者占四成</p>
+<div class="Q-tpList" style="z-index:75"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news22" href="http://news.qq.com/a/20140606/002018.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630654_12088/0"></a><em class="f14 l24" bosszone="news22"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002018.htm">去年以来50余名官员非正常死亡 自杀者超4成</a></span></span></em><p class="l22">据不完全统计，2013年以来共有54名各级官员非正常死亡，其中自杀者占四成</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news9p" href="http://coral.qq.com/1008397308">2648</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news9f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="12">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news22p" href="http://coral.qq.com/1008397308">2889</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news22f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="25">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'去年以来50余名官员非正常死亡 自杀者超4成','http://news.qq.com/a/20140606/002018.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630654_12088/0')">QQ空间
 								 </a></li>
@@ -2389,30 +2587,140 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-pList" style="z-index:87">
-<em bosszone="news10"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/000705.htm">组图：青藏高原最大民用机场模拟遭“敌国”轰炸</a></span></span></em><ul class="l26" bosszone="news10">
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/000705.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630571_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/000705.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630572_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/000705.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630573_207138/0"></a></li>
+<div class="Q-pList" style="z-index:74">
+<em bosszone="news23"><span><span class="icon_pic"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/014506.htm">组图：中国又一艘4千吨级海警船交付</a></span></span></em><ul class="l26" bosszone="news23">
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668552_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/014506.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668553_207138/0"></a></li>
 </ul>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news10p" href="http://coral.qq.com/1008396129">3932</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news10f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="13">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news23p" href="http://coral.qq.com/1008405791">5342</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news23f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="26">
 								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：青藏高原最大民用机场模拟遭“敌国”轰炸','http://news.qq.com/a/20140606/000705.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630571_207138/0')">QQ空间
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">QQ空间
 								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：青藏高原最大民用机场模拟遭“敌国”轰炸','http://news.qq.com/a/20140606/000705.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630571_207138/0')">QQ好友
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">QQ好友
 								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：青藏高原最大民用机场模拟遭“敌国”轰炸','http://news.qq.com/a/20140606/000705.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630571_207138/0')">新浪微博
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：中国又一艘4千吨级海警船交付','http://news.qq.com/a/20140606/014506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668551_207138/0')">新浪微博
 								</a></li>
 </ul></div>
 </div>
 </div>
-<div class="Q-tpList" style="z-index:86"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news11" href="http://news.qq.com/a/20140606/000580.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630276_12088/0"></a><em class="f14 l24" bosszone="news11"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/000580.htm">新疆首次发现三维保存翼龙蛋及大量翼龙化石(图)</a></span></span></em><p class="l22">专家称这是翼龙研究“200年来最令人激动的发现之一”。</p>
+<div class="Q-tpList" style="z-index:73"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news24" href="http://news.qq.com/a/20140606/037654.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18679550_12088/0"></a><em class="f14 l24" bosszone="news24"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/037654.htm">广西开审私宰活虎案 团伙承认宰虎十余只</a></span></span></em><p class="l22">今年3月17日，广东湛江警方宣布侦破一起非法猎捕杀害珍贵濒危野生动物大案，抓获广西籍涉案人员多人，现场缴获刚被宰杀的老虎一只、虎制品一批。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news11p" href="http://coral.qq.com/1008395708">1604</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news11f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="14">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news24p" href="http://coral.qq.com/1008426143">8156</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news24f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="27">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'广西开审私宰活虎案 团伙承认宰虎十余只','http://news.qq.com/a/20140606/037654.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18679550_670250/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'广西开审私宰活虎案 团伙承认宰虎十余只','http://news.qq.com/a/20140606/037654.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18679550_670250/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('广西开审私宰活虎案 团伙承认宰虎十余只','http://news.qq.com/a/20140606/037654.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18679550_670250/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:72"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news25" href="http://news.qq.com/a/20140606/023201.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0"></a><em class="f14 l24" bosszone="news25"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/023201.htm">内蒙古东胜警方抓获15名“门徒会”邪教成员</a></span></span></em><p class="l22">打着“传福音、治百病”幌子，以跳“天堂舞”健身吸引群众。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news25p" href="http://coral.qq.com/1008415560">2033</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news25f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="28">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('内蒙古东胜警方抓获15名“门徒会”邪教成员','http://news.qq.com/a/20140606/023201.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18668366_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:71"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news26" href="http://news.qq.com/a/20140606/002437.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0"></a><em class="f14 l24" bosszone="news26"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002437.htm">甘肃村民堵路求修路 工程车突然启动碾死女村民</a></span></span></em><p class="l22">当地工程车辆将村里道路碾压得坑坑洼洼，村民出行受影响。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news26p" href="http://coral.qq.com/1008397439">16961</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news26f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="29">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('甘肃村民堵路求修路 工程车突然启动碾死女村民','http://news.qq.com/a/20140606/002437.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630710_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+</div><div id="moreNews" aria-disabled="true" aria-hidden="true" tabindex="-1">
+<div class="Q-tpList" style="z-index:70"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news27" href="http://news.qq.com/p/topic/20140531003404/index.html"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0"></a><em class="f14 l24" bosszone="news27"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/p/topic/20140531003404/index.html">招远血案嫌犯称母亲是“恶灵之王”：见面就杀</a></span></span></em><p class="l22">招远血案嫌犯张帆向记者交代，自己认为母亲是“恶灵之王”，见面之后就会杀了她。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news27p" href="http://coral.qq.com/1008397270">77</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news27f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="30">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('招远血案嫌犯称母亲是“恶灵之王”：见面就杀','http://news.qq.com/p/topic/20140531003404/index.html','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631144_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:69"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news28" href="http://news.qq.com/a/20140606/049713.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18696259_12088/0"></a><em class="f14 l24" bosszone="news28"><span><span class="icon_video"><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/049713.htm">诺曼底登陆70周年纪念 奥巴马与普京会面</a></span></span></em><p class="l22">奥朗德办公室证实，奥巴马和普京二人在法国参加诺曼底登陆70周年纪念活动期间，进行了“非正式”会面，持续10到15分钟。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news28p" href="http://coral.qq.com/1008442766">15</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news28f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="31">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'诺曼底登陆70周年纪念 奥巴马与普京会面','http://news.qq.com/a/20140606/049713.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18696259_670250/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'诺曼底登陆70周年纪念 奥巴马与普京会面','http://news.qq.com/a/20140606/049713.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18696259_670250/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('诺曼底登陆70周年纪念 奥巴马与普京会面','http://news.qq.com/a/20140606/049713.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18696259_670250/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-tpList" style="z-index:68"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news29" href="http://news.qq.com/a/20140606/004378.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0"></a><em class="f14 l24" bosszone="news29"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/004378.htm">人大副教授曝自招腐败：有学生仅考十几分</a></span></span></em><p class="l22">人大副教授批评自主招生：过去几届有学生考试得十来分，原因在这里（自主招生）。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news29p" href="http://coral.qq.com/1008398129">2600</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news29f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="32">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'人大副教授曝自招腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'人大副教授曝自招腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('人大副教授曝自招腐败：有学生仅考十几分','http://news.qq.com/a/20140606/004378.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18632495_12088/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div></div>
+<div class="Q-pList" style="z-index:67">
+<em bosszone="news30"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/001203.htm">组图：安徽六安万余民众“十里相送”高考考生</a></span></span></em><ul class="l26" bosszone="news30">
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630569_207138/0"></a></li>
+<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140606/001203.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630570_207138/0"></a></li>
+</ul>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news30p" href="http://coral.qq.com/1008396446">9109</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news30f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="33">
+								腾讯微博</a></li>
+<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">QQ空间
+								 </a></li>
+<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">QQ好友
+								</a></li>
+<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：安徽六安万余民众“十里相送”高考考生','http://news.qq.com/a/20140606/001203.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630568_207138/0')">新浪微博
+								</a></li>
+</ul></div>
+</div>
+</div>
+<div class="Q-tpList" style="z-index:66"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news31" href="http://news.qq.com/a/20140606/000580.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630276_12088/0"></a><em class="f14 l24" bosszone="news31"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/000580.htm">新疆首次发现三维保存翼龙蛋及大量翼龙化石(图)</a></span></span></em><p class="l22">专家称这是翼龙研究“200年来最令人激动的发现之一”。</p>
+<div class="btns">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news31p" href="http://coral.qq.com/1008395708">1938</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news31f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="34">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'新疆首次发现三维保存翼龙蛋及大量翼龙化石(图)','http://news.qq.com/a/20140606/000580.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630276_12088/0')">QQ空间
 								 </a></li>
@@ -2423,11 +2731,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:85"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news12" href="http://news.qq.com/a/20140606/001800.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630707_12088/0"></a><em class="f14 l24" bosszone="news12"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/001800.htm">英国女王赴法国纪念诺曼底登陆70周年</a></span></span></em><p class="l22">英女王伊丽莎白二世将携多名王室成员赴法国访问，纪念诺曼底登陆70周年。</p>
+<div class="Q-tpList" style="z-index:65"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news32" href="http://news.qq.com/a/20140606/001800.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630707_12088/0"></a><em class="f14 l24" bosszone="news32"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/001800.htm">英国女王赴法国纪念诺曼底登陆70周年</a></span></span></em><p class="l22">英女王伊丽莎白二世将携多名王室成员赴法国访问，纪念诺曼底登陆70周年。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news12p" href="http://coral.qq.com/1008397078">101</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news12f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="15">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news32p" href="http://coral.qq.com/1008397078">147</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news32f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="35">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'英国女王赴法国纪念诺曼底登陆70周年','http://news.qq.com/a/20140606/001800.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630707_12088/0')">QQ空间
 								 </a></li>
@@ -2438,11 +2746,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:84"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news13" href="http://news.qq.com/a/20140606/002222.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630786_12088/0"></a><em class="f14 l24" bosszone="news13"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002222.htm">湖北明确规定纪委书记党委排位仅次于副书记</a></span></span></em><p class="l22">湖北省委明确规定纪委书记在党委中的排位，不论资历先后，都排在副书记之后、其他常委之前。</p>
+<div class="Q-tpList" style="z-index:64"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news33" href="http://news.qq.com/a/20140606/002222.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630786_12088/0"></a><em class="f14 l24" bosszone="news33"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002222.htm">湖北明确规定纪委书记党委排位仅次于副书记</a></span></span></em><p class="l22">湖北省委明确规定纪委书记在党委中的排位，不论资历先后，都排在副书记之后、其他常委之前。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news13p" href="http://coral.qq.com/1008397416">54</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news13f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="16">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news33p" href="http://coral.qq.com/1008397416">102</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news33f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="36">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'湖北明确规定纪委书记党委排位仅次于副书记','http://news.qq.com/a/20140606/002222.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630786_12088/0')">QQ空间
 								 </a></li>
@@ -2453,11 +2761,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:83"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news14" href="http://news.qq.com/a/20140606/002463.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631477_12088/0"></a><em class="f14 l24" bosszone="news14"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002463.htm">普京回应希拉里“希特勒”指责：别和女人争吵</a></span></span></em><p class="l22">普京回应希拉里称其为”希特勒“的指责，称”你最好别和女人争吵“</p>
+<div class="Q-tpList" style="z-index:63"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news34" href="http://news.qq.com/a/20140606/002463.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631477_12088/0"></a><em class="f14 l24" bosszone="news34"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002463.htm">普京回应希拉里“希特勒”指责：别和女人争吵</a></span></span></em><p class="l22">普京回应希拉里称其为”希特勒“的指责，称”你最好别和女人争吵“</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news14p" href="http://coral.qq.com/1008397502">151</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news14f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="17">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news34p" href="http://coral.qq.com/1008397502">266</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news34f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="37">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'普京回应希拉里“希特勒”指责：别和女人争吵','http://news.qq.com/a/20140606/002463.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631477_12088/0')">QQ空间
 								 </a></li>
@@ -2468,11 +2776,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:82"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news15" href="http://news.qq.com/a/20140606/002481.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631226_12088/0"></a><em class="f14 l24" bosszone="news15"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002481.htm">奥巴马酒店健身被民众偷拍 特勤局称无需清场</a></span></span></em><p class="l22">酒店健身房并没有被“清场”；特勤局否认存在安全漏洞。</p>
+<div class="Q-tpList" style="z-index:62"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news35" href="http://news.qq.com/a/20140606/002481.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631226_12088/0"></a><em class="f14 l24" bosszone="news35"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002481.htm">奥巴马酒店健身被民众偷拍 特勤局称无需清场</a></span></span></em><p class="l22">酒店健身房并没有被“清场”；特勤局否认存在安全漏洞。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news15p" href="http://coral.qq.com/1008397528">571</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news15f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="18">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news35p" href="http://coral.qq.com/1008397528">711</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news35f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="38">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'奥巴马酒店健身被民众偷拍 特勤局称无需清场','http://news.qq.com/a/20140606/002481.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631226_12088/0')">QQ空间
 								 </a></li>
@@ -2483,11 +2791,11 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:81"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news16" href="http://news.qq.com/a/20140606/002757.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631201_12088/0"></a><em class="f14 l24" bosszone="news16"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002757.htm">富二代学姐打工匿名资助学弟学妹 称不想靠父母</a></span></span></em><p class="l22">蒋熠华说，那些家庭经济窘迫，但有着自己梦想的同学深深打动了她。</p>
+<div class="Q-tpList" style="z-index:61"><div class="Q-tpWrap">
+<a target="_blank" class="pic" bosszone="news36" href="http://news.qq.com/a/20140606/002757.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631201_12088/0"></a><em class="f14 l24" bosszone="news36"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002757.htm">富二代学姐打工匿名资助学弟学妹 称不想靠父母</a></span></span></em><p class="l22">蒋熠华说，那些家庭经济窘迫，但有着自己梦想的同学深深打动了她。</p>
 <div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news16p" href="http://coral.qq.com/1008397631">406</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news16f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="19">
+<a class="discuzBtn" title="评论数" target="_blank" bosszone="news36p" href="http://coral.qq.com/1008397631">519</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news36f"><ul class="shareBtn16" id="shares">
+<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="39">
 								腾讯微博</a></li>
 <li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'富二代学姐打工匿名资助学弟学妹 称不想靠父母','http://news.qq.com/a/20140606/002757.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631201_12088/0')">QQ空间
 								 </a></li>
@@ -2498,317 +2806,8 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 </ul></div>
 </div>
 </div></div>
-<div class="Q-tpList" style="z-index:80"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news17" href="http://news.qq.com/a/20140606/001860.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630680_12088/0"></a><em class="f14 l24" bosszone="news17"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/001860.htm">父母“断供”逼孩子自食其力 儿女没钱入室抢劫</a></span></span></em><p class="l22">励某和余某的父母对两个孩子实施了“断供”，希望其自食其力，不料孩子却走上入室抢劫的路</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news17p" href="http://coral.qq.com/1008397242">213</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news17f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="20">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'父母“断供”逼孩子自食其力 儿女没钱入室抢劫','http://news.qq.com/a/20140606/001860.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630680_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'父母“断供”逼孩子自食其力 儿女没钱入室抢劫','http://news.qq.com/a/20140606/001860.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630680_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('父母“断供”逼孩子自食其力 儿女没钱入室抢劫','http://news.qq.com/a/20140606/001860.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630680_12088/0')">新浪微博
-								</a></li>
-</ul></div>
 </div>
-</div></div>
-<div class="Q-tpList" style="z-index:79"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news18" href="http://news.qq.com/a/20140606/005662.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631935_12088/0"></a><em class="f14 l24" bosszone="news18"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/005662.htm">烧烤店起名“虾鸡叭烤” 被城管摘匾</a></span></span></em><p class="l22">城管局对“虾鸡叭烤”烧烤店作出当场拆除牌匾，立即停业整改的处罚决定。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news18p" href="http://coral.qq.com/1008398535">105</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news18f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="21">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'烧烤店起名“虾鸡叭烤” 被城管摘匾','http://news.qq.com/a/20140606/005662.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631935_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'烧烤店起名“虾鸡叭烤” 被城管摘匾','http://news.qq.com/a/20140606/005662.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631935_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('烧烤店起名“虾鸡叭烤” 被城管摘匾','http://news.qq.com/a/20140606/005662.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631935_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:78"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news19" href="http://news.qq.com/a/20140606/003638.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631365_12088/0"></a><em class="f14 l24" bosszone="news19"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003638.htm">中纪委官网漫画揭6类机关病：拉帮结派抱大腿</a></span></span></em><p class="l22">中央纪委监察部网站推出系列漫画，借网友之笔揭发6类机关病。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news19p" href="http://coral.qq.com/1008398020">30</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news19f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="22">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'中纪委官网漫画揭6类机关病：拉帮结派抱大腿','http://news.qq.com/a/20140606/003638.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631365_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'中纪委官网漫画揭6类机关病：拉帮结派抱大腿','http://news.qq.com/a/20140606/003638.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631365_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('中纪委官网漫画揭6类机关病：拉帮结派抱大腿','http://news.qq.com/a/20140606/003638.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631365_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:77"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news20" href="http://news.qq.com/a/20140606/002031.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18630770_12088/0"></a><em class="f14 l24" bosszone="news20"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002031.htm">国家文物局回应让记者“滚”：严肃处理责任人</a></span></span></em><p class="l22">4日，北京环境监察总队突击检查国家文物局食堂被拦在门外。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news20p" href="http://coral.qq.com/1008397319">992</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news20f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="23">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'国家文物局回应让记者“滚”：严肃处理责任人','http://news.qq.com/a/20140606/002031.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630770_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'国家文物局回应让记者“滚”：严肃处理责任人','http://news.qq.com/a/20140606/002031.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630770_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('国家文物局回应让记者“滚”：严肃处理责任人','http://news.qq.com/a/20140606/002031.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18630770_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:76"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news21" href="http://news.qq.com/a/20140606/004506.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631692_12088/0"></a><em class="f14 l24" bosszone="news21"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/004506.htm">哈佛大学图书馆证实发现首本人皮封面书籍</a></span></span></em><p class="l22">哈佛大学证实，该校图书馆收藏的一本十九世纪的书的封面是由人类皮肤制成。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news21p" href="http://coral.qq.com/1008398192">314</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news21f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="24">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'哈佛大学图书馆证实发现首本人皮封面书籍','http://news.qq.com/a/20140606/004506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631692_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'哈佛大学图书馆证实发现首本人皮封面书籍','http://news.qq.com/a/20140606/004506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631692_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('哈佛大学图书馆证实发现首本人皮封面书籍','http://news.qq.com/a/20140606/004506.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631692_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:75"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news22" href="http://news.qq.com/a/20140606/002008.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631350_12088/0"></a><em class="f14 l24" bosszone="news22"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002008.htm">加拿大推出新法案：禁止“买春”不禁“卖春”</a></span></span></em><p class="l22">就性交易问题，加拿大政府4日推出法案，准备禁止“买春”而不禁“卖春”。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news22p" href="http://coral.qq.com/1008397312">58</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news22f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="25">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'加拿大推出新法案：禁止“买春”不禁“卖春”','http://news.qq.com/a/20140606/002008.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631350_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'加拿大推出新法案：禁止“买春”不禁“卖春”','http://news.qq.com/a/20140606/002008.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631350_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('加拿大推出新法案：禁止“买春”不禁“卖春”','http://news.qq.com/a/20140606/002008.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631350_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:74"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news23" href="http://news.qq.com/a/20140606/002740.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631232_12088/0"></a><em class="f14 l24" bosszone="news23"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/002740.htm">毒贩与警方对峙手枪卡壳 撕咬民警仍被制服</a></span></span></em><p class="l22">三名毒贩持枪拒捕，开到第二枪时手枪卡壳，最终被捕。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news23p" href="http://coral.qq.com/1008397596">586</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news23f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="26">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'毒贩与警方对峙手枪卡壳 撕咬民警仍被制服','http://news.qq.com/a/20140606/002740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631232_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'毒贩与警方对峙手枪卡壳 撕咬民警仍被制服','http://news.qq.com/a/20140606/002740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631232_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('毒贩与警方对峙手枪卡壳 撕咬民警仍被制服','http://news.qq.com/a/20140606/002740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631232_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:73"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news24" href="http://news.qq.com/a/20140606/005710.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18638235_12088/0"></a><em class="f14 l24" bosszone="news24"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/005710.htm">北京气象局：预计今天9时到傍晚将有中到大雨</a></span></span></em><p class="l22">今天9时到傍晚本市将出现中到大雨，局地暴雨，并伴有雷电大风。请广大市民做好防范，确保安全。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news24p" href="http://coral.qq.com/1008398619">400</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news24f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="27">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'北京气象局：预计今天9时到傍晚将有中到大雨','http://news.qq.com/a/20140606/005710.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18638235_670250/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'北京气象局：预计今天9时到傍晚将有中到大雨','http://news.qq.com/a/20140606/005710.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18638235_670250/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('北京气象局：预计今天9时到傍晚将有中到大雨','http://news.qq.com/a/20140606/005710.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18638235_670250/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:72"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news25" href="http://news.qq.com/a/20140606/003540.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631303_12088/0"></a><em class="f14 l24" bosszone="news25"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003540.htm">小伙结婚前2日喝醉酒 将21岁女孩拖入婚房强奸</a></span></span></em><p class="l22">喝了酒的高某在电梯里拽住一名陌生女孩，强行拉到自己婚房内强奸。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news25p" href="http://coral.qq.com/1008397883">1069</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news25f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="28">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'小伙结婚前2日喝醉酒 将21岁女孩拖入婚房强奸','http://news.qq.com/a/20140606/003540.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631303_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'小伙结婚前2日喝醉酒 将21岁女孩拖入婚房强奸','http://news.qq.com/a/20140606/003540.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631303_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('小伙结婚前2日喝醉酒 将21岁女孩拖入婚房强奸','http://news.qq.com/a/20140606/003540.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631303_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:71"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news26" href="http://news.qq.com/a/20140606/003581.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631414_12088/0"></a><em class="f14 l24" bosszone="news26"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003581.htm">泰军方欲摧毁他信支持基础：13个府长官被调职</a></span></span></em><p class="l22">路透社称，泰国军方力图摧毁前总理他信的全部支持基础，确保其永远不能东山再起。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news26p" href="http://coral.qq.com/1008397941">12</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news26f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="29">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'泰军方欲摧毁他信支持基础：13个府长官被调职','http://news.qq.com/a/20140606/003581.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631414_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'泰军方欲摧毁他信支持基础：13个府长官被调职','http://news.qq.com/a/20140606/003581.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631414_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('泰军方欲摧毁他信支持基础：13个府长官被调职','http://news.qq.com/a/20140606/003581.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631414_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-</div><div id="moreNews" aria-disabled="true" aria-hidden="true" tabindex="-1">
-<div class="Q-tpList" style="z-index:70"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news27" href="http://news.qq.com/a/20140606/003608.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631328_12088/0"></a><em class="f14 l24" bosszone="news27"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003608.htm">90后大学生研发丁字裤避孕套获200万元投资</a></span></span></em><p class="l22">几名南方医科大学生研发的丁字裤形避孕套获得了广东某公司的200万元投资</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news27p" href="http://coral.qq.com/1008397980">854</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news27f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="30">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'90后大学生研发丁字裤避孕套获200万元投资','http://news.qq.com/a/20140606/003608.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631328_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'90后大学生研发丁字裤避孕套获200万元投资','http://news.qq.com/a/20140606/003608.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631328_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('90后大学生研发丁字裤避孕套获200万元投资','http://news.qq.com/a/20140606/003608.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631328_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:69"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news28" href="http://news.qq.com/a/20140606/003489.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631553_12088/0"></a><em class="f14 l24" bosszone="news28"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003489.htm">日本兴奋G7声明谈东海 外界强调没有指名道姓</a></span></span></em><p class="l22">日本媒体为G7声明提及东海欢呼，国际舆论场对此反应冷淡</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news28p" href="http://coral.qq.com/1008397835">40</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news28f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="31">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'日本兴奋G7声明谈东海 外界强调没有指名道姓','http://news.qq.com/a/20140606/003489.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631553_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'日本兴奋G7声明谈东海 外界强调没有指名道姓','http://news.qq.com/a/20140606/003489.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631553_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('日本兴奋G7声明谈东海 外界强调没有指名道姓','http://news.qq.com/a/20140606/003489.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631553_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-pList" style="z-index:68">
-<em bosszone="news29"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/016740.htm">组图：诺曼底登陆70周年 今昔对比照片</a></span></span></em><ul class="l26" bosszone="news29">
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/016740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18623858_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/016740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18623859_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/016740.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18623860_207138/0"></a></li>
-</ul>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news29p" href="http://coral.qq.com/1008357802">7856</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news29f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="32">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'组图：诺曼底登陆70周年 今昔对比照片','http://news.qq.com/a/20140605/016740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623858_207138/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'组图：诺曼底登陆70周年 今昔对比照片','http://news.qq.com/a/20140605/016740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623858_207138/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('组图：诺曼底登陆70周年 今昔对比照片','http://news.qq.com/a/20140605/016740.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623858_207138/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div>
-<div class="Q-tpList" style="z-index:67"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news30" href="http://news.qq.com/a/20140606/003601.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18631304_12088/0"></a><em class="f14 l24" bosszone="news30"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140606/003601.htm">摩的司机迷恋玻璃破碎声：砸数十辆车拍摄欣赏</a></span></span></em><p class="l22">摩的司机因汽车玻璃破碎声，用弹珠击毁数十辆车被捕。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news30p" href="http://coral.qq.com/1008397964">403</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news30f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="33">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'摩的司机迷恋玻璃破碎声：砸数十辆车拍摄欣赏','http://news.qq.com/a/20140606/003601.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631304_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'摩的司机迷恋玻璃破碎声：砸数十辆车拍摄欣赏','http://news.qq.com/a/20140606/003601.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631304_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('摩的司机迷恋玻璃破碎声：砸数十辆车拍摄欣赏','http://news.qq.com/a/20140606/003601.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18631304_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:66"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news31" href="http://news.qq.com/a/20140605/030172.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18614843_12088/0"></a><em class="f14 l24" bosszone="news31"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/030172.htm">曝北京一无牌奥迪车撞飞交警 武警赶去处理(图)</a></span></span></em><p class="l22">交警被撞出10米开外，趴在地上，大量武警赶到现场处理。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news31p" href="http://coral.qq.com/1008371383">4766</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news31f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="34">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'曝北京一无牌奥迪车撞飞交警 武警赶去处理(图)','http://news.qq.com/a/20140605/030172.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18614843_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'曝北京一无牌奥迪车撞飞交警 武警赶去处理(图)','http://news.qq.com/a/20140605/030172.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18614843_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('曝北京一无牌奥迪车撞飞交警 武警赶去处理(图)','http://news.qq.com/a/20140605/030172.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18614843_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:65"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news32" href="http://news.qq.com/a/20140605/041797.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18623606_12088/0"></a><em class="f14 l24" bosszone="news32"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/041797.htm">媒体：北京地铁国贸站无事 有人高呼打架引紧张</a></span></span></em><p class="l22">国贸地铁站正值晚高峰，有人呼喊"打架了"，引起乘客混乱。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news32p" href="http://coral.qq.com/1008386588">4524</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news32f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="35">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'媒体：北京地铁国贸站无事 有人高呼打架引紧张','http://news.qq.com/a/20140605/041797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623606_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'媒体：北京地铁国贸站无事 有人高呼打架引紧张','http://news.qq.com/a/20140605/041797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623606_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('媒体：北京地铁国贸站无事 有人高呼打架引紧张','http://news.qq.com/a/20140605/041797.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18623606_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:64"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news33" href="http://news.qq.com/a/20140605/031704.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18609443_12088/0"></a><em class="f14 l24" bosszone="news33"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/031704.htm">中国出口信用保险公司原副总经理被开除党籍</a></span></span></em><p class="l22">原副总经理戴春宁因伙同他人贪污巨额公款等，被开除党籍。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news33p" href="http://coral.qq.com/1008374001">8914</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news33f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="36">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'中国出口信用保险公司原副总经理被开除党籍','http://news.qq.com/a/20140605/031704.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18609443_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'中国出口信用保险公司原副总经理被开除党籍','http://news.qq.com/a/20140605/031704.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18609443_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('中国出口信用保险公司原副总经理被开除党籍','http://news.qq.com/a/20140605/031704.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18609443_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-pList" style="z-index:63">
-<em bosszone="news34"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/041758.htm">高清：武汉高校拍摄4500人毕业大合照</a></span></span></em><ul class="l26" bosszone="news34">
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/041758.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18626686_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/041758.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18626687_207138/0"></a></li>
-<li class="pic"><a target="_blank" href="http://news.qq.com/a/20140605/041758.htm"><img src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18626688_207138/0"></a></li>
-</ul>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news34p" href="http://coral.qq.com/1008386354">5593</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news34f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="37">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'高清：武汉高校拍摄4500人毕业大合照','http://news.qq.com/a/20140605/041758.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18626686_207138/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'高清：武汉高校拍摄4500人毕业大合照','http://news.qq.com/a/20140605/041758.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18626686_207138/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('高清：武汉高校拍摄4500人毕业大合照','http://news.qq.com/a/20140605/041758.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18626686_207138/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div>
-<div class="Q-tpList" style="z-index:62"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news35" href="http://news.qq.com/a/20140605/025686.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18601077_12088/0"></a><em class="f14 l24" bosszone="news35"><span><span class=""><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/025686.htm">中纪委原书记贺国强考察贵阳孔学堂(组图)</a></span></span></em><p class="l22">参观礼仪广场等，观看学生们展示中华礼仪和书画技艺。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news35p" href="http://coral.qq.com/1008365748">229</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news35f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="38">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'中纪委原书记贺国强考察贵阳孔学堂(组图)','http://news.qq.com/a/20140605/025686.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18601077_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'中纪委原书记贺国强考察贵阳孔学堂(组图)','http://news.qq.com/a/20140605/025686.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18601077_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('中纪委原书记贺国强考察贵阳孔学堂(组图)','http://news.qq.com/a/20140605/025686.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18601077_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-<div class="Q-tpList" style="z-index:61"><div class="Q-tpWrap">
-<a target="_blank" class="pic" bosszone="news36" href="http://news.qq.com/a/20140605/008361.htm"><img class="picto" src="http://pnewsapp.tc.qq.com/newsapp_ls/0/18574861_12088/0"></a><em class="f14 l24" bosszone="news36"><span><span><a target="_blank" class="linkto" href="http://news.qq.com/a/20140605/008361.htm">高考命题揭秘：老师在与世隔绝的山里出题</a></span></span></em><p class="l22">命题的地点外有警戒线和电网，老师们在摄像头监控下出题。</p>
-<div class="btns">
-<a class="discuzBtn" title="评论数" target="_blank" bosszone="news36p" href="http://coral.qq.com/1008349404">2121</a><div class="shareBtn" role="button" tabindex="0" aria-haspopup="true" aria-pressed="false" aria-label="分享" bosszone="news36f"><ul class="shareBtn16" id="shares">
-<li class="shareButton" id="share2wb"><a href="javascript:void(0)" class="s_weibo" id="39">
-								腾讯微博</a></li>
-<li class="shareButton" id="share2qzone"><a href="javascript:void(0)" class="s_qzone" onclick="share2qzone.showPopup(this,'高考命题揭秘：老师在与世隔绝的山里出题','http://news.qq.com/a/20140605/008361.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18574861_12088/0')">QQ空间
-								 </a></li>
-<li class="shareButton" id="share2qq"><a href="javascript:void(0)" class="s_qq" onclick="share2qq.showPopup(this,'高考命题揭秘：老师在与世隔绝的山里出题','http://news.qq.com/a/20140605/008361.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18574861_12088/0')">QQ好友
-								</a></li>
-<li id="share2sina" class="shareButton"><a href="javascript:void(0)" class="s_sina" onclick="share2sina('高考命题揭秘：老师在与世隔绝的山里出题','http://news.qq.com/a/20140605/008361.htm','http://pnewsapp.tc.qq.com/newsapp_ls/0/18574861_12088/0')">新浪微博
-								</a></li>
-</ul></div>
-</div>
-</div></div>
-</div>
-<!--[if !IE]>|xGv00|06c96e0b5a8b7a58a3548515580cbd15<![endif]-->
+<!--[if !IE]>|xGv00|e178f5a3eb12b809589a19e8cbd9196e<![endif]-->
 <span id="moreNewsBtn" role="button" aria-pressed="false" aria-expanded="false" aria-controls="moreNews" tabindex="0" bosszone="moreten" class="moreNewsBtn"><span>再显示10条新闻</span></span>
 </div>
  <div id="mainTabPanel1" tabindex="0" bosszone="" style="display:none">
@@ -2834,44 +2833,44 @@ else if(typeof(pgvMain) == 'function'){if(typeof(whatCatalog) != 'undefined'){pv
 			</div>
 			<div class="bd bd1">
 <div class="focusPic" bosszone="sp1">				
-<a href="http://v.qq.com/news/?tag=hot&vid=q00140w3q23" target="_blank">
-						<img src="http://img1.gtimg.com/news/pics/hv1/58/17/1617/105149818.jpg" /><span class="vIcon"></span></a>
-<p><a href="http://v.qq.com/news/?tag=hot&vid=q00140w3q23" target="_blank">英战机空中画心形纪念诺曼底登陆</a></p>
+<a href="http://v.qq.com/cover/w/wjfmpt7mxgcub9i.html?vid=y0130smoqrg" target="_blank">
+						<img src="http://img1.gtimg.com/news/pics/hv1/229/89/1618/105233374.jpg" /><span class="vIcon"></span></a>
+<p><a href="http://v.qq.com/cover/w/wjfmpt7mxgcub9i.html?vid=y0130smoqrg" target="_blank">奥普隔空“会面”引全场大笑</a></p>
 </div>
 					<!---->
 					<div class="Q-pList">
 						<ul class="l27">
                                                                      
 
-	<li bosszone="sp1"><a href="http://v.qq.com/cover/v/vqs4hm7z8w5ipgt.html?vid=d00148ufk4o" target="_blank"><img
-src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/v/vqs4hm7z8w5ipgt.html?vid=d00148ufk4o" target="_blank">美舰载机涂刷旭日旗</a></p>
+	<li bosszone="sp1"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=c0130komhf3" target="_blank"><img
+src="http://img1.gtimg.com/news/pics/hv1/106/90/1618/105233506.jpg"/><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=c0130komhf3" target="_blank">女童熟睡中被家人抛弃</a></p>
 							</li>
 
-						<li bosszone="sp2"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=p0014wt2ern" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/195/33/1617/105154035.jpg" /><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=p0014wt2ern" target="_blank">警察砸窗抓捕持枪毒贩</a></p>
+						<li bosszone="sp2"><a href="http://v.qq.com/cover/w/wjfmpt7mxgcub9i.html?vid=u0014lh0u56" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/111/99/1618/105235806.jpg" /><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/cover/w/wjfmpt7mxgcub9i.html?vid=u0014lh0u56" target="_blank">美游客遗落圣经遭扣押</a></p>
 							</li>
 
-                                                                                        <li bosszone="sp3"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=k0014qjin6z" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/198/33/1617/105154038.jpg" /><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=k0014qjin6z" target="_blank">醉酒男假扮协警搭便车</a></p>
+                                                                                        <li bosszone="sp3"><a href="http://v.qq.com/news/?tag=hot&vid=u0014koh32n" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/45/90/1618/105233445.jpg" /><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/news/?tag=hot&vid=u0014koh32n" target="_blank">4500人拍霸气毕业照</a></p>
                                                                                           </li>
 
 
                                       
-                                                                                 <li bosszone="sp4"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=u0014b00ujl" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/203/33/1617/105154043.jpg" /><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=u0014b00ujl" target="_blank">山体滑坡压垮在建食堂</a></p>
+                                                                                 <li bosszone="sp4"><a href="http://v.qq.com/cover/a/aliueanxn60d2gz.html?vid=b0014t2ky05" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/145/99/1618/105235840.jpg" /><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/cover/a/aliueanxn60d2gz.html?vid=b0014t2ky05" target="_blank">意修女夺歌唱选秀冠军</a></p>
 						</li>
 
-                                                                                        <li bosszone="sp5"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=s001450c14i"  target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/209/33/1617/105154049.jpg" /><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=s001450c14i" target="_blank">司机撞飞行人下跪求饶</a></p>
+                                                                                        <li bosszone="sp5"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=v00144vdk8u"  target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/189/99/1618/105235884.jpg" /><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=v00144vdk8u" target="_blank">12岁女孩捅同学19刀</a></p>
 							</li>
 
 
-							<li bosszone="sp6"><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=n0014dl4ooj"  target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/215/33/1617/105154055.jpg" /><span class="vIcon"></span></a>
-								<p><a href="http://v.qq.com/cover/p/pwoo1e8tk51kyr9.html?vid=n0014dl4ooj" target="_blank">蟊贼留字条笑翻记者</a></p>							</li>																			</ul>
+							<li bosszone="sp6"><a href="http://v.qq.com/cover/a/aliueanxn60d2gz.html?vid=k00144sxxuy"  target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/44/99/1618/105235739.jpg" /><span class="vIcon"></span></a>
+								<p><a href="http://v.qq.com/cover/a/aliueanxn60d2gz.html?vid=k00144sxxuy" target="_blank">奇葩男穿短裙丝袜逛街</a></p>							</li>																			</ul>
 					</div>
 			</div>
-		</div><!--[if !IE]>|xGv00|3785675a6ce7bb90bf113bb5c5e21164<![endif]-->
+		</div><!--[if !IE]>|xGv00|83ae7e37fd528bd0af0ca014422e415e<![endif]-->
 		<div id="junshi">
 			<div class="hd hd1" bosszone="mil">
 				<h2><a href="http://mil.qq.com/mil_index.htm" target="_blank">军事</a></h2>
@@ -2880,54 +2879,54 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 			<div class="bd bd1">
 				<div class="contentMain" bosszone="milnews">
 					<div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/011912.htm">泰军变身文工团 办派对安抚民众</a></h2>
-<p class="l23">泰军现在在曼谷市内多处举办“快乐”活动，目的是安抚民众。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/006090.htm">东风15夜色中起竖 导弹密如枪林</a></h2>
+<p class="l23">美军出台的中国军力报告称二炮拥有超过1000枚短程导弹。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/034213.htm">歼20整体进度或落后俄T-50</a></h2>
-<p class="l23">歼20航电测试机曝光，T-50完成航电测试进入武器测试。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/004789.htm">美军报告密切关注中国东风41</a></h2>
+<p class="l23">美军还称中国二炮有上千枚导弹，中程弹道导弹的杀伤力增大。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/033485.htm">解放军:美发军力报告渲染威胁</a></h2>
-<p class="l23">美国对中国正常的国防建设妄加指责，渲染“中国军事威胁”。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/004647.htm">中方回应南沙扩岛：与菲无关</a></h2>
+<p class="l23">中国对南沙群岛有无可争辩的主权，在岛礁上的行动与菲无关。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/028629.htm">海军一架飞机夜训时坠毁</a></h2>
-<p class="l23">在进行夜间高难度战术课目训练时失事，坠毁于义乌附近山区。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/007836.htm">大校:坦克奔袭200公里应叫好</a></h2>
+<p class="l23">表面看2天走200公里很慢实际是实战条件下，与美军相当。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/021521.htm">中国售巴国歼10B有望成功</a></h2>
-<p class="l23">俄将放宽对巴基斯坦的武器政策，中巴歼10军售有望成功。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/006431.htm">俄高官:中俄可建最强导航系统</a></h2>
+<p class="l23">中俄全球导航系统未来可成为其他导航系统的最强竞争对手。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/021587.htm">英专家：日应就东海起诉中国</a></h2>
-<p class="l23">英国专家称日本就东海问题起诉中国对日本有很多好处。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/004555.htm">东海舰队坠毁战机疑为&quot;飞豹&quot;</a></h2>
+<p class="l23">疑似军方出动直升机进行搜索，同时坠机地点附近的道路封锁。</p>
 </div>
 <div class="Q-hot last">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/011579.htm">中将：网友看的都是8年前技术</a></h2>
-<p class="l23">中国可用导弹非对称打击美航母，曝光的武器都是数年前技术。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/004898.htm">美称中国去年实际军费9千亿</a></h2>
+<p class="l23">称中国军力持续增强，具备向近海以外的地方投射军力的能力。</p>
 </div>
-<!--[if !IE]>|xGv00|2d9bf503799211614356cc08ad10cf0e<![endif]-->				</div>
+<!--[if !IE]>|xGv00|c2e129c016a92763a935e81afc2b41f2<![endif]-->				</div>
 <div class="contentSub">
 <div class="focusPic">
 <a target="_blank" bosszone="milpic" href="http://news.qq.com/a/20140603/035070.htm"><img src="http://img1.gtimg.com/news/pics/hv1/178/217/1614/105005863.jpg"></a><p><a target="_blank" bosszone="milpic" href="http://news.qq.com/a/20140603/035070.htm">讲武堂：韩国反导或成中美争夺焦点</a></p>
 </div>
 <div class="Q-pList" bosszone="milpic1"><ul class="l27">
 <li>
+<a target="_blank" href="http://mil.qq.com//a/20140607/005050.htm"><img src="http://img1.gtimg.com/news/pics/hv1/116/70/1618/105228416_small2.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140607/005050.htm">中国重型海警船交付</a></p>
+</li>
+<li>
+<a target="_blank" href="http://mil.qq.com//a/20140606/032599.htm"><img src="http://img1.gtimg.com/news/pics/hv1/120/69/1618/105228165_small2.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140606/032599.htm">台风纪念诺曼底登陆</a></p>
+</li>
+<li>
 <a target="_blank" href="http://mil.qq.com//a/20140606/009084.htm"><img src="http://img1.gtimg.com/news/pics/hv1/124/82/1617/105166459.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140606/009084.htm">空降兵练人车协同进攻</a></p>
 </li>
 <li>
 <a target="_blank" href="http://mil.qq.com//a/20140606/019064.htm"><img src="http://img1.gtimg.com/news/pics/hv1/116/82/1617/105166451.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140606/019064.htm">二炮巡航导弹多次试射</a></p>
 </li>
-<li>
-<a target="_blank" href="http://mil.qq.com//a/20140606/011912.htm"><img src="http://img1.gtimg.com/news/pics/hv1/123/82/1617/105166458.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140606/011912.htm">泰军都快变成文工团了</a></p>
-</li>
-<li>
-<a target="_blank" href="http://mil.qq.com//a/20140606/020467.htm"><img src="http://img1.gtimg.com/news/pics/hv1/122/82/1617/105166457.jpg"></a><p><a target="_blank" href="http://mil.qq.com//a/20140606/020467.htm">美阿特种部队下乡清剿</a></p>
-</li>
 </ul></div>
 </div>
-<!--[if !IE]>|xGv00|5cd2aa0e7521e4e07fa68b24b38c408b<![endif]-->				
+<!--[if !IE]>|xGv00|830223c73d7164f9542c1e1655d53da9<![endif]-->				
 			</div>
 		</div><!--[if !IE]>|xGv00|af37718fbc43e7805f13a1bff95fbd6b<![endif]-->
 		<div class="ad_670_90" bosszone="ad6">
@@ -2942,63 +2941,64 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 			<div class="bd bd1">
 				<div class="contentMain" bosszone="socnews">
 					<div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/009583.htm">1.2亿私人飞机开卖 富豪组团体验</a></h2>
-<p class="l23">飞机养护费用每年高达700万，相当于一天花2万元。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/008344.htm">落网毒枭情妇疑接管世界最大贩毒集团</a></h2>
+<p class="l23">他们甚至拥有军用大口径狙击枪，战斗力相当强悍。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/032598.htm">女子被摸臀部后拒绝指正色狼</a></h2>
-<p class="l23">在缺少指证的情况下，警方只能放行已被控制的男子。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/005051.htm">女学生抱8月大女儿拍毕业照</a></h2>
+<p class="l23">女孩在大四上学期生下女儿，她称有了孩子找工作更有优势。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/034000.htm">男子餐厅用手机占座被偷走</a></h2>
-<p class="l23">男子在微博上公布了事件过程的监控录像以及嫌疑人信息。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/005529.htm">乌克兰女外长裸身不雅照曝光</a></h2>
+<p class="l23">卢甘斯克共和国大打美女牌，由费拉托娃出任新外交部长。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/034215.htm">高三考生夺刀救人无缘高考</a></h2>
-<p class="l23">男生说自己愿意为挽救更多人的性命夺刀，称很想参加高考。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/001751.htm">女神为修电脑与“&#23628;丝”上床</a></h2>
+<p class="l23">女神与其发生关系后育有一子，起诉孩子父亲支付抚养费。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/033937.htm">3人酒后相约跳河只1人跳下</a></h2>
-<p class="l23">三人齐喊“1、2、3 跳！”结果一人跳下，两人岸上狂笑。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/011614.htm">小伙为逃14元车费翻墙摔伤</a></h2>
+<p class="l23">1名男子翻墙跳下去后头部着地，摔成重伤。</p>
 </div>
 <div class="Q-hot">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/033748.htm">熟睡女童被人从车中推落马路</a></h2>
-<p class="l23">甚至没人将孩子抱出车门，女孩“轰”地一声掉落安全岛门口。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/015424.htm">俄罗斯童模好似精灵落凡间</a></h2>
+<p class="l23">安吉丽娜发出一组写真，照片中小萌娃造型百变。</p>
 </div>
 <div class="Q-hot last">
-<h2><a target="_blank" href="http://news.qq.com/a/20140606/032478.htm">女子游泳后全身起水疱</a></h2>
-<p class="l23">医院诊断女子患上了水痘和角膜炎，游泳馆否认与池水有关。</p>
+<h2><a target="_blank" href="http://news.qq.com/a/20140607/014829.htm">摄影师镜头记录古巴变性人的生活</a></h2>
+<p class="l23">这些人面临的不仅是贫穷和饥饿，还有根深蒂固的社会歧视。</p>
 </div>
-<!--[if !IE]>|xGv00|5bab69b1a5f3b06445c9aa8290f7c0ea<![endif]-->					</div>
+<!--[if !IE]>|xGv00|11925b36d630e17fed85913ae3460388<![endif]-->					</div>
 				<div class="contentSub">
 <div class="focusPic">
-<a href="http://news.qq.com/a/20140606/010229.htm#p=1" target="_blank"bosszone="socpic">
-<img src="http://img1.gtimg.com/news/pics/hv1/55/130/1617/105178630.jpg" /></a>
-<p><a href="http://news.qq.com/a/20140606/010229.htm#p=1" target="_blank" class="focusPic" bosszone="socpic">
-北京长安街无牌奥迪撞飞交警
+<a href="http://news.qq.com/a/20140606/047686.htm#p=1" target="_blank"bosszone="socpic">
+<img src="http://img1.gtimg.com/news/pics/hv1/237/103/1618/105236952.jpg" /></a>
+<p><a href="http://news.qq.com/a/20140606/047686.htm#p=1" target="_blank" class="focusPic" bosszone="socpic">
+四川攀枝花“90后”无臂男孩备战高考
 </a></p>
 </div>
 					<!---->
 					<div class="Q-pList" bosszone="socpic1">
 						<ul class="l27">
 
-							<li><a href="http://news.qq.com/a/20140606/023010.htm#p=1" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/223/130/1617/105178798.jpg" /></a>
-								<p><a href="http://news.qq.com/a/20140606/023010.htm#p=1" target="_blank">美孕妇野外分娩引争议
+							<li><a href="http://news.qq.com/a/20140607/005159.htm#p=1" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/157/104/1618/105237127.jpg" /></a>
+								<p><a href="http://news.qq.com/a/20140607/005159.htm#p=1" target="_blank">克里米亚美女检察长</a></p>
+							</li>
+							
+							<li><a href="http://news.qq.com/a/20140607/005412.htm#p=1" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/25/104/1618/105236995.jpg" /></a>
+								<p><a href="http://news.qq.com/a/20140607/005412.htm#p=1" target="_blank">母狮捕猎斑羚滑稽瞬间
 </a></p>
 							</li>
-							
-							<li><a href="http://news.qq.com/a/20140606/014052.htm" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/160/131/1617/105178990.jpg" /></a>
-								<p><a href="http://news.qq.com/a/20140606/014052.htm" target="_blank">天鹅因太胖从天上掉下</a></p>
-							</li>
 
 
 							
-							<li><a href="http://news.qq.com/a/20140606/004524.htm" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/28/133/1617/105179368.jpg" /></a>
-								<p><a href="http://news.qq.com/a/20140606/004524.htm" target="_blank">80后小伙做10年掏粪工</a></p>							
+							<li><a href="http://news.qq.com/a/20140607/002887.htm#p=1" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/39/104/1618/105237009.jpg" /></a>
+								<p><a href="http://news.qq.com/a/20140607/002887.htm#p=1" target="_blank">送考家长沿街烧纸跪拜
+</a></p>							
 							</li>
 
-							<li><a href="http://news.qq.com/a/20140606/021947.htm" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/151/132/1617/105179236.jpg" /></a>
-								<p><a href="http://news.qq.com/a/20140606/021947.htm" target="_blank">男子患病前女友求复合</a></p>
+							<li><a href="http://news.qq.com/a/20140607/011560.htm#p=1" target="_blank"><img src="http://img1.gtimg.com/news/pics/hv1/60/104/1618/105237030.jpg" /></a>
+								<p><a href="http://news.qq.com/a/20140607/011560.htm#p=1" target="_blank">大学生拍“复古”毕业照</a></p>
 							</li>
 							
 						
@@ -3008,7 +3008,7 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 
 				</div>
 			</div>
-		</div><!--[if !IE]>|xGv00|2843ab09cb588d20ff98bf92e448e299<![endif]-->
+		</div><!--[if !IE]>|xGv00|addf8606751107ffbd29586ca6bfa631<![endif]-->
 		<div class="ad_670_90" bosszone="ad7">
 <!--News_Width3_div AD begin...."l=News_Width3&log=off"-->
 <div id="News_Width3" style="width:670px;height:90px;" class="l_qq_com"></div>
@@ -3021,6 +3021,10 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 			<div class="bd bd1">
 				<div class="contentMain" bosszone="hisnews">
 					<div class="Q-hot">
+<h2><a target="_blank" href="http://view.news.qq.com/a/20140607/005931.htm">张闻天庐山感叹：以后谁还敢讲话？</a></h2>
+<p class="l23">张闻天的夫人劝他不要“引火烧身”，张闻天却坚持要送上去。</p>
+</div>
+<div class="Q-hot">
 <h2><a target="_blank" href="http://view.news.qq.com/a/20140606/008891.htm">徐元宫：中共诞生时共产国际的经费支持</a></h2>
 <p class="l23">陈独秀曾拒绝共产国际经费支持。</p>
 </div>
@@ -3028,15 +3032,11 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 <h2><a target="_blank" href="http://view.news.qq.com/a/20140606/008683.htm">张学良藏“皇姑屯事件”调查报告被发现</a></h2>
 <p class="l23">捅破日方“烟幕弹” 有助于判断史实。</p>
 </div>
-<div class="Q-hot">
+<div class="Q-hot last">
 <h2><a target="_blank" href="http://view.news.qq.com/a/20140605/008749.htm">李怀印：近代中国无须“重新发明”</a></h2>
 <p class="l23">学术书评贵在客观持平，对作者和读者负责。</p>
 </div>
-<div class="Q-hot last">
-<h2><a target="_blank" href="http://view.news.qq.com/a/20140605/008470.htm">吴钩：明朝贪官如何屯积赃款</a></h2>
-<p class="l23">王振死后被抄家，结果搜出“金银六十余库，玉盘百”。</p>
-</div>
-<!--[if !IE]>|xGv00|d8bd451a30d67762757ed9f0a3a86a2c<![endif]-->
+<!--[if !IE]>|xGv00|9345c3984fa4363edfd4875881c31478<![endif]-->
 				</div>
 				<div class="contentSub" bosszone="hispic">
 <div class="focusPic">
@@ -3162,11 +3162,11 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 			</div>			
 			<div class="bd bd2" style="position:relative">
 				<div class="Q-tpList">
-								<em class="f14 l21"><a target="_blank" bosszone="today1" href="http://view.news.qq.com/original/intouchtoday/n2816.html">洋垃圾中淘硬币怎成犯罪？</a></em><div class="Q-tpWrap" bosszone="today1">
-<a target="_blank" class="pic" href="http://view.news.qq.com/original/intouchtoday/n2816.html"><img src="http://img1.gtimg.com/view/pics/hv1/183/241/1616/105142038.jpg"></a><p class="l21">农民王维初因为加工翻新了近十吨、价值600多万的废旧外币，获刑2<a target="_blank" href="http://view.news.qq.com/original/intouchtoday/n2816.html">[详细]</a>
+								<em class="f14 l21"><a target="_blank" bosszone="today1" href="http://view.news.qq.com/original/intouchtoday/n2817.html">“高考工厂”维系了教育公平</a></em><div class="Q-tpWrap" bosszone="today1">
+<a target="_blank" class="pic" href="http://view.news.qq.com/original/intouchtoday/n2817.html"><img src="http://img1.gtimg.com/view/pics/hv1/87/65/1618/105227112.jpg"></a><p class="l21">“考过高富帅，战胜官二代”，的确是一个看的着的中国梦。<a target="_blank" href="http://view.news.qq.com/original/intouchtoday/n2817.html">[详细]</a>
 </p>
 </div>
-<!--[if !IE]>|xGv00|4854179be7a2db1a37bfb5e409992405<![endif]-->
+<!--[if !IE]>|xGv00|6a4b2988f5e8c119915d31af7ea60a66<![endif]-->
 				<ul class="other l26 f14" bosszone="today2">
 				<li>
 <a target="_blank" href="http://history.news.qq.com/">历史</a> | 
@@ -3175,11 +3175,11 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 <!--[if !IE]>|xGv00|f6ee96c7de9de73394e293a9dd6bec3c<![endif]-->
 				<li>
 <a target="_blank" href="http://view.news.qq.com/">评论</a> | 
-				<a target="_blank" href="http://view.news.qq.com//a/20140606/012152.htm">打破一考定终身 何时不再是梦</a>
+				<a target="_blank" href="http://view.news.qq.com//a/20140607/006434.htm">双休日高考，为高考调期进行实证</a>
 </li>
-<li><a target="_blank" href="http://view.news.qq.com//a/20140606/011875.htm">新媒体“拿来主义”的界限何在</a></li>
-<li><a target="_blank" href="http://view.news.qq.com//a/20140606/011590.htm">招远血案：别苛责麦当劳没应急预案</a></li>
-<!--[if !IE]>|xGv00|71674fee773087a99a6bfe3901030510<![endif]-->
+<li><a target="_blank" href="http://view.news.qq.com//a/20140607/006544.htm">以邻为壑的企业能好到哪里</a></li>
+<li><a target="_blank" href="http://view.news.qq.com//a/20140607/006353.htm">新媒体“拿来主义”的界限何在</a></li>
+<!--[if !IE]>|xGv00|5969c528b1b83640e3505996297b4a6e<![endif]-->
 				</ul>
 				</div>
 			</div>
@@ -3201,32 +3201,32 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 		<div class="yxlFocusCon" >
 			<ul class="yxlFocus">
 <li>
-<a href="http://news.qq.com/a/20140606/009651.htm" bosszone="sjgs1" target="_blank">
-<img src="http://img1.gtimg.com/news/pics/hv1/19/2/1617/105145954.jpg" alt="强雷雨袭昆明 记者1小时拍到65张闪电">
-<p>强雷雨袭昆明 记者1小时拍到65张闪电</p></a></li>
+<a href="http://news.qq.com/a/20140607/007536.htm#p=1" bosszone="sjgs1" target="_blank">
+<img src="http://img1.gtimg.com/news/pics/hv1/205/80/1618/105231055.jpg" alt="2014高考直击 多地特警持枪护考">
+<p>2014高考直击 多地特警持枪护考</p></a></li>
 
 
 <li>
-<a href="http://news.qq.com/a/20140606/008908.htm" bosszone="sjgs2" target="_blank">
-<img src="http://img1.gtimg.com/news/pics/hv1/22/2/1617/105145957.jpg" alt="图片故事：高三学子的最后一课">
-<p>图片故事：高三学子的最后一课</p></a></li>
+<a href="http://news.qq.com/photon/selective/126.htm" bosszone="sjgs2" target="_blank">
+<img src="http://img1.gtimg.com/news/pics/hv1/71/46/1618/105222251.jpg" alt="一周精选：人体彩绘宣扬保护亚洲狮">
+<p>一周精选：人体彩绘宣扬保护亚洲狮</p></a></li>
 
 
 <li>
-<a href="http://news.qq.com/photon/record/peidu.htm" bosszone="sjgs3" target="_blank">
-<img src="http://img1.gtimg.com/news/pics/hv1/25/2/1617/105145960.jpg" alt="记录：高考陪读奶奶">
-<p>记录：高考陪读奶奶</p></a></li>
+<a href="http://news.qq.com/photon/tuhua/gaokao.htm" bosszone="sjgs3" target="_blank">
+<img src="http://img1.gtimg.com/news/pics/hv1/154/46/1618/105222334.jpg" alt="图话：高考奇观">
+<p>图话：高考奇观</p></a></li>
 
 <li>
-<a href="http://news.qq.com/photon/tuhua/bj_garbage.htm" bosszone="sjgs4" target="_blank">
-<img src="http://img1.gtimg.com/news/pics/hv1/23/2/1617/105145958.jpg" alt="图话：北京垃圾分类“踏步”20年">
-<p>图话：北京垃圾分类“踏步”20年</p></a></li>
+<a href="http://news.qq.com/a/20140607/005159.htm" bosszone="sjgs4" target="_blank">
+<img src="http://img1.gtimg.com/news/pics/hv1/184/46/1618/105222364.jpg" alt="俄媒发布克里米亚美女检察长最新组照">
+<p>俄媒发布克里米亚美女检察长最新组照</p></a></li>
 
 
 <li>
-<a href="http://news.qq.com/original/oneday/1618.html" bosszone="sjgs5" target="_blank">
-<img src="http://img1.gtimg.com/news/pics/hv1/17/2/1617/105145952.jpg" alt="中国人的一天：侗乡茶语">
-<p>中国人的一天：侗乡茶语</p></a></li>
+<a href="http://news.qq.com/a/20140607/005412.htm" bosszone="sjgs5" target="_blank">
+<img src="http://img1.gtimg.com/news/pics/hv1/234/46/1618/105222414.jpg" alt="摄影师拍下母狮捕猎斑羚滑稽瞬间">
+<p>摄影师拍下母狮捕猎斑羚滑稽瞬间</p></a></li>
 
 
 
@@ -3237,7 +3237,7 @@ src="http://img1.gtimg.com/news/pics/hv1/211/33/1617/105154051.jpg"/><span class
 				<i class="pageNum"><em class="curNum">1</em>/<em class="allNum">4</em></i>
 				<a class="nextBtn" bosszone="sjgsy" href="javascript:void(0)">下一张</a>
 			</div>
-		</div><!--[if !IE]>|xGv00|746f02a1c10fdd0b597785c6ef84fcc5<![endif]-->  
+		</div><!--[if !IE]>|xGv00|ba47828a3a9e02079627967e638ae749<![endif]-->  
 	</div>
 </div> <!--[if !IE]>|xGv00|fd71510444a4829eb735aff690e738ea<![endif]-->               
 <style>
@@ -3286,19 +3286,19 @@ a.lyl:hover { color:#cd0001 }
 			<div class="bd bd2">
 <div class="Q-pList" bosszone="8dian1"><ul class="l29">
 <li>
-<a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=m0014dea72e"><img src="http://vpic.video.qq.com/123/m0014dea72e_1.jpg"><span class="vIcon"></span></a><p><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=m0014dea72e">村官搂服务员热舞</a></p>
+<a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=k0014nea6ri"><img src="http://img1.gtimg.com/v/pics/hv1/121/253/1617/105210061_small.jpg"><span class="vIcon"></span></a><p><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=k0014nea6ri">广场舞大军高考扰学生</a></p>
 </li>
 <li>
-<a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=v0014s2dxto"><img src="http://img1.gtimg.com/v/pics/hv1/149/117/1615/105045359_small.jpg"><span class="vIcon"></span></a><p><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=v0014s2dxto">农民建山寨联合国寻宝</a></p>
+<a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=m0014dea72e"><img src="http://vpic.video.qq.com/123/m0014dea72e_1.jpg"><span class="vIcon"></span></a><p><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=m0014dea72e">村官搂服务员热舞</a></p>
 </li>
 </ul></div>
 <div class="Q-tList" bosszone="8dian2"><ul class="other l27 f14">
+<li><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=v0014s2dxto">农民建山寨联合国寻宝藏 幼童学抗战伏击</a></li>
 <li><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=j0014b1hw6d">高三学生围殴老师 外国人争抢中国绿卡</a></li>
 <li><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=s0014te3lgn">官员与两女不雅裸聊 280米高楼酷似玉</a></li>
 <li><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=y0014jsjg9i">中国7千旅客赴美唱国歌 学生穿婚纱示爱</a></li>
-<li><a target="_blank" href="http://v.qq.com/newsshow/index.htm?vid=g0014trcrn1">农民工坐公交被赶下车 主播直播中纽扣崩</a></li>
 </ul></div>
-<!--[if !IE]>|xGv00|aabdb5c2f90161a14e86401529c0ed6c<![endif]-->
+<!--[if !IE]>|xGv00|06fae66e1ad0c8890f941ca81ea3935a<![endif]-->
 			</div>
 		</div><!--[if !IE]>|xGv00|3cbfa7ca620b1da965db93490a5ba42d<![endif]-->
 <div class="ad_300_250" aria-disabled="true" tabindex="-1" bosszone="ad4">
@@ -3543,29 +3543,29 @@ href="http://news.qq.com/a/20140519/040059.htm" target="_blank">王老吉掀最炫博物
 </span></div>
 				<div class="bd">
 
-<a href="http://news.qq.com/a/20140606/019103.htm" target="_blank" class="hotPicStyle8" bosszone="pic1"><img src="http://img1.gtimg.com/news/pics/hv1/26/62/1617/105161261.jpg" alt="日新型机器人能识别人类感情" /><p class="Q-vBg"><span>日新型机器人能识别人类感情</span></p></a>
+<a href="http://news.qq.com/a/20140607/005831.htm" target="_blank" class="hotPicStyle8" bosszone="pic1"><img src="http://img1.gtimg.com/news/pics/hv1/40/49/1618/105222985.jpg" alt="高考特刊：宾馆里的考前一夜" /><p class="Q-vBg"><span>高考特刊：宾馆里的考前一夜</span></p></a>
 
-<a href="http://news.qq.com/a/20140606/017717.htm" target="_blank" class="hotPicStyle8" bosszone="pic2"><img src="http://img1.gtimg.com/news/pics/hv1/198/49/1617/105158118.jpg" alt="巴西海滩现巨型肥皂泡" />
+<a href="http://news.qq.com/a/20140607/015166.htm" target="_blank" class="hotPicStyle8" bosszone="pic2"><img src="http://img1.gtimg.com/news/pics/hv1/118/116/1618/105240148.jpg" alt="【美丽中国】夏日“西藏江南”" />
+<p class="Q-vBg"><span>【美丽中国】夏日“西藏江南”</span></p></a>
+
+<a href="http://news.qq.com/a/20140607/011560.htm" target="_blank" class="hotPicStyle8" bosszone="pic3"><img src="http://img1.gtimg.com/news/pics/hv1/8/91/1618/105233663.jpg" alt="南京大学生拍“复古”毕业照" />
+<p class="Q-vBg"><span>南京大学生拍“复古”毕业照</span></p></a>
+
+<a href="http://news.qq.com/a/20140607/014829.htm" target="_blank" class="hotPicStyle8" bosszone="pic4" style="margin-right:0"><img src="http://img1.gtimg.com/news/pics/hv1/69/115/1618/105239844.jpg" alt="摄影师镜头记录古巴变性人的生活" />
+<p class="Q-vBg"><span>镜头记录古巴变性人的生活</span></p></a>
+
+<a href="http://news.qq.com/a/20140606/019103.htm" target="_blank" class="hotPicStyle8" bosszone="pic5"><img src="http://img1.gtimg.com/news/pics/hv1/26/62/1617/105161261.jpg" alt="日新型机器人能识别人类感情" /><p class="Q-vBg"><span>日新型机器人能识别人类感情</span></p></a>
+
+<a href="http://news.qq.com/a/20140606/017717.htm" target="_blank" class="hotPicStyle8" bosszone="pic6"><img src="http://img1.gtimg.com/news/pics/hv1/198/49/1617/105158118.jpg" alt="巴西海滩现巨型肥皂泡" />
 <p class="Q-vBg"><span>巴西海滩现巨型肥皂泡</span></p></a>
 
-<a href="http://news.qq.com/a/20140606/016973.htm" target="_blank" class="hotPicStyle8" bosszone="pic3"><img src="http://img1.gtimg.com/news/pics/hv1/97/46/1617/105157252.jpg" alt="英红箭飞行队秀特技" />
+<a href="http://news.qq.com/a/20140606/016973.htm" target="_blank" class="hotPicStyle8" bosszone="pic7"><img src="http://img1.gtimg.com/news/pics/hv1/97/46/1617/105157252.jpg" alt="英红箭飞行队秀特技" />
 <p class="Q-vBg"><span>英红箭飞行队秀特技</span></p></a>
 
-<a href="http://news.qq.com/a/20140606/012724.htm" target="_blank" class="hotPicStyle8" bosszone="pic4" style="margin-right:0"><img src="http://img1.gtimg.com/news/pics/hv1/224/11/1617/105148454.jpg" alt="万达豪掷22亿收购西班牙地标" />
+<a href="http://news.qq.com/a/20140606/012724.htm" target="_blank" class="hotPicStyle8" bosszone="pic8" style="margin-right:0"><img src="http://img1.gtimg.com/news/pics/hv1/224/11/1617/105148454.jpg" alt="万达豪掷22亿收购西班牙地标" />
 <p class="Q-vBg"><span>万达豪掷22亿收购西班牙地标</span></p></a>
 
 
-
-<a href="http://news.qq.com/a/20140605/012994.htm" target="_blank" class="hotPicStyle8" bosszone="pic5"><img src="http://img1.gtimg.com/news/pics/hv1/115/229/1615/105073885.jpg" alt="澳大利亚为英女王造金色钻石马车" /><p class="Q-vBg"><span>澳大利亚为英女王造金色钻石马车</span></p></a>
-
-<a href="http://news.qq.com/a/20140605/009878.htm" target="_blank" class="hotPicStyle8" bosszone="pic6"><img src="http://img1.gtimg.com/news/pics/hv1/244/190/1615/105064069.jpg" alt="塔利班公布美军士兵获释画面" />
-<p class="Q-vBg"><span>塔利班公布美军士兵获释画面</span></p></a>
-
-<a href="http://news.qq.com/a/20140604/053098.htm" target="_blank" class="hotPicStyle8" bosszone="pic7"><img src="http://img1.gtimg.com/news/pics/hv1/185/173/1615/105059675.jpg" alt="二战堡垒的凝重之美" />
-<p class="Q-vBg"><span>二战堡垒的凝重之美</span></p></a>
-
-<a href="http://news.qq.com/a/20140604/044150.htm" target="_blank" class="hotPicStyle8" bosszone="pic8" style="margin-right:0"><img src="http://img1.gtimg.com/news/pics/hv1/96/7/1616/105082281.jpg" alt="故事：盲哑学校里的人生" />
-<p class="Q-vBg"><span>故事：盲哑学校里的人生</span></p></a>
 
 
 
@@ -3573,7 +3573,7 @@ href="http://news.qq.com/a/20140519/040059.htm" target="_blank">王老吉掀最炫博物
 		</div>
 
 	</div>
-</div><!--[if !IE]>|xGv00|17d1c6b68c544da9f34c57b6477db64e<![endif]-->
+</div><!--[if !IE]>|xGv00|3e510104a809deb242c3e36c84d58332<![endif]-->
 <div class="layout Q-g24" style="margin-top:25px">
 	<div class="chief">
 		<div class="dutuNew" id="fourPicList">
@@ -3623,15 +3623,15 @@ alt="7旬奶奶捡垃圾陪读" />
 <a href="http://oneday.qq.com/collect.html" target="_blank">更多</a>
 </span></div>
 				<div class="bd" bosszone="zgryt1">
-<a href="http://news.qq.com/original/oneday/1618.html" target="_blank" class="hotPicStyle8"><img src="http://img1.gtimg.com/news/pics/hv1/109/79/1617/105165679.jpg" 
-alt="侗乡茶语" />
-<p class="Q-vBg"><span>侗乡茶语</span></p></a>
+<a href="http://news.qq.com/original/oneday/1619.html" target="_blank" class="hotPicStyle8"><img src="http://img1.gtimg.com/news/pics/hv1/121/52/1618/105223831.jpg" 
+alt="“地下工作者”" />
+<p class="Q-vBg"><span>“地下工作者”</span></p></a>
 		  </div>
 </div>
 		</div>
 
 	</div>
-</div><!--[if !IE]>|xGv00|7cb532dacb496f43a5d413315bb0b8d7<![endif]-->
+</div><!--[if !IE]>|xGv00|d52d3c29fc0aa2033cd4670d3990c7a2<![endif]-->
 <div class="layout Q-g24">
 	<div class="chief">
 		<div class="botTools" bosszone="ewm">
@@ -4646,7 +4646,7 @@ window.onscroll = function(){
 </div>
 
 <script type="text/javascript">
-var Nowtime='2014-06-06-15-32-25';
+var Nowtime='2014-06-07-18-36-56';
 //var Nowtime='2013-11-28-17-00-32';
 var DtaT =Nowtime.split("-");
 var date1, date2, day,Oyear=DtaT[0],Omouth=DtaT[1],Oday=DtaT[2];

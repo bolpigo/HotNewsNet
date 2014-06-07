@@ -60,72 +60,16 @@
         				</div>
                     </div>
 					<div class="copyrights">Collect from <a href="http://sc.chinaz.com/" >Website Template</a></div>
+                    {%for ndb in newsinfo%}
                     <article class="row">
 						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu01.jpg"%}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
-                            <h3>小学生坐车被塞行李舱 打110报警</h3> 
-							<p>2014年6月5日，旬邑四名小学生逃学后坐长途客车回家，行驶途中疑因班车超员怕被查处，司乘人员竟让四人蜷缩在车底的行李舱中，但由于里面太过闷热，气味难闻，其中一学生不堪忍受拨打110报警，客车被福银高交大队民警拦截，4人获救。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
+							<a href="{{ndb.url}}" target = "_blank" > <img with="400" height="280" src="{%static "sohu/images/"%}{{ndb.imgname}}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
+                            <h3>{{ndb.title}}</h3> 
+							<p></p>
+							<p><a  href="{{ndb.url}}" target = "_blank" class="btn btn-primary" role="button">View More</a></p>
 						</div>								            
 					</article>
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu02.jpg"%}" alt="Templatemo Pic 2" class="img-thumbnail img-responsive img_left">
-                            <h3>西安女大学生穿旗袍拍毕业照</h3>
-							<p>又到一年毕业季，全国各地的毕业生们用不同的方式纪念在校的青春时光。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>							
-					</article>	
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu03.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>朴元淳连任首尔市长 获支持者送鞋子挂脖</h3>
-							<p>据韩联社6月5日报道，韩国第六届地方议员和地方政府各级领导选举(简称"地方选举")4日下午6时结束投票。韩国最大在野党新政治民主联合候选人朴元淳成功连任首尔市市长。当选首尔市长一般被认为是当选总统的捷径，朴元淳再次当选意味着他已成为在野党主力总统侯选人之一。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                   <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu04.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>不明觉厉啊！北京地铁惊现月球女孩！</h3>
-							<p>今天下班坐地铁时看到的雷人一幕，站台上突然惊现一位硕大月球头的妹纸，身材不错的说哦！不知道是神马情况，就好奇地跟着她抓拍了几张。月球女孩如此淡定的坐地铁，脸上呆萌忧桑的表情引发旁边不少人的侧目，也害得我差点坐过站。不知道又是哪个COS还是啥行为秀，或者难道是妹纸有啥难言之隐不敢见人吗？当时俺真的想冲上前，悄悄滴告诉她："妹纸，地球很危险滴，赶快回月球去吧！"</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>   
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu05.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>新疆哈密首次发现三维保存翼龙蛋及大量化石</h3>
-							<p>北京时间2014年6月6日，国际知名期刊《现代生物学》在线出版及其印刷版上以封面文章报道了中国新疆哈密首次发现三维保存翼龙蛋及大量翼龙化石及其科研成果。图为哈密发现的三维保存翼龙蛋化石。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>  
-                    
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu06.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>"碎花裙"现身还包 称只为防身</h3>
-							<p>因"地铁捡包"而引发的对一名穿碎花蓝裙女子的"全城搜索"，终于落下帷幕。5日早晨，这名女子来到派出所将提包归还。5日晚，失主葛先生专程从江西来汉取走了提包。
-　　5日早上7时许，这名被网友称为"碎花姐"的女子，在家人陪伴下来到武汉市公安局轨道交通分局黄金口派出所，归还了提包。该女子称，这几日一直在外地出差，在网上看到报道和自己的照片，紧急赶回武汉处理此事。对于捡包一事，该女子称，地铁里发生混乱后，她与其他多人被挤倒在地，看到附近地上有一咖啡色手提包，便想拿过来挡在身上。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article> 
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu07.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>美国孕妇野外分娩直播引争议</h3>
-							<p>据《镜报》2014年6月5日报道，美国Lifetime推出的新真人秀《野外分娩》(Born in the Wild)引起了不小的争议。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "sohu/images/sohu08.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>最近韩国网友上传的首尔当地高中的一位暖男数学老师</h3>
-							<p>身高186cm，这个班学生的数学成绩还能不好吗？ 又是别人家的老师 </p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
+                    {%endfor%}
 				</div>
 			</div>
 			<footer class="row credit">

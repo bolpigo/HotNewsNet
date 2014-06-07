@@ -60,55 +60,16 @@
         				</div>
                     </div>
 					<div class="copyrights">Collect from <a href="http://sc.chinaz.com/" >Website Template</a></div>
+                    {%for ndb in newsinfo%}
                     <article class="row">
 						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/01.jpg"%}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
-                            <h3>昆明1.2亿私人飞机开卖 富豪组团"看货"</h3> 
-							<p>2014年6月5日，云南昆明，数位云南富豪来到长水机场，观看售价1.2亿人民币的私人飞机。这架喷气式飞机有8个座位，配有外国机长和副机长，全国有机场的城市都能起降，养护费用每年就高达700万，售价1.2亿元人民币。图为买家在经销商的带领下走进机场参观飞机。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
+							<a href="{{ndb.url}}" target = "_blank" > <img src="{%static "neteasy/images/"%}{{ndb.imgname}}" alt="Templatemo Pic 1" class="img-thumbnail img-responsive img_left">
+                            <h3>{{ndb.title}}</h3> 
+							<p></p>
+							<p><a  href="{{ndb.url}}" target = "_blank" class="btn btn-primary" role="button">View More</a></p>
 						</div>								            
 					</article>
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/02.jpg"%}" alt="Templatemo Pic 2" class="img-thumbnail img-responsive img_left">
-                            <h3>武汉高校拍4500人毕业大合照</h3>
-							<p>6月5日，湖北省武汉市，华中师范大学2014届4500名毕业生在该校佑铭体育馆操场上，围成半径45米的圆弧进行毕业合影。"</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>							
-					</article>	
-					<article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/03.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>《看客》第338期：转折之役</h3>
-							<p>70年前，法国诺曼底，盟军与德军在此激战，以决定人类未来的命运。70年间，与诺曼底登陆有关的纪念仪式从未停歇，但这不仅因为这场战役是二战的转折点。人们在纪念仪式上体会和平的伟大，友谊的宝贵，战争的愚蠢，并在仪式中学会和解和宽容。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>
-                   <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/04.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>美国海警远航千里押回中国非法捕捞船 </h3>
-							<p>近日，一艘涉嫌在北太平洋公海非法使用流网捕捞了半吨三文鱼的中国渔船于被美国海岸警卫队扣押。该渔船长191英尺（约58米），已于6月3日移交给中国政府。中国渔船的船长承认，渔船装备了用于非法捕捞的设备，为了掩盖罪证其中部分设备被投入大海。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>   
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/05.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>佛山一公园湖内鱼密度过大 2万斤鱼被填埋</h3>
-							<p>中国青年网北京6月6日电 2014年6月5日，广东佛山，由于佛山亚艺公园湖的鱼密度过大，园林局决定把湖里的鱼打捞一部分上来。随着亚艺湖中围捕浮标的面积缩小，上千斤湖鱼被围拢在30平米左右的水域中。至此由园林处组织的持续两日的亚艺湖大规模捕鱼接近尾声。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article>  
-                    
-                    <article class="row">
-						<div class="col col-md-12">
-							<img src="{%static "neteasy/images/06.jpg"%}" alt="Templatemo Pic 3" class="img-thumbnail img-responsive img_left">
-                            <h3>特别策划：中国人的作弊智慧</h3>
-							<p>中国从小学入学到大学毕业，这16年大概需要参加500次考试，长达千年的中国科举考试产生了777个状元，为了顺利通过考试，众多考生发挥的不仅仅是智力和脑容量，还有各种牛逼闪闪的"作弊智慧"。</p>
-							<p><a  href="http://sc.chinaz.com/" class="btn btn-primary" role="button">View More</a></p>
-						</div>			            
-					</article> 
+                    {%endfor%}
 				</div>
 			</div>
 			<footer class="row credit">

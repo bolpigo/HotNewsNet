@@ -1,19 +1,24 @@
 from django.shortcuts import render_to_response
+from index.models import NewsInfo
 
 # Create your views here.
 def index(req):
-	return render_to_response('index.html',{'user_stylesheet':'css/user.css'})
+	newsinfo = NewsInfo.objects.all()
+	return render_to_response('index.html',{'newsinfo':newsinfo})
 def baiduhome(req):
-	return render_to_response('baidu_homepage.html')
-
+	newsinfo = NewsInfo.objects.filter(source=0)
+	return render_to_response('baidu_homepage.html',{'newsinfo':newsinfo})
 def tencenthome(req):
-	return render_to_response('tencent_homepage.html')
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_homepage.html',{'newsinfo':newsinfo})
 
 def souhuhome(req):
-	return render_to_response('souhu_homepage.html')
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('souhu_homepage.html',{'newsinfo':newsinfo})
 
 def neteasyhome(req):
-	return render_to_response('neteasy_homepage.html')
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_homepage.html',{'newsinfo':newsinfo})
 
 def forginhome(req):
 	return render_to_response('forgin_homepage.html')

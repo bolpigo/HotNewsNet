@@ -116,6 +116,7 @@ def saveTencentTopics():
 	try:
 		conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='126373',db='hotnews',port=3306)
 		cur=conn.cursor()
+		cur.execute('delete from index_newsinfo')
 		cur.execute('set names gbk')
 		val=[]
 		for i in range(0,len(index1)):
@@ -148,123 +149,5 @@ def saveTencentTopics():
 		conn.close()
 	except MySQLdb.Error,e:
 		print "Mysql Error %d: %s" % (e.args[0], e.args[1])
-def saveSohuTopics():
-	input1 = open('./source/sohu.txt','r')
-	try:
-		content1 = input1.read()
-	finally:
-		input1.close()
-	
-	wordb = "<ul class=\"picLeft\"  >"
-	worde = "<A class=btn-show" 
-	index1 = [m.start() for m in re.finditer(wordb,content1)]
-	index2 = [m.start() for m in re.finditer(worde,content1)]
-	content = content1[index1[0]+len(wordb):index2[0]]
-	word1="<a href=\""
-	word2="src=\""
-	word3="width="
-	word4="target=\"_blank\""
-	word5="</a></em>"
-	index1 = [m.start() for m in re.finditer(word1,content)]
-	index2 = [m.start() for m in re.finditer(word2,content)]
-	index3 = [m.start() for m in re.finditer(word3,content)]
-	index4 = [m.start() for m in re.finditer(word4,content)]
-	index5 = [m.start() for m in re.finditer(word5,content)]
-	try:
-		conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='126373',db='hotnews',port=3306)
-		cur=conn.cursor()
-		cur.execute('set names gbk')
-		val=[]
-		for i in range(0,len(index2)):
-			url = content[index1[i*2]+len(word1):index4[i*2]-2]
-			imgurl = content[index2[i]+len(word2):index3[i]-2]
-			url = url.replace("\"","")
-			imgurl = imgurl.replace("\"","")
-			title = content[index4[i*2+1]+len(word4)+1:index5[i]]
-			#print imgurl
-			imgname = str(i)+'.jpg'
-			outimg=open("../index/static/sohu/images\\"+imgname,'wb')
-			data=urllib2.urlopen(imgurl).read()
-			outimg.write(data)
-			outimg.close()
-			data=urllib2.urlopen(url).read()
-			typeEncode = sys.getfilesystemencoding()
-			infoencode = chardet.detect(data).get('encoding','utf-8')
-			data = data.decode(infoencode,'ignore').encode(typeEncode)
-			#lister = GetIdList()
-			#lister.feed(data)
-			#lister.printID()
-			#listdd=lister.IDlist
-			#data=""
-			#data=data.join(listdd)
-			#data = data.replace(" ","")
-			#print data
-			datett = datetime.datetime.now()
-			val.append((2, 1, url, title, imgurl, imgname, data, datett))
-		cur.executemany('insert into index_newsinfo(source, format, url, title, imgurl, imgname, content, touchTime) values(%s,%s,%s,%s,%s,%s,%s, %s)',val)
-		conn.commit()
-		cur.close()
-		conn.close()
-	except MySQLdb.Error,e:
-		print "Mysql Error %d: %s" % (e.args[0], e.args[1])
-def saveNeteasyTopics():
-	input1 = open('./source/neteasy.txt','r')
-	try:
-		content1 = input1.read()
-	finally:
-		input1.close()
-	
-	wordb = "<ul class=\"widget-slide-contents-piclist\">"
-	worde = "<div class=\"widget-slide-ctrl widget-slide-1-ctrl\">" 
-	index1 = [m.start() for m in re.finditer(wordb,content1)]
-	index2 = [m.start() for m in re.finditer(worde,content1)]
-	content = content1[index1[0]+len(wordb):index2[0]]
-	word1="<a class = \"left\"  href=\""
-	word2="><img width="
-	word3="alt=\""
-	word4="title=\""
-	word5="src=\""
-	word6="></a>"
-	index1 = [m.start() for m in re.finditer(word1,content)]
-	index2 = [m.start() for m in re.finditer(word2,content)]
-	index3 = [m.start() for m in re.finditer(word3,content)]
-	index4 = [m.start() for m in re.finditer(word4,content)]
-	index5 = [m.start() for m in re.finditer(word5,content)]
-	index6 = [m.start() for m in re.finditer(word6,content)]
-	try:
-		conn=MySQLdb.connect(host='127.0.0.1',user='root',passwd='126373',db='hotnews',port=3306)
-		cur=conn.cursor()
-		cur.execute('set names gbk')
-		val=[]
-		for i in range(0,len(index2)):
-			url = content[index1[i]+len(word1):index2[i]-1]
-			imgurl = content[index5[i]+len(word5):index6[i]-1]
-			url = url.replace("\"","")
-			imgurl = imgurl.replace("\"","")
-			title = content[index4[i]+len(word4):index5[i]-2]
-			#print imgurl
-			imgname = str(i)+'.jpg'
-			outimg=open("../index/static/neteasy/images\\"+imgname,'wb')
-			data=urllib2.urlopen(imgurl).read()
-			outimg.write(data)
-			outimg.close()
-			data=urllib2.urlopen(url).read()
-			typeEncode = sys.getfilesystemencoding()
-			infoencode = chardet.detect(data).get('encoding','utf-8')
-			data = data.decode(infoencode,'ignore').encode(typeEncode)
-			#lister = GetIdList()
-			#lister.feed(data)
-			#lister.printID()
-			#listdd=lister.IDlist
-			#data=""
-			#data=data.join(listdd)
-			#data = data.replace(" ","")
-			#print data
-			datett = datetime.datetime.now()
-			val.append((3, 1, url, title, imgurl, imgname, data, datett))
-		cur.executemany('insert into index_newsinfo(source, format, url, title, imgurl, imgname, content, touchTime) values(%s,%s,%s,%s,%s,%s,%s, %s)',val)
-		conn.commit()
-		cur.close()
-		conn.close()
-	except MySQLdb.Error,e:
-		print "Mysql Error %d: %s" % (e.args[0], e.args[1])
+saveBaiduTopics()
+saveTencentTopics()

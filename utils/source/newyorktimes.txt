@@ -157,11 +157,11 @@
 
     	      <div class="image-switcher" style="overflow: auto; width: 450px; margin: 0 auto; padding-bottom: 1em;">
     	        <div class="image" style="text-align: center; margin-bottom: 1em; height: 300px; overflow: hidden;">
-    	          <a href="/images/photos/1150057.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/0057/1150057_525_350_w.jpg"></a>
+    	          <a href="/images/photos/1150399.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/0399/1150399_525_350_w.jpg"></a>
     	        </div>
     	        <div class="pager" style="float: right; margin-left: 1em;"><img src="/images/lt_arrow.gif" width="25"> <img src="/images/rt_arrow.gif" width="25"></div>
-    	        <h5>OBAMA EUROPE 7</h5>
-    	        <p style="margin-top: .5em;">President  Barack Obama is saluted during a welcome ceremony at Orly Airport in France on Thursday. Obama said he makes “no apologies” for seeking the release of Sgt. Bowe Bergdahl in a prisoner ...</p>
+    	        <h5>IMMIG CHILDREN</h5>
+    	        <p style="margin-top: .5em;">The Obama administration said on Friday that it was launching a program to help recruit lawyers for children facing deportation as it scrambles to deal with the soaring number of unaccompanied Ce...</p>
     	      </div>
 
         <p style="position: absolute; bottom: 0; width: 450px; margin: 10px 0 20px 15px;"><a href="/images/photos">Browse All Images</a></p>
@@ -236,37 +236,37 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
         <div class="headline" style="border-right: solid 1px #ccc">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=322">New York Times Op-Ed &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2916128"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?424537324990" alt="New York Times Op-Ed" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2918126"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?106134374522" alt="New York Times Op-Ed" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2916128">India's Feudal Rapists</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2918126">Memories from Normandy</a></div>
         </div>
         <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=363">Prospect &raquo;</a></div>
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=852">New York Review Dispatches &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2915130"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?424537324898" alt="Prospect" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2917668"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?424537498746" alt="New York Review Dispatches" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2915130">Prejudice Against Out-of-Towners in Beijing</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2917668">Hitler’s Monumental Miscalculation</a></div>
+        </div>
+        <div class="headline" style="border-right: solid 1px #ccc">
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=367">New York Review of Books &raquo;</a></div>
+          <div class="image">
+            <a href="https://www.nytsyn.com/marketplace/stories/2917333"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?212268750222" alt="New York Review of Books" /></a>
+          </div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2917333">Looking for Ukraine</a></div>
         </div>
         <div class="headline" style="border-right: solid 1px #ccc">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=74">New York Times Magazine &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2913670"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?7075626406" alt="New York Times Magazine" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2915344"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?11792716038" alt="New York Times Magazine" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2913670">The Coach</a></div>
-        </div>
-        <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=13">Harvard Business Review &raquo;</a></div>
-          <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2916803"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?424537324850" alt="Harvard Business Review" /></a>
-          </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2916803">The Capitalist's Dilemma</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2915344">'I'm Never Satisfied'</a></div>
         </div>
         <div class="headline" style="">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=315">International New York Times &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2916840"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?424537310030" alt="International New York Times" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2918634"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?424537498646" alt="International New York Times" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2916840">Don't Annex the West Bank</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2918634">The Once and Future Kings</a></div>
         </div>
   </div>
 
@@ -328,21 +328,21 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
         <div class="link"><a style="font-weight:bold;" href="/videos/videos">Browse All Videos</a></div>
 
           <div class="video">
-            <a href="/videos/videos/cae0d8b7-b22a-4480-8584-7bd31603c428:en-US">
-              <img src="/videos/cae0d8b7-b22a-4480-8584-7bd31603c428/116x88-default-true.jpg">
-              <div class="video_title">Rocky Balbo<wbr>&shy;a’s Worko<wbr>&shy;ut</div>
+            <a href="/videos/videos/83f3c753-8e48-43ed-8b41-de15668e15ad:en-US">
+              <img src="/videos/83f3c753-8e48-43ed-8b41-de15668e15ad/116x88-default-true.jpg">
+              <div class="video_title">Hot Spots<wbr>&shy;: All in the F<wbr>&shy;amily</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/e1426ef2-a148-4a39-8f3c-d35eaf44208d:en-US">
-              <img src="/videos/e1426ef2-a148-4a39-8f3c-d35eaf44208d/116x88-default-true.jpg">
-              <div class="video_title">Unans<wbr>&shy;wered Quest<wbr>&shy;ions From <wbr>&shy;G.M.’<wbr>&shy;s...</div>
+            <a href="/videos/videos/eafa1cbd-ea0d-493c-bedd-b2ad7f34b467:en-US">
+              <img src="/videos/eafa1cbd-ea0d-493c-bedd-b2ad7f34b467/116x88-default-true.jpg">
+              <div class="video_title">Highl<wbr>&shy;ights of the ‘Sing<wbr>&shy;ing Nun’</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/20a7e2cf-71ae-48b4-bd2c-c346a346649b:en-US">
-              <img src="/videos/20a7e2cf-71ae-48b4-bd2c-c346a346649b/116x88-default-true.jpg">
-              <div class="video_title">The Poste<wbr>&shy;r Child for Menop<wbr>&shy;ause</div>
+            <a href="/videos/videos/c57de2e1-78d8-47e1-9ffb-b19b02fe1b31:en-US">
+              <img src="/videos/c57de2e1-78d8-47e1-9ffb-b19b02fe1b31/116x88-default-true.jpg">
+              <div class="video_title">A Previ<wbr>&shy;ew of the Belmo<wbr>&shy;nt St<wbr>&shy;akes</div>
             </a>
           </div>
     </div>
@@ -364,9 +364,9 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 
 <div id="featured-cartoon">
   <div class="title"><a href="/cartoons">Cartoons &raquo;</a></div>
-  <a href="/cartoons/cartoons/1143903">
+  <a href="/cartoons/cartoons/1149010">
     <div style="overflow: hidden; width: 346px; padding-top: 0; height: 210px; text-align: center;" class="nytimages-thumbnail-container">
-      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0114/3903/1143903_525_350_w.jpg">
+      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0114/9010/1149010_525_350_w.jpg">
     </div>
   </a>
 </div>
@@ -378,14 +378,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 <div style="display: none;">
 		
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1149683.html">
+  <a class="featured-photo" href="/images/photos/1150040.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>MINORS IMMIG INFLUX 13</h5>
-      <p class="large-excerpt">Police leave a crime scene in San Pedro Sula, Honduras, May 23, 2014. Gang-related violence is so endemic in Honduras that the United Nations declared it a humanitarian crisis akin to a war zone, and the bloodshed has contributed to a spike in the number of children attempting to enter the United States illegally, often unaccompanied. (Meridith Kohut/The New York Times)</p>
-      <p class="small-excerpt">Police leave a crime scene in San Pedro Sula, Honduras, May 23, 2014. Gang-related violence is so endemic in Honduras that the United Nations declared it a humanitarian crisis akin to a war zone,...</p>
+      <h5>OBAMA EUROPE 4</h5>
+      <p class="large-excerpt">President Barack Obama and British Prime Minister David Cameron during a joint news conference in which Russian and Ukraine tensions and released prisoner of war Sgt. Bowe Bergdahl were discussed, at the G7 summit in Brussels, June 5, 2014. At Obama's urging, Russian President Vladimir Putin had been excluded from some meetings at the summit as punishment for his annexation of Crimea, but his counterparts from Britain, France...</p>
+      <p class="small-excerpt">President Barack Obama and British Prime Minister David Cameron during a joint news conference in which Russian and Ukraine tensions and released prisoner of war Sgt. Bowe Bergdahl were discussed...</p>
     </div>
   </a>
   <h6><a href="/images/photos/world_news">
@@ -396,14 +396,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1149945.html">
+  <a class="featured-photo" href="/images/photos/1150441.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>MISS SENATE PRIMARY 4</h5>
-      <p class="large-excerpt">Sen. Thad Cochran (R-Miss.) leaves a Chick-fil-A restaurant in Flowood, Miss., June 4, 2014. Cochran and his Tea Party-backed challenger, state Sen. Chris McDaniel, each got about 49 percent of the vote in Tuesday's Republican primary, leading to a runoff that presents a challenge to Cochran. (Edmund D. Fountain/The New York Times)</p>
-      <p class="small-excerpt">Sen. Thad Cochran (R-Miss.) leaves a Chick-fil-A restaurant in Flowood, Miss., June 4, 2014. Cochran and his Tea Party-backed challenger, state Sen. Chris McDaniel, each got about 49 percent of t...</p>
+      <h5>WASH SHOOTING 3</h5>
+      <p class="large-excerpt">A former Seattle Pacific University student sits on a tree on campus in Seattle, June 6, 2014. Police credit ordinary citizens with keeping the victim count down by subduing a gunman, Aaron Ybarra, who opened fire on the campus Thursday afternoon, killing one and wounding three. (Mike Kane/The New York Times)</p>
+      <p class="small-excerpt">A former Seattle Pacific University student sits on a tree on campus in Seattle, June 6, 2014. Police credit ordinary citizens with keeping the victim count down by subduing a gunman, Aaron Ybarr...</p>
     </div>
   </a>
   <h6><a href="/images/photos/us_news">
@@ -414,14 +414,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1138742.html">
+  <a class="featured-photo" href="/images/photos/1147285.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>MUSIC BUNDLING</h5>
-      <p class="large-excerpt">Adam Kidron, founder of Yonder, with Jim Heindlmeyer, chief operating officer, at their offices in New York, April 16, 2014. The new company will sell an alternative to the streaming music subscription model by selling licensed smartphones that allow users unlimited free music downloads, hiding the price of the music in that of the phone. (Richard Perry/The New York Times)</p>
-      <p class="small-excerpt">Adam Kidron, founder of Yonder, with Jim Heindlmeyer, chief operating officer, at their offices in New York, April 16, 2014. The new company will sell an alternative to the streaming music subscr...</p>
+      <h5>DETROIT WATER 3</h5>
+      <p class="large-excerpt">Nellie Sahakian, supervisor of filtration, holds chemical tubes filled with filtered water, left, and unfiltered at the Wastewater Treatment Plant in Detroit, April 30, 2014. As Detroit struggles to climb out of bankruptcy, the city's best source of revenue — clean water — may be evaporating as customers decide to build their own pipelines to reach Lake Huron's continuous supply. (Joshua Lott/The New York Times)</p>
+      <p class="small-excerpt">Nellie Sahakian, supervisor of filtration, holds chemical tubes filled with filtered water, left, and unfiltered at the Wastewater Treatment Plant in Detroit, April 30, 2014. As Detroit struggles...</p>
     </div>
   </a>
   <h6><a href="/images/photos/business_finance">
@@ -432,14 +432,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1137752.html">
+  <a class="featured-photo" href="/images/photos/1139443.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>BAHAMAS SHARED HOME 2</h5>
-      <p class="large-excerpt">Stairs lead up to a home perched atop a 35-foot sand dune on Harbour Island, Bahamas, April 27, 2014. Fabricated in concrete block, recycled cedar and tropical hardwoods, the home is invisible from the street and adheres to a somewhat primitive aesthetic. (Tony Cenicola/The New York Times)</p>
-      <p class="small-excerpt">Stairs lead up to a home perched atop a 35-foot sand dune on Harbour Island, Bahamas, April 27, 2014. Fabricated in concrete block, recycled cedar and tropical hardwoods, the home is invisible fr...</p>
+      <h5>EYES MAKEUP 1</h5>
+      <p class="large-excerpt">Model Alexandra Mark before an application of makeup to recreate a look worn by actress January Jones on the cable series "Mad Men," in New York, May 5, 2014. For those who cringe at the memory of the Technicolor palettes of the ’70s and ’80s, using color but with classic shapes - like the cat eye - is more approachable because it’s a familiar idea of beauty. (Tina Fineberg/The New York Times)</p>
+      <p class="small-excerpt">Model Alexandra Mark before an application of makeup to recreate a look worn by actress January Jones on the cable series "Mad Men," in New York, May 5, 2014. For those who cringe at the memory o...</p>
     </div>
   </a>
   <h6><a href="/images/photos/lifestyle">
@@ -450,14 +450,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1137875.html">
+  <a class="featured-photo" href="/images/photos/1149740.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>CIR SENSORS HEALTH 4</h5>
-      <p class="large-excerpt">In an undated handout photo, the Owlet  Smart Sock. The Owlet Smart Sock sends real-time information on an infant’s vital signs to a device. (Handout via The New York Times) -- NO SALES; FOR EDITORIAL USE ONLY WITH STORY SLUGGED CIR SENSORS HEALTH BY ERIC A. TAUB. ALL OTHER USE PROHIBITED. --</p>
-      <p class="small-excerpt">In an undated handout photo, the Owlet  Smart Sock. The Owlet Smart Sock sends real-time information on an infant’s vital signs to a device. (Handout via The New York Times) -- NO SALES; FOR EDIT...</p>
+      <h5>CIR STATE COLUMN 3</h5>
+      <p class="large-excerpt">Before the effects of the editing feature in Instagram in an undated photo. The picture-sharing app is rolling out a set of robust new tools to allow users to quickly and easily enhance the images they post. (Farhad Manjoo/The New York Times)</p>
+      <p class="small-excerpt">Before the effects of the editing feature in Instagram in an undated photo. The picture-sharing app is rolling out a set of robust new tools to allow users to quickly and easily enhance the image...</p>
     </div>
   </a>
   <h6><a href="/images/photos/science_and_circuits">
@@ -468,14 +468,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1141459.html">
+  <a class="featured-photo" href="/images/photos/1138343.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>RAC PREAKNESS 3</h5>
-      <p class="large-excerpt">Roger Sands checks out the racing forms at the 139th Preakness Stakes in Baltimore, May 17, 2014. Nine other horses will be racing to spoil California Chrome's quest to become the 12th Triple Crown winner and the first since Affirmed in 1978. (Matt Roth/The New York Times)</p>
-      <p class="small-excerpt">Roger Sands checks out the racing forms at the 139th Preakness Stakes in Baltimore, May 17, 2014. Nine other horses will be racing to spoil California Chrome's quest to become the 12th Triple Cro...</p>
+      <h5>FBN DRAFT 8</h5>
+      <p class="large-excerpt">Johnny Manziel, a quarterback from Texas A&M, is surrounded after being drafted by the Cleveland Browns with the 22nd pick during the 2014 NFL Draft at Radio City Music Hall in New York, May 8, 2014. (Andrew White/The New York Times)</p>
+      <p class="small-excerpt">Johnny Manziel, a quarterback from Texas A&M, is surrounded after being drafted by the Cleveland Browns with the 22nd pick during the 2014 NFL Draft at Radio City Music Hall in New York, May 8, 2...</p>
     </div>
   </a>
   <h6><a href="/images/photos/sports">

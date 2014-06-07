@@ -1,4 +1,5 @@
 import urllib2
+from saveTopic import saveBaiduTopics,saveTencentTopics,saveSohuTopics,saveNeteasyTopics
 content1 = urllib2.urlopen('http://news.baidu.com').read()
 content2 = urllib2.urlopen('http://news.qq.com').read()
 content3 = urllib2.urlopen('http://news.sohu.com').read()
@@ -19,4 +20,7 @@ output4.close()
 output5 = open('.\\source\\newyorktimes.txt','w')
 output5.write(content5)
 output5.close()
-
+saveBaiduTopics()
+saveTencentTopics()
+saveSohuTopics()
+saveNeteasyTopics()
