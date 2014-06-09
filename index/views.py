@@ -12,9 +12,9 @@ def tencenthome(req):
 	newsinfo = NewsInfo.objects.filter(source=1)
 	return render_to_response('tencent_homepage.html',{'newsinfo':newsinfo})
 
-def souhuhome(req):
+def sohuhome(req):
 	newsinfo = NewsInfo.objects.filter(source=2)
-	return render_to_response('souhu_homepage.html',{'newsinfo':newsinfo})
+	return render_to_response('sohu_homepage.html',{'newsinfo':newsinfo})
 
 def neteasyhome(req):
 	newsinfo = NewsInfo.objects.filter(source=3)
