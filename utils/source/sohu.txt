@@ -210,7 +210,7 @@ showTurnAD593(intTurnAD593);
 		<div class="center">
 			<div class="sreach">
 <form name="sogousearch" action="http://news.sogou.com/news" target="_blank">
-<input name="query" type="text" id="topSearch" value="赵智勇落马" />
+<input name="query" type="text" id="topSearch" value="2014高考" />
     <input type="submit" value="" class="submit-btn" title="提交" name="">
     </form>
 
@@ -238,9 +238,10 @@ showTurnAD593(intTurnAD593);
 		<div class="l">
 			<div class="focus clear" id="focus">
 				<div class="focus-now">
-<div class="pic"><a href="http://pic.news.sohu.com/detail-570864-0.shtml" target="_blank"><img alt="" src="http://i0.itc.cn/20140607/2f59_05003155_35d2_b9c5_7082_97799e70356b_1.jpg" width="340" height="235" filter="1"></a></div>
+<div class="pic"><a href="http://pic.news.sohu.com/group-571142.shtml" target="_blank"><img alt="" src="http://i0.itc.cn/20140608/2b65_e4c19204_8b1a_32d2_75c0_950042966551_1.jpg" width="340" height="235" filter="1"></a></div>
 <div class="txt-bg"></div>
-<div class="txt-txt"><span class="cor"></span><a href="http://pic.news.sohu.com/detail-570864-0.shtml" target="_blank"><span class="focus-icon"></span>送考家长沿街烧纸跪拜</a></div></div>
+<div class="txt-txt"><span class="cor"></span><a href="http://pic.news.sohu.com/group-571142.shtml" target="_blank"><span class="focus-icon"></span>黑龙江一快餐店爆炸 疑人为报复</a></div></div>
+
 <div class="focus-list">
 <div class="box clear">
 <div class="pic"><a href="http://pic.news.sohu.com/group-570599.shtml" target="_blank"><img alt="" src="http://i0.itc.cn/20140606/3321_eb85dc10_60d4_a6f4_6754_5bae76a5f3dc_1.jpg" width="340" height="235" filter="1"></a> </div>
@@ -260,54 +261,51 @@ showTurnAD593(intTurnAD593);
 <li class="end">拍 客</li>
 					</ul>
 				</div>
-				<div class="block">
-<div class="pic-group">
-<ul>
-<li><a href="http://tv.sohu.com/20140607/n400539488.shtml" target="_blank"><img style="ZOOM: 1; opacity: 0.9" alt=高考“状元房” 家长两天花销超万元
-src="http://i3.itc.cn/20140607/330b_bcc020a2_3548_b8e5_ceec_4e584e27f98a_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400539488.shtml" target="_blank">高考状元房 家长两天花销超万元</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-
-<li><a href="http://tv.sohu.com/20140607/n400541127.shtml" target="_blank"><img style="ZOOM: 1; opacity: 1" alt=姐弟俩高温天钻入僵尸车玩耍疑遭闷死 src="http://i0.itc.cn/20140607/330b_c6e370af_790e_905f_b795_1b1e78f4c727_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400541127.shtml" target="_blank">姐弟高温天钻入僵尸车玩耍疑遭闷死</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-
-<li class="end"><a href="http://tv.sohu.com/20140606/n400526686.shtml" target="_blank"><img style="ZOOM: 1; opacity: 1" alt="交警说哭野导游 称演技过头还需火候" src="http://i1.itc.cn/20140607/330b_4ee22dd9_cbae_b6fc_400b_203cadf5b930_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140606/n400526686.shtml" target="_blank">交警说哭野导游 演技过头还需火候</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
-<div class="line"></div>
-<div class="v-list">
-<ul>
-<li><a href="http://tv.sohu.com/20140606/n400526628.shtml" target="_blank">4500人合拍巨型毕业照</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140606/n400526682.shtml" target="_blank">男子网购银行卡遇陷阱</a></li>
-<li><a href="http://tv.sohu.com/20140606/n400526678.shtml" target="_blank">走进亚洲最大高考工厂</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140606/n400522457.shtml" target="_blank">价值十万红龙鱼被清蒸</a></li>
-<li><a href="http://tv.sohu.com/20140607/n400541063.shtml" target="_blank">凶残黑暗料理榴莲盖饭</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140607/n400539494.shtml" target="_blank">5大妈高速路跳广场舞</a></li></ul></div></div>
-<div class="block hidden">
-<div class="pic-group">
-<ul>
-<li><a href="http://tv.sohu.com/20140607/n400536464.shtml" target="_blank"><img alt=高圆圆赵又廷新婚之夜酒店度过 src="http://i3.itc.cn/20140607/3010_2d204da3_6d2d_7a83_c4ce_fb78fb9c6604_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400536464.shtml" target="_blank">高圆圆赵又廷新婚之夜酒店度过</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-<li><a href="http://tv.sohu.com/20140607/n400537521.shtml" target="_blank"><img alt=张柏芝带两子游玩 遇粉丝求合照 src="http://i0.itc.cn/20140607/3010_2d204da3_6d2d_7a83_c4ce_fb78fb9c6604_2.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400537521.shtml" target="_blank">张柏芝带两子游玩 遇粉丝求合照</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-<li class="end"><a href="http://tv.sohu.com/20140607/n400537499.shtml" target="_blank"><img alt=邓紫棋疑装大牌贬低金秀贤 src="http://i3.itc.cn/20140607/3010_1e76ffb4_9317_7336_b9c2_0e7ffa9d3018_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400537499.shtml" target="_blank">邓紫棋疑装大牌贬低金秀贤</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
-<div class="line"></div>
-<div class="v-list">
-<ul>
-<li><a href="http://tv.sohu.com/20140607/n400537445.shtml" target="_blank">巩俐访港宣传闹乌龙</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140607/n400537407.shtml" target="_blank">吴尊亮相上海排场足</a></li>
-<li><a href="http://tv.sohu.com/20140607/n400536457.shtml" target="_blank">窦靖童绷带照帅哭网友</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140607/n400536475.shtml" target="_blank">那英开车带儿子外出</a></li>
-<li><a href="http://tv.sohu.com/20140607/n400539098.shtml" target="_blank">林志玲自曝用冷水美胸</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140607/n400541106.shtml" target="_blank">曝彭顺小三曾做陪酒妹</a></li></ul></div></div>
-<div class="block hidden">
-<div class="pic-group">
-<ul>
-<li><a href="http://tv.sohu.com/20140606/n400523957.shtml" target="_blank"><img alt=女教师为抢车位驾车故意撞保安 src="http://i3.itc.cn/20140607/330b_3c6e80b9_6327_1404_134a_393f517d5c3f_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140606/n400523957.shtml" target="_blank">女教师为抢车位驾车故意撞保安</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-<li><a href="http://tv.sohu.com/s2014/tcgk/index.shtml" target="_blank"><img alt=看屌丝学渣如何变身学霸 src="http://i0.itc.cn/20140607/330b_adc486e6_ef24_9c4c_b73b_8a30ae84f755_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/s2014/tcgk/index.shtml" target="_blank">看屌丝学渣如何变身学霸 </a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
-<li class="end"><a href="http://tv.sohu.com/20140607/n400539544.shtml" target="_blank"><img alt=男子开豪车求婚高考生 中学门前上演浪漫求婚记 src="http://i3.itc.cn/20140607/330b_0082e75c_09c9_afe2_07cd_967195ec5981_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400539544.shtml" target="_blank">男子中学门前开豪车求婚高考生</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
-<div class="line"></div>
-<div class="v-list">
-<ul>
-<li><a href="http://my.tv.sohu.com/pl/6868711/70238316.shtml" target="_blank">外国人挑战高考英语卷</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140606/n400520071.shtml" target="_blank">高考指定战歌《背呗》</a></li>
-<li><a href="http://tv.sohu.com/20140606/n400526684.shtml" target="_blank">醉鬼各种睡姿笑翻路人</a></li>
-<li class="mg"><a href="http://tv.sohu.com/20140606/n400520069.shtml" target="_blank">看韩国人如何找停车位</a></li>
-<li><a href="http://my.tv.sohu.com/pl/6881885/70241200.shtml" target="_blank">世界杯假摔的艺术鉴赏</a></li>
-<li class="mg"><a href="http://my.tv.sohu.com/us/3130826/70170514.shtml" target="_blank"><刀客家族的女人>穿帮</a></li></ul></div></div>
+				<div class="block"  >
+<div class="pic-group"  >
+<ul  >
+<li  ><a href="http://tv.sohu.com/20140608/n400564309.shtml" target="_blank"  ><img style="ZOOM: 1; opacity: 0.9" alt="黑龙江快餐店爆炸 疑人为报复" src="http://i1.itc.cn/20140608/3122_ef0ab71b_e50a_f453_a462_21a06c4f7175_1.jpg" width=100 height=70 家长两天花销超万元></a><span><a href="http://tv.sohu.com/20140608/n400564309.shtml" target="_blank">黑龙江一快餐店爆炸 疑人为报复</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li  ><a href="http://tv.sohu.com/20140607/n400545999.shtml" target="_blank"  ><img style="ZOOM: 1; opacity: 1" alt=18名大学生当高考枪手被抓 src="http://i3.itc.cn/20140608/3122_8b88cfba_db98_b0e9_d0f9_42f76902a3e3_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140607/n400545999.shtml" target="_blank">18名大学生当高考枪手被抓</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li class="end"><a href="http://tv.sohu.com/20140608/n400558765.shtml" target="_blank"><img style="ZOOM: 1; opacity: 1" alt=记者录下交警索贿全过程 src="http://i1.itc.cn/20140608/3122_8b88cfba_db98_b0e9_d0f9_42f76902a3e3_3.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140608/n400558765.shtml" target="_blank">记者录下交警索贿全过程</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
+<div class="line"></div>
+<div class="v-list">
+<ul>
+<li><a href="http://tv.sohu.com/20140607/n400542420.shtml" target="_blank">高校食堂四大奇菜亮瞎眼</a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140607/n400536814.shtml" target="_blank">城管劝解广场舞遭围攻</a></li>
+<li><a href="http://tv.sohu.com/20140607/n400546603.shtml" target="_blank">青海工厂毒气泄漏致2死</a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140608/n400560790.shtml" target="_blank">殡仪馆冰柜突现大活人</a></li>
+<li><a href="http://tv.sohu.com/20140608/n400561000.shtml" target="_blank">上饶两层楼房垮塌2人亡 </a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140607/n400549002.shtml" target="_blank">男子空卡取钱怒砸ATM机</a></li></ul></div></div>
+<div class="block hidden">
+<div class="pic-group">
+<ul>
+<li><a href="http://tv.sohu.com/20140608/n400556904.shtml" target="_blank"><img alt=高圆圆不舍送别赵又廷 src="http://i3.itc.cn/20140608/83d_28cc4065_3cfe_f54e_c2a9_623d3816535a_3.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140608/n400556904.shtml" target="_blank">高圆圆不舍送别赵又廷</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li><a href="http://tv.sohu.com/20140608/n400558166.shtml" target="_blank"><img alt=黄晓明BABY甜蜜耳语 src="http://i2.itc.cn/20140608/83d_28cc4065_3cfe_f54e_c2a9_623d3816535a_2.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140608/n400558166.shtml" target="_blank">黄晓明BABY甜蜜耳语</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li class="end"><a href="http://tv.sohu.com/20140608/n400557460.shtml" target="_blank"><img alt=王中磊一家四口亮相 src="http://i1.itc.cn/20140608/83d_28cc4065_3cfe_f54e_c2a9_623d3816535a_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140608/n400557460.shtml" target="_blank">王中磊一家四口亮相</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
+<div class="line"></div>
+<div class="v-list">
+<ul>
+<li><a href="http://tv.sohu.com/20140608/n400558236.shtml" target="_blank">AKB总选渡边麻友登顶</a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140608/n400559188.shtml" target="_blank">马伊琍女儿书法获赞</a></li>
+<li><a href="http://tv.sohu.com/20140608/n400556928.shtml" target="_blank">黄圣依与杨子会友聚餐</a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140608/n400556913.shtml" target="_blank">刘青云拍片路人围观</a></li>
+<li><a href="http://tv.sohu.com/20140608/n400558098.shtml" target="_blank">曝许志安郑秀文领证</a></li>
+<li class="mg"><a href="http://tv.sohu.com/20140608/n400561185.shtml" target="_blank">曝陶喆系奉子成婚</a></li></ul></div></div>
+<div class="block hidden">
+<div class="pic-group">
+<ul>
+<li><a href="http://tv.sohu.com/20140608/n400561212.shtml" target="_blank"><img alt=狐狸窜ATM机前排队取钱 src="http://i1.itc.cn/20140608/3122_a6c605e8_2d32_9f4d_f106_622db5764a77_2.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/20140608/n400561212.shtml" target="_blank">狐狸窜ATM机前排队取钱</a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li><a href="http://tv.sohu.com/s2014/tcgk/index.shtml" target="_blank"><img alt=看屌丝学渣如何变身学霸 src="http://i0.itc.cn/20140607/330b_adc486e6_ef24_9c4c_b73b_8a30ae84f755_1.jpg" width=100 height=70></a><span><a href="http://tv.sohu.com/s2014/tcgk/index.shtml" target="_blank">看屌丝学渣如何变身学霸 </a></span><em class="txt-bg"></em><em class="play-icon"></em></li>
+<li class="end"><a href="http://my.tv.sohu.com/pl/6881885/70241290.shtml" target="_blank"><img alt=足球明星代言完爆娱乐明星？ src="http://i3.itc.cn/20140608/3122_a6c605e8_2d32_9f4d_f106_622db5764a77_1.jpg" width=100 height=70></a><span><a href="http://my.tv.sohu.com/pl/6881885/70241290.shtml" target="_blank">足球明星代言完爆娱乐明星？</a></span><em class="txt-bg"></em><em class="play-icon"></em></li></ul></div>
+<div class="line"></div>
+<div class="v-list">
+<ul>
+<li><a href="http://my.tv.sohu.com/pl/6882324/70266130.shtml" target="_blank">论妹子化妆的重要性</a></li>
+<li class="mg"><a href="http://my.tv.sohu.com/pl/6882324/70245836.shtml" target="_blank">网友恶搞：舌尖真2</a></li>
+<li><a href="http://my.tv.sohu.com/pl/6881885/70241200.shtml" target="_blank">3分钟解读足坛假摔</a></li>
+<li class="mg"><a href="http://my.tv.sohu.com/us/7149389/70161918.shtml" target="_blank">犀利吐槽花儿与少年</a></li>
+<li><a href="http://my.tv.sohu.com/us/201150369/70215126.shtml" target="_blank">猫星人大战黑衣小人</a></li>
+<li class="mg"><a href="http://my.tv.sohu.com/us/212583737/70222518.shtml" target="_blank">国宝拒绝洗澡萌化了</a></li></ul></div></div>
 			</div>
 			<div class="blockLB clear" id="menu-b">
 				<div class="menuA">
@@ -327,9 +325,9 @@ src="http://i3.itc.cn/20140607/330b_bcc020a2_3548_b8e5_ceec_4e584e27f98a_1.jpg" 
  <div class="list12 list12-c2 list12-c22"> 
   <ul> 
 
-<li><a href="http://star.news.sohu.com/20140606/n400489685.shtml" target="_blank">不给任何腐败者留后路 只让新官申报财产不太公平</a></li>
+<li><a href="http://star.news.sohu.com/20140608/n400558037.shtml" target="_blank">林达：美国是如何解决“丐帮”问题的</a></li>
 
-<li><a href="http://star.news.sohu.com/20140606/n400487707.shtml" target="_blank">“情妇买房非受贿”别当笑话了事 亟需堵塞法律漏洞</a>
+<li><a href="http://star.news.sohu.com/20140608/n400558003.shtml" target="_blank">推进基础性司法改革 须重点与难点的突破</a>
 
   
 
@@ -363,31 +361,31 @@ src="http://i3.itc.cn/20140607/330b_bcc020a2_3548_b8e5_ceec_4e584e27f98a_1.jpg" 
 				</div>
 				<div class="sn-list">
   <ul>
-    <li><span class="num">1455254</span><span class="sn col">01</span><a href="http://news.sohu.com/20140606/n400495800.shtml" target="_blank">女学生“包养门”升级 数人称遭“港商”拍...</a></li>
-<li><span class="num">1181935</span><span class="sn col">02</span><a href="http://news.sohu.com/20140606/n400481471.shtml" target="_blank">中科院一中心副主任受贿10万被偷拍</a></li>
-<li><span class="num">852604</span><span class="sn col">03</span><a href="http://news.sohu.com/20140605/n400478090.shtml" target="_blank">习近平：做好顶层设计 构建“1+2+3”...</a></li>
-<li><span class="num">763083</span><span class="sn">04</span><a href="http://news.sohu.com/20140606/n400512473.shtml" target="_blank">江苏公职人员被曝不雅照 称搂的是前女友</a></li>
-<li><span class="num">687551</span><span class="sn">05</span><a href="http://news.sohu.com/20140606/n400482585.shtml" target="_blank">招远血案“光头男”：曾两次对“神”短暂怀...</a></li>
+    <li><span class="num">1432715</span><span class="sn col">01</span><a href="http://news.sohu.com/20140607/n400534553.shtml" target="_blank">女生大四产女带宝宝拍毕业照 称找工作更有...</a></li>
+<li><span class="num">1212012</span><span class="sn col">02</span><a href="http://news.sohu.com/20140607/n400532108.shtml" target="_blank">高官陈安众往事：一斤八的酒量、十八岁的姑...</a></li>
+<li><span class="num">736794</span><span class="sn col">03</span><a href="http://news.sohu.com/20140607/n400533854.shtml" target="_blank">法总统当“和事老” 奥巴马普京餐桌搭话</a></li>
+<li><span class="num">736451</span><span class="sn">04</span><a href="http://news.sohu.com/20140607/n400533477.shtml" target="_blank">白宫称“奥普会”提三点要求 呼吁普京抓住...</a></li>
+<li><span class="num">683018</span><span class="sn">05</span><a href="http://news.sohu.com/20140607/n400545365.shtml" target="_blank">扬州环保局女局长金秋芬被查 被曝为季建业...</a></li>
 
   </ul>
 </div>
 <div class="sn-list hidden">
         <ul>
-        <li><span class="num">3891</span><span class="sn col">01</span><a href="http://news.sohu.com/20140607/n400532108.shtml" target="_blank">高官陈安众往事：一斤八的酒量、十八岁的...</a></li>
-        <li><span class="num">3031</span><span class="sn col">02</span><a href="http://news.sohu.com/20140607/n400534553.shtml" target="_blank">女生大四产女带宝宝拍毕业照 称找工作更...</a></li>
-        <li><span class="num">2516</span><span class="sn col">03</span><a href="http://news.sohu.com/20140607/n400533381.shtml" target="_blank">中国登顶珠峰女登山家承认乘直升机 此前...</a></li>
-        <li><span class="num">2464</span><span class="sn">04</span><a href="http://news.sohu.com/20140607/n400535088.shtml" target="_blank">网友举报妻遭官员调戏 官方澄清系普通税...</a></li>
-        <li><span class="num">1993</span><span class="sn">05</span><a href="http://news.sohu.com/20140607/n400545365.shtml" target="_blank">扬州环保局女局长金秋芬被查 被曝为季建...</a></li>
+        <li><span class="num">4334</span><span class="sn col">01</span><a href="http://news.sohu.com/20140607/n400550629.shtml" target="_blank">青海西宁再曝交警索贿事件(组图)-搜狐新...</a></li>
+        <li><span class="num">4124</span><span class="sn col">02</span><a href="http://news.sohu.com/20140608/n400555332.shtml" target="_blank">江西夺刀救人考生登人民日报头版(组图)-...</a></li>
+        <li><span class="num">3063</span><span class="sn col">03</span><a href="http://news.sohu.com/20140608/n400554055.shtml" target="_blank">中国去年输出930万移民 首选美国和加拿大...</a></li>
+        <li><span class="num">2629</span><span class="sn">04</span><a href="http://quan.sohu.com/pinglun/cyqemw6s1/400568367" target="_blank">“981”钻井平台作业：越南的挑衅和中国...</a></li>
+        <li><span class="num">2204</span><span class="sn">05</span><a href="http://news.sohu.com/20140608/n400552284.shtml" target="_blank">长沙警方通报涉医案处理情况：逼跪医生者...</a></li>
       </ul>
   
 </div>
 <div class="sn-list hidden">
   <ul>
-    <li><span class="num">6183349</span><span class="sn col">01</span><a href="http://pic.news.sohu.com/group-570562.shtml" target="_blank">美国孕妇野外分娩直播引争议</a></li>
-<li><span class="num">6065132</span><span class="sn col">02</span><a href="http://pic.news.sohu.com/group-570015.shtml" target="_blank">一座被高考魔化的城</a></li>
-<li><span class="num">3013820</span><span class="sn col">03</span><a href="http://pic.news.sohu.com/group-570215.shtml" target="_blank">男子救坠河女子溺亡 遗体呈救人姿势</a></li>
-<li><span class="num">2210972</span><span class="sn">04</span><a href="http://pic.news.sohu.com/group-570481.shtml" target="_blank">我，笑傲高考</a></li>
-<li><span class="num">1630155</span><span class="sn">05</span><a href="http://pic.news.sohu.com/group-570761.shtml" target="_blank">济南弃婴岛：女童熟睡中被推出车外</a></li>
+    <li><span class="num">4960932</span><span class="sn col">01</span><a href="http://pic.news.sohu.com/group-570562.shtml" target="_blank">美国孕妇野外分娩直播引争议</a></li>
+<li><span class="num">2864162</span><span class="sn col">02</span><a href="http://pic.news.sohu.com/group-570761.shtml" target="_blank">济南弃婴岛：女童熟睡中被推出车外</a></li>
+<li><span class="num">2482182</span><span class="sn col">03</span><a href="http://pic.news.sohu.com/group-570652.shtml" target="_blank">婚房内强暴女孩 未进洞房先进班房</a></li>
+<li><span class="num">2062398</span><span class="sn">04</span><a href="http://pic.news.sohu.com/group-570864.shtml" target="_blank">湖北武汉送考家长沿街烧纸跪拜</a></li>
+<li><span class="num">1593000</span><span class="sn">05</span><a href="http://pic.news.sohu.com/group-570778.shtml" target="_blank">诺曼底70周年纪念：奥普“尴尬相见”</a></li>
 
   </ul>
 </div>
@@ -447,75 +445,80 @@ src="http://i3.itc.cn/20140607/330b_bcc020a2_3548_b8e5_ceec_4e584e27f98a_1.jpg" 
 			</div>
 			<div id="change-con">
 				<div class="news">
-<h1><a title="" href="http://news.sohu.com/20140606/n400522469.shtml" target="_blank" class="">习近平主持深改组会议 确定户改总要求</a></h1>
-<p><a href="http://news.sohu.com/20140606/n400527013.shtml" title="" target="_blank" class="">李克强听取李小鹏等8名省长市长汇报工作</a> <a href="http://news.sohu.com/20140606/n400525073.shtml" title="" target="_blank" class="">取消200项行政审批</a></p></div>
+<h1><a title="" href="http://news.sohu.com/20140608/n400562355.shtml" target="_blank" class="">外交部长：习近平有望年内访问印度</a></h1>
+<p><a href="http://news.sohu.com/20140608/n400570228.shtml " title="" target="_blank" class="">15项重大政策密集出台</a>| <a href="http://news.sohu.com/20140608/n400570362.shtml" title="" target="_blank" class="">刘云山将出访欧洲四国</a>| <a href="http://news.sohu.com/20140608/n400570378.shtml" title="" target="_blank">群众路线实践</a></p></div>
+
+
+<div class="news">
+<h1><a href="http://news.sohu.com/20140608/n400569472.shtml" target="_blank" title="" class="">"夺刀考生"获见义勇为称号</a> <a href="http://news.survey.sohu.com/poll/result.php?poll_id=84041" title="" target="_blank">该保送吗？</a></h1>
+<p><a title="" href="http://learning.sohu.com/20140608/n400569567.shtml" target="_blank" class="">得单考单招机会</a>| <a href=" http://learning.sohu.com/20140608/n400568045.shtml" title="" target="_blank" class="">考生迟到被拒 家长集体求情未果(图)</a></p>
+<p><a title="" href="http://pic.learning.sohu.com/group-571246.shtml#0" target="_blank" class="">多地高考结束</a> <a href=" http://learning.sohu.com/s2014/gkzt/" title="" target="_blank" class="">试题答案</a> <a href="http://learning.sohu.com/20140608/n400569680.shtml" title="" target="_blank" class="">成绩查询日期</a>| <a href="http://news.sohu.com/20140608/n400568572.shtml" title="" target="_blank" class="">家长孩子齐喊“解放”</a></p>
+
+
+</div>
+
+
+<div class="news">
+<h1><a href="http://news.sohu.com/20140608/n400568367.shtml" target="_blank" title="" class="">中方：越方纵容反华 冲撞钻井平台1416次 </a></h1>
+<p><a title="" href="http://news.sohu.com/20140608/n400568367.shtml" target="_blank" class="">派特工水下布障</a> <a href="http://news.sohu.com/20140608/n400565587.shtml" title="" target="_blank" class="">菲越军队今在南海岛屿(中国领土)办体育比赛</a></p>
+</div>
+
+
 
 
 
 
 
 <div class="news">
-<h1><a href="http://learning.sohu.com/s2014/gaokaozhibo/index.shtml" target="_blank" title=""><img src="http://i0.itc.cn/20101110/85b_244ad0ca_0b33_41e6_8443_327afd57765a_0.gif" alt="pic"></a><a href="http://learning.sohu.com/s2014/gkzw/" title="" target="_blank" class="">山东等3省高考作文题雷同 默契"看风景"</a></h1>
-<p><a title="" href="http://news.sohu.com/20140607/n400541810.shtml" target="_blank" class="">各地| 北京-老规矩</a> <a href="http://news.sohu.com/20140607/n400542887.shtml" title="" target="_blank" class="">天津-卖菜大娘大脑植入智能芯片</a> <a href="http://news.sohu.com/20140607/n400542887.shtml" title="" target="_blank" class=""><font style="font-weight:bold;">汇总</font></a></p>
-<p><a title="" href="http://learning.sohu.com/20140606/n400528829.shtml" target="_blank" class="">点评| 张鸣：北京作文基调有点陈腐</a> <a href="http://learning.sohu.com/20140606/n400528930.shtml" title="" target="_blank" class="">专家：四川“太汪峰”</a></p>
-<p><a href="http://learning.sohu.com/s2014/beida/" title="" target="_blank" class="">策划| 独家：哪些省份最容易考上北大</a> <a href="http://learning.sohu.com/s2014/shijuan/" title="" target="_blank">策划：试卷那些内幕 </a></p> 
+<h1><a href="http://news.sohu.com/20140608/n400555251.shtml" title="" target="_blank" class="">广州书记赛龙舟夺银 市民:年年夺冠有啥劲</a></h1>
+
+<p><a title="" href="http://news.sohu.com/20140608/n400555251.shtml" target="_blank" class="">与市长组“一哥队” 4年首丢冠不敌外国队 赛后总结：缺练习</a></p>
+<p><a title="" href="http://news.sohu.com/20140608/n400568021.shtml" target="_blank" class="">忆当年|任副书记时突击学游泳15天夺第二 时任书记张广宁第一</a></p>
+
  </div>
 
-<div class="news">
-<h1><a href="http://news.sohu.com/20140607/n400548290.shtml" target="_blank" title="" class="">网友神吐槽作文题</a> <a href="http://learning.sohu.com/s2014/gkzw/#diaocha" title="" target="_blank">投票：哪个最难写?</a></h1>
-<p><a title="" href="http://learning.sohu.com/s2014/gkzt/" target="_blank" class="">真题| 语文题及答案</a> <a href="http://pic.learning.sohu.com/group-570968.shtml#0" title="" target="_blank">广东卷文科数学题及答案</a> <a href="http://learning.sohu.com/s2014/gkzt_list/index.shtml" title="" target="_blank">各地真题汇总</a></p>
-</div>
-
 
 <div class="news">
-<h1><a title="" href="http://news.sohu.com/20140606/n400527626.shtml" target="_blank">越南：反政府组织挑动反华 纠结百人打砸</a></h1>
+<h1><a title="" href="http://news.sohu.com/20140608/n400567910.shtml" target="_blank">大妈在堵车高速路跳广场舞 交警介入调查</a></h1>
 
 
 
 
-<p><a title="" href="http://news.sohu.com/20140606/n400527626.shtml" target="_blank" class="">称其企图推翻政府</a> <a href="http://news.sohu.com/20140606/n400525728.shtml" title="" target="_blank" class="">公开视频声称中方撞沉越船 中方：倒打一耙</a></p>
-</div>
-
-
-<div class="news">
-<h1><a title="" href="http://news.sohu.com/20140607/n400533381.shtml?adsid=1" target="_blank" class="">中国女登山家打破传统：坐直升机登珠峰</a></h1>
-
-
-<p><a href="http://news.sohu.com/20140607/n400533381.shtml?adsid=1" title="" target="_blank" class="">一度否认 被逼承认：因冰崩没其他路可走| 业内反对颁发证书</a></p>
+<p><a title="" href="http://news.sohu.com/20140608/n400567910.shtml" target="_blank" class="">大巴司机：后车大妈跳的 正给每个乘客打电话 请他们写证明</a></p>
 
 </div>
 				<div class="line"></div>
 				<div class="list14">
-<h3><a title="" href="http://news.sohu.com/20140607/n400531450.shtml" target="_blank" news.sohu.com="" 20140417="" n398385341.shtml?="" class="">东海舰队坠毁战机疑为"飞豹" 可超音速飞行</a></h3>
+<h3><a title="" href="http://news.sohu.com/20140608/n400572077.shtml" target="_blank" news.sohu.com="" 20140417="" n398385341.shtml?="" class="">广东省政协召开党组会议 朱明国主持</a></h3>
 <ul>
-<li><a title="" href="http://news.sohu.com/20140607/n400536818.shtml" target="_blank" class="">鲁炜会见ICANN首席执行官法迪-谢哈德</a></li>
-<li><a title="" href="http://news.sohu.com/20140607/n400534553.shtml" target="_blank" class="">大四女生抱8个月女儿拍毕业照：更容易找工作</a></li>
-<li><a title="" href="http://news.sohu.com/20140607/n400547290.shtml" target="_blank" class="">乘客喊砍人引恐慌 广州地铁发生拥挤事件</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400563972.shtml" target="_blank" class="">让员工表决！国企不服国资委清退领导亲戚</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400565985.shtml" target="_blank" class="">交警索贿200元换被扣驾照 警方：辞退涉事人</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400567798.shtml" target="_blank" class="">统计局：2013年北京职工平均工资接近7万元</a></li>
 
 </ul></div>
 <div class="list14">
-<h3><a title="" href="http://news.sohu.com/20140607/n400545365.shtml" target="_blank" class="">扬州女局长被查 被曝为季建业情妇之一(图)</a></h3>
+<h3><a title="" href=" http://news.sohu.com/20140608/n400572036.shtml" target="_blank" class="">广州三元里数百人聚集 与执法者对峙(图)</a></h3>
 <ul>
 
 
-<li><a title="" href="http://news.sohu.com/20140607/n400532108.shtml?adsid=1" target="_blank" class="">落马高官陈安众往事：1.8斤酒量 18岁姑娘</a></li>
-<li><a title="" href="http://news.sohu.com/20140607/n400535088.shtml" target="_blank" class="">网友举报妻子遭官员调戏：被当成夜总会小姐</a></li>
-
+<li><a title="" href="http://news.sohu.com/20140608/n400565156.shtml" target="_blank" class="">广西玉林市民：你可以不吃狗肉 别影响我们吃</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400565775.shtml" target="_blank" class="">女子为救患癌母亲花光积蓄 自己得白血病没钱治</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400566206.shtml" target="_blank" class="">前经纪人谈与成龙“分手”：他已走火入魔</a></li>
 </ul></div>
 <div class="list14">
-<h3><a title="" href="http://nk.news.sohu.com/20140607/n400539352.shtml" target="_blank" class="">朝鲜人眼里的男子汉：要骑着电单车赚钱</a></h3>
+<h3><a title="" href="http://news.sohu.com/20140608/n400567256.shtml" target="_blank" class="">日本巡逻机在冲绳海域发现中国海军编队(图)</a></h3>
 <ul>
-<li><a title="" href="http://nk.news.sohu.com/20140606/n400524751.shtml" target="_blank" class="">朝鲜播《我们的爸爸》 曝光金正恩T恤造型(图)</a></li>
-<li><a title="" href="http://news.sohu.com/20140607/n400542932.shtml" target="_blank" class="">中方找到远征军在缅墓地 将迎回阵亡将士遗骸</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400560292.shtml" target="_blank" class="">印度未成年姐妹密林遭轮奸 被吊死在树上</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400569157.shtml" target="_blank" class="">MH370家属欲募集500万美元悬赏线人爆内幕</a></li>
 
 </ul></div>
 <div class="list14">
-<h3><a title="" href="http://news.sohu.com/20140607/n400533463.shtml" target="_blank" class="">大妈高速公路遇堵车 跳广场舞打发时间(图)</a></h3>
+<h3><a title="" href="http://news.sohu.com/20140608/n400570244.shtml" target="_blank" class="">中国组合彭帅/谢淑薇首夺法网女双冠军</a></h3>
 <ul>
  
 
-<li><a title="" href="http://news.sohu.com/20140606/n400526832.shtml" target="_blank" class="">西瓜炒肉！大学食堂菜又添新成员(图)</a></li>
-<li><a title="" href="http://news.sohu.com/20140607/n400533572.shtml" target="_blank" class="">徐州捣毁大型幼童色情网站 会员超9万人</a>| <a title="" href="http://news.sohu.com/20131014/n388152286.shtml" target="_blank">招聘</a></li></ul></div>
+<li><a title="" href="http://news.sohu.com/20140608/n400568701.shtml" target="_blank" class="">“绿坝”停止下载使用 之前辟谣遣散员工</a></li>
+<li><a title="" href="http://news.sohu.com/20140608/n400564640.shtml" target="_blank" class="">老人乘公交要求女子让座 遭拒后坐其大腿上</a>| <a title="" href="http://news.sohu.com/20131014/n388152286.shtml" target="_blank">招聘</a></li></ul></div>
 			</div>
                         
 			<div class="customize clear" id="customize">
@@ -563,21 +566,17 @@ src="http://i3.itc.cn/20140607/330b_bcc020a2_3548_b8e5_ceec_4e584e27f98a_1.jpg" 
 				</div>
 				<div class="list14 list14-mg">
 					
-                                        <h3><a href="http://star.news.sohu.com/" target="_blank">“裸官”被查后迁回家人 不能就此万事大吉</a> </h3>
+                                        <h3><a href="http://star.news.sohu.com/" target="_blank">别给毛坦厂中学贴“高考工厂”的妖魔化标签</a> </h3>
 <ul>
 
-<li><a href="http://star.news.sohu.com/20140607/n400536572.shtml" target="_blank">少年勇斗歹徒受伤无法高考 补考比保送更合适</a></li>
+<li><a href="http://star.news.sohu.com/20140608/n400558162.shtml" target="_blank">缺少深入思考 高考作文离现实还是有点远</a></li>
 
-<li><a href="http://star.news.sohu.com/20140607/n400536787.shtml" target="_blank">副市长自缢身亡 官方应披露更多细节</a></li>
+<li><a href="http://star.news.sohu.com/20140608/n400558238.shtml" target="_blank">面对央行喊话 商业银行不能“我的贷款我做主”</a></li>
 
-<li><a href="http://star.news.sohu.com/20140607/n400533862.shtml"
-target="_blank">村民命丧车轮 谁碾轧了对话渠道要查清</a></li>
+<li><a href="http://star.news.sohu.com/20140608/n400558100.shtml" target="_blank">解决“扶不扶”难题 法律站出来撑腰应点赞</a></li>
 
-<li><a href="http://star.news.sohu.com/20140607/n400536519.shtml" target="_blank">抵制狗肉节 现代文明与传统习俗的碰撞</a></li>
-
-
-
-
+<li><a href="http://star.news.sohu.com/20140608/n400558289.shtml"
+target="_blank"> 官员涉黄 把单位通报当遮羞布是自取其辱</a></li>
 
 
 </ul>
@@ -586,7 +585,7 @@ target="_blank">村民命丧车轮 谁碾轧了对话渠道要查清</a></li>
 			</div>
                         <DIV class=ad340>
 <DIV class=t-ad>
-<P><SPAN><A href="http://sohu.lecai.com/?agentId=6811" target=_blank>彩票</A></SPAN>|<A href="http://sohu.lecai.com/?agentId=6811" target=_blank>大乐透6亿奖池或清空</A> <A href="http://sohu.lecai.com/lottery/jczq/spf_wrq/?agentId=6811" target=_blank>竞彩友谊赛西班牙稳胜</A> </P></DIV></DIV>
+<P><SPAN><A href="http://sohu.lecai.com/?agentId=6811" target=_blank>彩票</A></SPAN>|<A href="http://sohu.lecai.com/?agentId=6811" target=_blank>双色球逢周日必井喷</A> <A href="http://sohu.lecai.com/lottery/zqdc/spf/?agentId=6811" target=_blank>竞彩友谊赛法国队稳胜</A> </P></DIV></DIV>
 			<div class="ad340">
                                 <SOHUADCODE><div>
 <div class="t-ad">
@@ -891,18 +890,18 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
 			<div class="scrollNews" id="scrollNews">
 			   <div class="ulBox">
 				   
-				   <ul><li><a href='http://news.sohu.com/20140607/n400548338.shtml' target='_blank'>乌克兰新总统宣誓就职</a><span>18:11</span></li>
-<li><a href='http://news.sohu.com/20140607/n400548286.shtml' target='_blank'>伊拉克一大学遭反政府武装袭击 数十名师生被困</a><span>17:57</span></li>
+				   <ul><li><a href='http://news.sohu.com/20140608/n400572718.shtml' target='_blank'>巴基斯坦接连发生四起所谓“荣誉处死”事件</a><span>22:38</span></li>
+<li><a href='http://news.sohu.com/20140608/n400572711.shtml' target='_blank'>泰国“维和委”再解除宋卡府合艾市等地宵禁</a><span>22:33</span></li>
 </ul>
-				   <ul><li><a href='http://news.sohu.com/20140607/n400548290.shtml' target='_blank'>2014高考作文题引热议 网友神吐槽段子大盘点</a><span>18:13</span></li>
-<li><a href='http://news.sohu.com/20140607/n400548192.shtml' target='_blank'>西南华南有较强降水 华北东北多雷阵雨(图)</a><span>17:51</span></li>
-<li><a href='http://news.sohu.com/20140607/n400548195.shtml' target='_blank'>青海镍铁矿中毒事故续：有毒气体来源尚不明确</a><span>17:51</span></li>
-<li><a href='http://news.sohu.com/20140607/n400548200.shtml' target='_blank'>新疆伊斯兰教界共同声讨“5-22”暴恐案件</a><span>17:47</span></li>
-<li><a href='http://news.sohu.com/20140607/n400548042.shtml' target='_blank'>南水北调水源地湖北十堰出台环保一票否决制</a><span>17:28</span></li>
+				   <ul><li><a href='http://news.sohu.com/20140608/n400572733.shtml' target='_blank'>北京：考生考试前夜遇车祸 趴折叠床上完成高考</a><span>22:40</span></li>
+<li><a href='http://news.sohu.com/20140608/n400572624.shtml' target='_blank'>安徽六安一高考考场电子钟出现误差 </a><span>22:19</span></li>
+<li><a href='http://news.sohu.com/20140608/n400572504.shtml' target='_blank'>“981”钻井平台作业：越南的挑衅和中国的立场</a><span>22:14</span></li>
+<li><a href='http://news.sohu.com/20140608/n400572509.shtml' target='_blank'>新中国审判日本战犯军事法庭旧址见闻</a><span>21:54</span></li>
+<li><a href='http://news.sohu.com/20140608/n400572077.shtml' target='_blank'>广东省政协召开党组会议 朱明国主持会议并讲话</a><span>21:49</span></li>
 </ul>
-				   <ul><li><a href='http://news.sohu.com/20140607/n400548381.shtml' target='_blank'>人民大学教授谈吃狗肉：尽量减轻狗被杀时痛苦</a><span>18:27</span></li>
-<li><a href='http://news.sohu.com/20140607/n400547730.shtml' target='_blank'>广州一男子上演十多个小时“跳桥秀”被刑拘</a><span>17:14</span></li>
-<li><a href='http://news.sohu.com/20140607/n400547781.shtml' target='_blank'>广州地铁发生恐慌逃离事件 致6名乘客轻微擦伤</a><span>17:13</span></li>
+				   <ul><li><a href='http://news.sohu.com/20140608/n400571995.shtml' target='_blank'>广东男子与13岁女生发生性关系 获刑10年</a><span>21:42</span></li>
+<li><a href='http://news.sohu.com/20140608/n400571634.shtml' target='_blank'>男子吸毒后劫持餐厅经理 与警方相持2个小时</a><span>21:10</span></li>
+<li><a href='http://news.sohu.com/20140608/n400571285.shtml' target='_blank'>起底中国三所“高考牛校”：学生酷似考试机器</a><span>20:58</span></li>
 </ul>
 			   </div>
 			</div>
@@ -916,12 +915,12 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
 <div class="more r-m"><a href="javascript:void(0)" class="change-icon" loc="shiZheng">换一换</a></div>
 			</div>
 			<div class="list14">
-				<h3><a href="http://news.sohu.com/20140607/n400537385.shtml" target="_blank">美媒：中国大力反腐有代价 或将影响经济</a></h3>
-				<ul><li><a href='http://news.sohu.com/20140606/n400522006.shtml' target='_blank'>最高法官员：三中全会决定应转变为全国人大决定</a></li>
-<li><a href='http://news.sohu.com/20140607/n400532661.shtml' target='_blank'>最高检：健全暴恐犯罪案件快捕快诉机制</a></li>
-<li><a href='http://news.sohu.com/20140607/n400535129.shtml' target='_blank'>中航重机副总吴浩落马早有预兆 或牵涉更多人</a></li>
-<li><a href='http://news.sohu.com/20140607/n400534173.shtml' target='_blank'>军报记者官微：勿逞一时之快成他国义务情报员</a></li>
-<li><a href='http://news.sohu.com/20140607/n400534880.shtml' target='_blank'>银监会副主席：房地产出问题或造成灾难性破坏</a></li>
+				<h3><a href="http://news.sohu.com/20140608/n400552257.shtml" target="_blank">中央深改组纵深推进财税、司法、户籍改革</a></h3>
+				<ul><li><a href='http://news.sohu.com/20140608/n400563201.shtml' target='_blank'>发改委研讨电改：国网未被邀请 五发电集团冷对</a></li>
+<li><a href='http://news.sohu.com/20140608/n400562783.shtml' target='_blank'>中央第二轮巡视：广东山西两省发布整改报告</a></li>
+<li><a href='http://news.sohu.com/20140608/n400551972.shtml' target='_blank'>万科产权革命背后：混合所有制改革暗涌(图)</a></li>
+<li><a href='http://news.sohu.com/20140608/n400552306.shtml' target='_blank'>楼市新信号 银监会表态大力支持首套房贷</a></li>
+<li><a href='http://news.sohu.com/20140606/n400522006.shtml' target='_blank'>最高法官员：三中全会决定应转变为全国人大决定</a></li>
 </ul>				
 			</div>
                         <SOHUADCODE><div>
@@ -936,12 +935,12 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
   <div class="more r-m"><a href="javascript:void(0);" class="change-icon" loc="minSheng">换一换</a></div>
 			</div>
 			<div class="list14">
-				<h3><a href="http://news.sohu.com/20140607/n400533895.shtml" target="_blank">男子运作晚会失败被判诈骗 服刑7年后改判无罪</a></h3>
-				<ul><li><a href='http://news.sohu.com/20140607/n400534328.shtml' target='_blank'>白领对着电脑加班3天 回家多次出现短暂失明</a></li>
-<li><a href='http://news.sohu.com/20140607/n400534163.shtml' target='_blank'>小伙地铁内报假警制造恐慌 鞋子、行李散落一地</a></li>
+				<h3><a href="http://news.sohu.com/20140608/n400559557.shtml" target="_blank">七旬老太躺殡仪馆冰柜内寻短见(图)</a></h3>
+				<ul><li><a href='http://news.sohu.com/20140608/n400555140.shtml' target='_blank'>男子指责公交司机勾搭其妻子 连捅对方2刀致死</a></li>
+<li><a href='http://news.sohu.com/20140608/n400557513.shtml' target='_blank'>出生72天男婴家中失踪 母亲仅离开数分钟(图)</a></li>
+<li><a href='http://news.sohu.com/20140608/n400554904.shtml' target='_blank'>女教师劳累过度猝然病逝 百人自发前来为其送行</a></li>
+<li><a href='http://news.sohu.com/20140607/n400534328.shtml' target='_blank'>白领对着电脑加班3天 回家多次出现短暂失明</a></li>
 <li><a href='http://news.sohu.com/20140607/n400534560.shtml' target='_blank'>热心乘客勇抓猥琐男 受害女子拒绝指证</a></li>
-<li><a href='http://news.sohu.com/20140607/n400533489.shtml' target='_blank'>老赖坐拥3套房产流水账超千万 借200万称没钱还</a></li>
-<li><a href='http://news.sohu.com/20140607/n400534013.shtml' target='_blank'>工程师被吸毒者冒用身份信息 坐高铁被搜包验尿</a></li>
 </ul>	
 			</div>
                         <SOHUADCODE><div>
@@ -956,12 +955,12 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
   <div class="more r-m"><a href="javascript:void(0);" class="change-icon" loc="tanZi">换一换</a></div>
 			</div>
 			<div class="list14">
-				<h3><a href="http://news.sohu.com/20140607/n400533564.shtml" target="_blank">青奥会国旗班训练：衣领上别针 双腿夹扑克牌</a></h3>
-				<ul><li><a href='http://news.sohu.com/20140607/n400533700.shtml' target='_blank'>官员行贿百万砸出仕途 受审自称曾两袖清风</a></li>
-<li><a href='http://news.sohu.com/20140607/n400533177.shtml' target='_blank'>媒体统计两姓不通婚：岳姓与秦姓、水姓与火姓等</a></li>
-<li><a href='http://news.sohu.com/20140607/n400532659.shtml' target='_blank'>父亲不听劝无证驾车被拘 儿子送锦旗感谢交警</a></li>
-<li><a href='http://news.sohu.com/20140607/n400533582.shtml' target='_blank'>大四学生眼睛弱视创业卖馄饨 不到20天净赚万元</a></li>
-<li><a href='http://news.sohu.com/20140607/n400533773.shtml' target='_blank'>出租车撞上劳斯莱斯 公司淡定：买有百万保险</a></li>
+				<h3><a href="http://news.sohu.com/20140607/n400549562.shtml" target="_blank">大佬高考往事：张朝阳父母开明 自己爱学习</a></h3>
+				<ul><li><a href='http://news.sohu.com/20140608/n400565156.shtml' target='_blank'>广西玉林市民：你不吃狗肉别影响我们吃</a></li>
+<li><a href='http://news.sohu.com/20140608/n400563263.shtml' target='_blank'>最易挣钱城市排行榜出炉：北京上海南京前三</a></li>
+<li><a href='http://news.sohu.com/20140608/n400562556.shtml' target='_blank'>茅于轼：解决交通拥堵可向所有开车者收路费</a></li>
+<li><a href='http://news.sohu.com/20140608/n400561171.shtml' target='_blank'>教师参加学校K歌活动摔伤 法院认定属工伤</a></li>
+<li><a href='http://news.sohu.com/20140608/n400557680.shtml' target='_blank'>英11岁男孩太胖 警方以不当照看等罪逮捕其父母</a></li>
 </ul>
 			</div>
 		</div>
@@ -976,11 +975,11 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
 			<div class="list14">
 				<h3><a href="http://nk.news.sohu.com/20140607/n400539352.shtml" target="_blank">外媒：朝鲜人认为男人骑电单车赚钱才是男子汉
 </a></h3>
-				<ul><li><a href='http://nk.news.sohu.com/20140607/n400539537.shtml' target='_blank'>安倍有意赴朝会见金正恩 日本舆论褒贬不一</a></li>
+				<ul><li><a href='http://nk.news.sohu.com/20140607/n400548777.shtml' target='_blank'>金正恩访问万景台革命学院 受学生热烈欢迎</a></li>
+<li><a href='http://nk.news.sohu.com/20140607/n400539537.shtml' target='_blank'>安倍有意赴朝会见金正恩 日本舆论褒贬不一</a></li>
 <li><a href='http://nk.news.sohu.com/20140607/n400539419.shtml' target='_blank'>美国游客因将《圣经》留在下榻旅馆遭朝鲜扣留</a></li>
 <li><a href='http://pic.nk.news.sohu.com/group-570748.shtml' target='_blank'>这是兔子去的“海底龙宫” 朝鲜学生开眼界(图)</a></li>
 <li><a href='http://nk.news.sohu.com/20140606/n400518002.shtml' target='_blank'>安倍想从朝“购买”人质 不惜重金要多少给多少</a></li>
-<li><a href='http://nk.news.sohu.com/20140606/n400517729.shtml' target='_blank'>朝鲜公益宣传画:女孩深夜独自为队友洗衣(组图)</a></li>
 </ul>
 			</div>
 		</div>
@@ -992,11 +991,11 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
   <div class="more r-m"><a href="javascript:void(0);" class="change-icon" loc="tianXia">换一换</a></div>
 			</div>
 			<div class="list14">
-				<h3><a href="http://news.sohu.com/20140607/n400536487.shtml" target="_blank">爱尔兰现近800名婴幼儿群尸坑 总理承诺调查</a></h3>
-				<ul><li><a href='http://news.sohu.com/20140606/n400527709.shtml' target='_blank'>乌克兰女外长裸身不雅照曝光(组图)</a></li>
-<li><a href='http://news.sohu.com/20140607/n400535067.shtml' target='_blank'>瑞士各银行将向美税务部门提供美客户信息</a></li>
-<li><a href='http://news.sohu.com/20140607/n400532676.shtml' target='_blank'>俄对华输气管道下月动工 从2018年起供气</a></li>
-<li><a href='http://news.sohu.com/20140607/n400533424.shtml' target='_blank'>斯诺登在俄避难或将获延期 原定7月底期满</a></li>
+				<h3><a href="http://news.sohu.com/20140607/n400551660.shtml" target="_blank">印度又曝轮奸案！不满15岁姐妹遭多名男子轮奸</a></h3>
+				<ul><li><a href='http://news.sohu.com/20140608/n400572718.shtml' target='_blank'>巴基斯坦接连发生四起所谓“荣誉处死”事件</a></li>
+<li><a href='http://news.sohu.com/20140608/n400558999.shtml' target='_blank'>尼日利亚逮捕4名“博科圣地”少女间谍</a></li>
+<li><a href='http://news.sohu.com/20140608/n400557960.shtml' target='_blank'>九旬二战老兵“出逃”老人院　纪念诺曼底</a></li>
+<li><a href='http://news.sohu.com/20140608/n400555860.shtml' target='_blank'>希拉里：健康状况“非常好” 有病就不竞选总统</a></li>
 </ul>		
 			</div>
                         <SOHUADCODE><div>
@@ -1014,14 +1013,14 @@ width=160 height=145></a><em class="txt-bg"></em><em class="txt-txt"><a href="ht
   <div class="more r-m"><a href="javascript:void(0);" class="change-icon" loc="diFang">换一换</a></div>
 			</div>
 			<div class="list14">
-				<h3><a title="" href="http://news.sohu.com/20140607/n400535065.shtml" target="_blank">“携炸弹女子”让香港紧张 警方称无具体情报</a></h3>
-				<ul><li><a href='http://news.sohu.com/20140607/n400534284.shtml' target='_blank'>济南弃婴岛启用5天收42人 官方将打击恶意遗弃</a></li>
-<li><a href='http://news.sohu.com/20140607/n400535100.shtml' target='_blank'>广东环保厅：垃圾处理项目不符新规环评一律不批</a></li>
-<li><a href='http://news.sohu.com/20140607/n400532621.shtml' target='_blank'>甘肃：党员干部不得在居民区及公共场所搭灵棚</a></li>
+				<h3><a title="" href="http://news.sohu.com/20140608/n400555134.shtml" target="_blank">青海毒气事故致2死6伤 救人者爬出来报消息</a></h3>
+				<ul><li><a href='http://news.sohu.com/20140608/n400563972.shtml' target='_blank'>惠州：国企不服国资委清退领导亲戚 让员工表决</a></li>
+<li><a href='http://news.sohu.com/20140608/n400562991.shtml' target='_blank'>北京：去年职工年均工资6.9万元 增长10.9%</a></li>
+<li><a href='http://news.sohu.com/20140607/n400549847.shtml' target='_blank'>新疆焉耆查汗采开村举行联合反恐维稳演练(图)</a></li>
 </ul>
                                 <ul>                             
-                                   <li><a href="http://city.sohu.com/20140607/n400536827.shtml?pvid=d5bd7435ce565b30" target="_blank">佛山一公园湖内鱼密度过大 2万斤鱼被填埋(图)</a></li>
-<li><a href="http://city.sohu.com/20140607/n400536860.shtml?pvid=73e6544b864310d3" target="_blank">济南6岁女童熟睡中被抛出车外扔至弃婴岛(图)</a></li>
+                                   <li><a href="http://city.sohu.com/20140608/n400556976.shtml?pvid=d5bd7435ce565b30" target="_blank">无锡3名女生因闹钟没响错过首场语文考试(图)</a></li>
+<li><a href="http://city.sohu.com/20140608/n400557187.shtml?pvid=73e6544b864310d3" target="_blank">江苏一小学推出道德银行 平日表现记入"个人存折"</a></li>
                                 </ul>		
 			</div>
                         <SOHUADCODE><div>
@@ -1452,12 +1451,12 @@ showTurnAD269(intTurnAD269);
 			</div>
 			<div class="list14">
 				<h3>
-					<a href="http://mil.sohu.com/20140607/n400537349.shtml" target="_blank">美曝解放军真正航母杀手 远比东风-21更危险</a>
+					<a href="http://mil.sohu.com/" target="_blank">中国国产航母入列时间曝光 美军拉响警报(图)</a>
 				</h3>
-				<ul><li><a href='http://mil.sohu.com/20140607/n400537868.shtml' target='_blank'>媒体：菲越南海动作超底线 应划军事禁区狠揍它</a></li>
-<li><a href='http://mil.sohu.com/20140607/n400536893.shtml' target='_blank'>美军曝中国二炮导弹规模 东风41配分导式多弹头</a></li>
-<li><a href='http://mil.sohu.com/20140607/n400536574.shtml' target='_blank'>菲指责中国在南海填海造陆 中方回击：与你何关</a></li>
-<li><a href='http://mil.sohu.com/20140607/n400536516.shtml' target='_blank'>军方出动直升机搜救坠毁飞豹 飞行员情况暂保密</a></li>
+				<ul><li><a href='http://mil.sohu.com/20140608/n400565422.shtml' target='_blank'>菲越军队在中国岛屿举行比赛 曾被非法侵占(图)</a></li>
+<li><a href='http://mil.sohu.com/20140608/n400560786.shtml' target='_blank'>外媒：解放军大型雷达部署福建 覆盖日本菲律宾</a></li>
+<li><a href='http://mil.sohu.com/20140608/n400560286.shtml' target='_blank'>解放军最先进战舰已部署南海 战力堪比美军(图)</a></li>
+<li><a href='http://mil.sohu.com/20140608/n400558239.shtml' target='_blank'>日媒：中国空军亚洲第一世界第三 雷达世界领先</a></li>
 </ul>
 			</div>
 		</div>
@@ -1585,10 +1584,10 @@ showTurnAD742(intTurnAD742);
 			<h3>
 				<a href="http://star.news.sohu.com/20140603/n400344065.shtml" target="_blank">全面深刻理解“老虎”“苍蝇”一起打</a>
 			</h3>
-			<ul><li><a href='http://star.news.sohu.com/20140607/n400537745.shtml' target='_blank'>叶小文：日本政府所为就像“尾巴在戏弄狗”</a></li>
+			<ul><li><a href='http://star.news.sohu.com/20140608/n400558037.shtml' target='_blank'>林达：美国是如何解决“丐帮”问题的</a></li>
+<li><a href='http://star.news.sohu.com/20140607/n400537745.shtml' target='_blank'>叶小文：日本政府所为就像“尾巴在戏弄狗”</a></li>
 <li><a href='http://star.news.sohu.com/20140607/n400537643.shtml' target='_blank'>熊丙奇：建议高考时间调整为6月第一个双休日</a></li>
 <li><a href='http://star.news.sohu.com/20140606/n400498292.shtml' target='_blank'>封寿炎：明天，我们都是赶考人</a></li>
-<li><a href='http://star.news.sohu.com/20140606/n400498121.shtml' target='_blank'>杨耕身：独董有“毒” 需铲除毒灶</a></li>
 </ul>
 		</div>
 	</div>
@@ -1665,7 +1664,7 @@ require(["sjs/data/json"], function(json){
     <ul style="display: block;"><li><span class="total">53369<i class="icon red"></i></span><span class="num n1"></span><a href="http://lz.book.sohu.com/serialize-id-26953.html" target="_blank" title="王牌特卫3:特种兵晋升路">王牌特卫3:特种兵晋升路</a></li><li><span class="total">35391<i class="icon red"></i></span><span class="num n2"></span><a href="http://lz.book.sohu.com/serialize-id-13518.html" target="_blank" title="新省委书记">新省委书记</a></li><li><span class="total">19907<i class="icon red"></i></span><span class="num n3"></span><a href="http://lz.book.sohu.com/serialize-id-28166.html" target="_blank" title="欲望传奇：人性沉沦">欲望传奇：人性沉沦</a></li><li><span class="total">18114<i class="icon red"></i></span><span class="num n4"></span><a href="http://lz.book.sohu.com/serialize-id-15042.html" target="_blank" title="红色圣地上的呼啸声">红色圣地上的呼啸声</a></li><li><span class="total">16352<i class="icon red"></i></span><span class="num n5"></span><a href="http://lz.book.sohu.com/serialize-id-28139.html" target="_blank" title="兰陵王：得天女者得天下">兰陵王：得天女者得天下</a></li><li><span class="total">15147<i class="icon red"></i></span><span class="num n6"></span><a href="http://lz.book.sohu.com/serialize-id-15809.html" target="_blank" title="我的保镖生涯">我的保镖生涯</a></li><li><span class="total">13905<i class="icon red"></i></span><span class="num n7"></span><a href="http://lz.book.sohu.com/serialize-id-14270.html" target="_blank" title="东北往事3：黑道风云20年">东北往事3：黑道风云20年</a></li><li><span class="total">12337<i class="icon red"></i></span><span class="num n8"></span><a href="http://lz.book.sohu.com/serialize-id-28031.html" target="_blank" title="绯闻：官场中的艳照风波">绯闻：官场中的艳照风波</a></li><li><span class="total">10571<i class="icon red"></i></span><span class="num n9"></span><a href="http://lz.book.sohu.com/serialize-id-21701.html" target="_blank" title="二号首长2">二号首长2</a></li><li><span class="total">7246<i class="icon red"></i></span><span class="num n10"></span><a href="http://lz.book.sohu.com/serialize-id-28174.html" target="_blank" title="锦绣妃途：玩转相府王府">锦绣妃途：玩转相府王府</a></li></ul>
 </div>
 <div class="sn-list hidden">
-     <ul class="list"><li><a href="http://vip.book.sohu.com/book/101645/"><span>57260066</span>山河为歌：一世倾城</a></li><li><a href="http://vip.book.sohu.com/book/76340/"><span>12945314</span>义和拳那些事儿</a></li><li><a href="http://vip.book.sohu.com/book/80952/"><span>10296032</span>湘西奇情：长沙伢子</a></li><li><a href="http://vip.book.sohu.com/book/7899/"><span>7666847</span>灵异案件（全本）</a></li><li><a href="http://vip.book.sohu.com/book/101482/"><span>5973933</span>帝女皇后：凤凰于飞</a></li><li><a href="http://vip.book.sohu.com/book/117687/"><span>5761690</span>游梦惊魂</a></li><li><a href="http://vip.book.sohu.com/book/21335/"><span>5761177</span>皇后成长史</a></li><li><a href="http://vip.book.sohu.com/book/113834/"><span>2961347</span>幸福穿越之白领皇后</a></li><li><a href="http://vip.book.sohu.com/book/140897/"><span>1884340</span>阴墓阳宅</a></li><li><a href="http://vip.book.sohu.com/book/125878/"><span>1159543</span>爱的N次方</a></li></ul>		
+     <ul class="list"><li><a href="http://vip.book.sohu.com/book/101645/"><span>57295846</span>山河为歌：一世倾城</a></li><li><a href="http://vip.book.sohu.com/book/76340/"><span>12947518</span>义和拳那些事儿</a></li><li><a href="http://vip.book.sohu.com/book/80952/"><span>10312009</span>湘西奇情：长沙伢子</a></li><li><a href="http://vip.book.sohu.com/book/7899/"><span>7672166</span>灵异案件（全本）</a></li><li><a href="http://vip.book.sohu.com/book/101482/"><span>5992431</span>帝女皇后：凤凰于飞</a></li><li><a href="http://vip.book.sohu.com/book/21335/"><span>5793889</span>皇后成长史</a></li><li><a href="http://vip.book.sohu.com/book/117687/"><span>5763765</span>游梦惊魂</a></li><li><a href="http://vip.book.sohu.com/book/113834/"><span>2975444</span>幸福穿越之白领皇后</a></li><li><a href="http://vip.book.sohu.com/book/140897/"><span>1942529</span>阴墓阳宅</a></li><li><a href="http://vip.book.sohu.com/book/125878/"><span>1176942</span>爱的N次方</a></li></ul>		
 </div>
 	</div>
 	
@@ -1696,11 +1695,11 @@ require(["sjs/data/json"], function(json){
 		</div>
 		<div class="sn-list">
   <ul>
-   <li><span class="sn col">01</span><a href="http://mil.sohu.com/20140606/n400491397.shtml" target="_blank">美国发表中国最新军力报告 重点讨论...</a></li>
-<li><span class="sn col">02</span><a href="http://mil.sohu.com/20140606/n400492566.shtml" target="_blank">中国将军批美狂妄 解放军多款杀手锏...</a></li>
-<li><span class="sn col">03</span><a href="http://mil.sohu.com/20140606/n400510266.shtml" target="_blank">东海舰队一架飞机坠毁 夜间高难度训...</a></li>
-<li><span class="sn">04</span><a href="http://mil.sohu.com/20140606/n400491523.shtml" target="_blank">中国水下滑翔机完成系列测试 军方反...</a></li>
-<li><span class="sn">05</span><a href="http://mil.sohu.com/20140606/n400488886.shtml" target="_blank">中国在南薰礁和华阳礁填海辟地 船只...</a></li>
+   <li><span class="sn col">01</span><a href="http://mil.sohu.com/20140607/n400537349.shtml" target="_blank">美军曝光中国真正航母杀手 远比东风...</a></li>
+<li><span class="sn col">02</span><a href="http://mil.sohu.com/20140607/n400543881.shtml" target="_blank">美称解放军或突袭南沙太平岛 给中国...</a></li>
+<li><span class="sn col">03</span><a href="http://mil.sohu.com/20140607/n400538989.shtml" target="_blank">美报告披露中国军费明细 中方最新核...</a></li>
+<li><span class="sn">04</span><a href="http://mil.sohu.com/20140607/n400536574.shtml" target="_blank">外交部回应“在南海填海造陆” 称与...</a></li>
+<li><span class="sn">05</span><a href="http://mil.sohu.com/20140607/n400536516.shtml" target="_blank">解放军疑为飞豹军机浙江坠毁 正夜间...</a></li>
 
   </ul>
 </div>
@@ -1710,17 +1709,17 @@ require(["sjs/data/json"], function(json){
 <li><span class="sn col">02</span><a href="http://cul.sohu.com/20140606/n400493735.shtml" target="_blank">新疆出土3300年前裤子 或为中国...</a></li>
 <li><span class="sn col">03</span><a href="http://cul.sohu.com/20140606/n400493412.shtml" target="_blank">迅雷将禁止美国影视非法下载 或为在...</a></li>
 <li><span class="sn">04</span><a href="http://cul.sohu.com/20140606/n400490103.shtml" target="_blank">德国博物馆借基因样本 成功培育出梵...</a></li>
-<li><span class="sn">05</span><a href="http://cul.sohu.com/20140606/n400491323.shtml" target="_blank">上海国际电影节将开幕 15部金爵奖...</a></li>
+<li><span class="sn">05</span><a href="http://pic.cul.sohu.com/group-553232.shtml" target="_blank">盘点历年来官员们自杀原因</a></li>
 
   </ul>
 </div>
 <div class="sn-list hidden">
   <ul>
    <li><span class="sn col">01</span><a href="http://pic.history.sohu.com/group-570208.shtml" target="_blank">好莱坞女星因饰演邪教电影 遭教徒毁...</a></li>
-<li><span class="sn col">02</span><a href="http://history.sohu.com/20140606/n400494674.shtml" target="_blank">哈佛大学图书馆发现首本人皮书 清晰...</a></li>
-<li><span class="sn col">03</span><a href="http://history.sohu.com/20140606/n400487396.shtml" target="_blank">习近平忆高考：三个志愿都填清华 不...</a></li>
-<li><span class="sn">04</span><a href="http://pic.history.sohu.com/group-519842.shtml" target="_blank">知情人披露江青真实死因：并非上吊自...</a></li>
-<li><span class="sn">05</span><a href="http://history.sohu.com/20140606/n400451880.shtml" target="_blank">邓小平死因揭秘 曝与江泽民特殊师生...</a></li>
+<li><span class="sn col">02</span><a href="http://history.sohu.com/20140606/n400451880.shtml" target="_blank">邓小平死因揭秘 曝与江泽民特殊师生...</a></li>
+<li><span class="sn col">03</span><a href="http://pic.history.sohu.com/group-460637.shtml" target="_blank">一帘幽梦倩影疏：回首五十年来四十位...</a></li>
+<li><span class="sn">04</span><a href="http://history.sohu.com/20140606/n400450293.shtml" target="_blank">康克清曝朱德最后遗言 叶剑英听后赞...</a></li>
+<li><span class="sn">05</span><a href="http://history.sohu.com/20140606/n400451571.shtml" target="_blank">毛泽东一生最怕啥？怕泪、怕血、怕喊...</a></li>
 
   </ul>
 </div>
@@ -1828,17 +1827,17 @@ showTurnAD268(intTurnAD268);
 <div class="more r-m"><a href="http://stock.sohu.com/itfinance/" target="_blank">互联网金融频道</a></div>
 			</div>
 			<div class="pic-text">
-				<div><a href="http://stock.sohu.com/20140606/n400492737.shtml"><img alt="" src="http://i3.itc.cn/20140606/336d_bdd5ac99_4cc0_0237_0b26_b49b4623af43_1.jpg" width=100 height=70></a></div>
-<h4><a href="http://stock.sohu.com/20140606/n400492737.shtml" target="_blank">阿里“闪婚”恒大：15分钟敲定</a></h4>
-<p>马云说，这绝不是冲动，是认真思考的决定。</p>
+				<div><a href="http://stock.sohu.com/20140608/n400562737.shtml"><img alt="" src="http://i3.itc.cn/20140608/32f7_0c57af50_bfbb_38d9_34f8_c33843c5db4a_1.jpg" width=100 height=70></a></div>
+<h4><a href="http://stock.sohu.com/20140608/n400562737.shtml" target="_blank">新财富一姐泄密门：机构被吓跑</a></h4>
+<p>近期监管层稽查内幕信息交易风声鹤唳，人人自危，唯恐避之不及。</p>
 			</div>
 			<div class="list14">
 				<h3>
-					<a href="http://stock.sohu.com/20140605/n400466953.shtml" target="_blank">百度火拼BAT移动支付 仍有两道坎要过 </a>
+					<a href="http://stock.sohu.com/20140606/n400521277.shtml" target="_blank">应对高房价 你应当考虑这六种房子</a>
 				</h3>
-				<ul><li><a href='http://stock.sohu.com/20140607/n400537820.shtml' target='_blank'>银监会8天内两次表态截然不同 楼市迎最差时刻</a></li>
+				<ul><li><a href='http://stock.sohu.com/20140608/n400561439.shtml' target='_blank'>传IPO下周将重启 机构开启“扫街式”调研</a></li>
+<li><a href='http://stock.sohu.com/20140607/n400537820.shtml' target='_blank'>银监会8天内两次表态截然不同 楼市迎最差时刻</a></li>
 <li><a href='http://stock.sohu.com/20140607/n400537669.shtml' target='_blank'>新华网：中国经济如此困难 银行却赚得盆满钵满</a></li>
-<li><a href='http://stock.sohu.com/20140607/n400536866.shtml' target='_blank'>搜狐金融悦读会:眼下最赚钱的机会是做空美国政府</a></li>
 </ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href=http://bjsite.sohu.com/20140606/n400520434.shtml target=_blank>参本行 心灵体验之旅</a>　<a href=http://vip.book.sohu.com/book/147834/ target=_blank>美好年华之家族风云</a></p></div></div>
@@ -2340,20 +2339,20 @@ showTurnAD267(intTurnAD267);
 	<div class="left">
 		<div class="left-pub left-pub-mg0 l">
 			<div class="focus-pic">
-				<a href="http://pic.women.sohu.com/group-568062.shtml" target="_blank"><img width="340" height="190" style="-ms-zoom: 1; opacity: 1;" alt="身体脱毛要谨慎！私处体毛有用处大" src="http://i3.itc.cn/20140531/2ee5_ee18cc64_60f9_a4de_eb88_dc1b2c9dc3e7_1.jpg" filter="1" qvod="0" ?=""></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://pic.women.sohu.com/group-568795.shtml" target="_blank">身体脱毛要谨慎！私处体毛有用处大</a></em>
+				<a href="http://women.sohu.com/" target="_blank"><img width="340" height="190" style="-ms-zoom: 1; opacity: 1;" alt="曹格女儿和韩国小眼正太撞脸 眯眼呆萌" src="http://i0.itc.cn/20140604/a07_f4322d23_55cb_ffde_56dd_8a6e7571ec09_2.jpg" filter="1" qvod="0" ?=""></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://women.sohu.com/" target="_blank">曹格女儿和韩国小眼正太撞脸 眯眼呆萌</a></em>
 			</div>
 		</div>
 		<div class="left-pub left-pub-mg0 r">
 			<div class="list14 list14-mg0">
 				<h3>
-					<a href="http://pic.fashion.sohu.com/group-567305.shtml#0" target="_blank">赵又廷高圆圆领证！ 亲密瞬间回顾</a>
+					<a href="http://women.sohu.com/s2014/webbosslove/" target="_blank">从奶茶强东恋 教如何“钓”互联网大佬</a>
 				</h3>
-        <ul><li><a title="" href="http://women.sohu.com/" target="_blank">何炅初恋女友曝光 曾为她放弃前途</a> <a title="" href="http://women.sohu.com/20140607/n400369893.shtml" target="_blank">揭秘成人奶妈</a></li>
-<li><a title="" href="http://pic.women.sohu.com/group-569434.shtml" target="_blank">丹麦天使素颜吓傻网友</a> <a title="" href="http://pic.women.sohu.com/group-569367.shtml" target="_blank">来自Instagram的浪漫求婚照</a></li>
-<li><a title="" href="http://women.sohu.com/20140607/n400364998.shtml" target="_blank">夏日清爽侧编发</a> <a title="" href="http://pic.women.sohu.com/group-569613.shtml" target="_blank">经期洗头会致癌？月经时洗头危害</a></li>
-<li><a href="http://pic.fashion.sohu.com/group-569492.shtml#0" target="_blank">节目男男对亲</a> <a href="http://pic.fashion.sohu.com/group-570057.shtml#0" target="_blank">内衣摔角赛美女肉搏</a> <a title="" href="http://pic.fashion.sohu.com/group-570144.shtml#0" target="_blank">天然美女成大妈</a></li>
-<li><a href="http://pic.fashion.sohu.com/group-568585.shtml#0" target="_blank">柳岩曾被骂舔脚</a> <a href="http://pic.fashion.sohu.com/group-567305.shtml#0" target="_blank">高圆圆赵又廷领证</a> <a title="" href="http://pic.fashion.sohu.com/group-569796.shtml#0" target="_blank">当过小三的女星</a> </li>
-<li><a href="http://pic.fashion.sohu.com/group-569788.shtml#0" target="_blank">成都男男接吻赛</a> <a href="http://pic.fashion.sohu.com/group-569555.shtml#0" target="_blank">女星闺蜜合影抢镜</a> <a title="" href="http://pic.fashion.sohu.com/group-569620.shtml#0" target="_blank">年过50女星显老</a></li></ul>
+        <ul><li><a title="" href="http://women.sohu.com/" target="_blank">何炅初恋女友曝光 曾为她放弃前途</a></li>
+<li><a title="" href="http://pic.women.sohu.com/group-569434.shtml" target="_blank">丹麦天使素颜吓傻网友</a> <a title="" href="http://pic.women.sohu.com/group-569367.shtml" target="_blank">来自Instagram的浪漫求婚照</a></li>
+<li><a title="" href="http://women.sohu.com/20140607/n400364998.shtml" target="_blank">夏日清爽侧编发</a> <a title="" href="http://pic.women.sohu.com/group-569613.shtml" target="_blank">经期洗头会致癌？月经时洗头危害</a></li>
+<li><a href="http://pic.fashion.sohu.com/group-569334.shtml#0" target="_blank">蕾哈娜性感透视</a> <a href="http://pic.fashion.sohu.com/group-568743.shtml#0" target="_blank">夏日出街装备</a> <a title="" href="http://pic.fashion.sohu.com/group-558026.shtml#0" target="_blank">体操女将发胖成大妈</a></li>
+<li><a href="http://pic.fashion.sohu.com/group-569139.shtml#0" target="_blank">毕业季创意婚纱照</a> <a href="http://pic.fashion.sohu.com/group-569197.shtml#0" target="_blank">阔腿裤穿出王菲</a> <a title="" href="http://pic.fashion.sohu.com/group-569186.shtml#0" target="_blank">北舞校花性感照 </a></li>
+<li><a href="http://pic.fashion.sohu.com/group-569194.shtml#0" target="_blank">丹麦天使素颜差距大</a> <a href="http://pic.fashion.sohu.com/group-569193.shtml#0" target="_blank">鬼马周笔畅造型</a> <a title="" href="http://pic.fashion.sohu.com/group-558636.shtml#0" target="_blank">整容毁容女星</a></li></ul>
 			</div>
 		</div>
 		<div class="left-pub left-pub-mg0 l">
@@ -2462,18 +2461,18 @@ showTurnAD267(intTurnAD267);
 <DIV class="more r-m"><EM class=add>+</EM><A href="http://learning.sohu.com/" target=_blank>更多</A></DIV>
 			</div>
 			<div class="pic-text">
-				<div><a href="http://learning.sohu.com/s2014/gaokaozhibo/" target="_blank"><img alt="独家直播|2014高考进行时—72小时直播间" src="http://i1.itc.cn/20140607/3196_05f2d0f6_3a91_425d_8420_cbbc16e530fc_1.jpg" border="0" height="70" width="100"></a> </div>
-<h4><a href="http://learning.sohu.com/s2014/gaokaozhibo/" target="_blank"><img alt="pic" src="http://i0.itc.cn/20101110/85b_244ad0ca_0b33_41e6_8443_327afd57765a_0.gif">2014高考进行时—72小时全程直播间</a></h4>
-<p>班主任睡过头全班准考证堵路上……</p>
+				<div><a href="http://learning.sohu.com/s2014/gaokaozhibo/" target="_blank"><img border=0 alt=独家直播|2014高考进行时—72小时直播间 src="http://i1.itc.cn/20140607/3196_05f2d0f6_3a91_425d_8420_cbbc16e530fc_1.jpg" width=100 height=70></a> </div>
+<h4><a href="http://learning.sohu.com/s2014/gaokaozhibo/" target="_blank"><img alt=pic src="http://i0.itc.cn/20101110/85b_244ad0ca_0b33_41e6_8443_327afd57765a_0.gif">高考直播|6月9日江苏、海南等11省考试继续</a></h4>
+<p>江苏、海南两省9日要进行理化生……</p>
 			</div>
 			<div class="list14">
 				<h3>
-					<a href="http://learning.sohu.com/" target="_blank">山东辽宁湖北3省作文题雷同 组团看风景</a>
+					<a href="http://learning.sohu.com/" target="_blank">独家|清华大学学生的籍贯分布图 北京居首</a>
 				</h3>
-				<ul><li><a href="http://learning.sohu.com/s2014/gkzw/" target="_blank">于丹盛赞北京卷“老规矩” 张鸣：有点迂腐</a></li>
-<li><a title="" href="http://learning.sohu.com/20140607/n400541163.shtml" target="_blank">深圳：班主任睡过头 全班学生准考证被堵路上</a> </li>
-<li> <a title="" href="http://learning.sohu.com/20140607/n400545453.shtml" target="_blank">冯骥才评广东卷作文：我会以“一张老照片”开头</a></li>
-<li><a title="" href="http://learning.sohu.com/s2014/gkzt/" target="_blank">2014高考语文试题：新课标II 安徽 湖北</a>  </li></ul>
+				<ul><li><a href="http://learning.sohu.com/20140607/n400548945.shtml" target="_blank">北京上海作文最高大上</a> <a title="" href="http://learning.sohu.com/s2014/gkzw/#diaocha" target="_blank">|投票：高考“最作文”评选 </a></li>
+<li><a title="" href="http://learning.sohu.com/s2014/gkzw/" target="_blank">于丹评高考作文：在竞争面前以人性善为最高宗旨</a> </li>
+<li><a title="" href="http://learning.sohu.com/20140608/n400561380.shtml" target="_blank">高考神校毛坦厂中学：漂浮着的“神话”</a></li>
+<li><a title="" href="http://learning.sohu.com/s2014/gkzt/" target="_blank">2014高考语文试题：新课标II 安徽 湖北</a> </li></ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href="http://vip.book.sohu.com/book/14405/"  target=_blank>千里寻亲：跟我回家</a>　<a href="http://vip.book.sohu.com/book/16692/"  target=_blank>爱在转角：凤凰花开</a></p></div></div>
 </SOHUADCODE>
@@ -2586,14 +2585,14 @@ showTurnAD267(intTurnAD267);
 				<span><a href="http://learning.sohu.com/" target="_blank">重磅推荐</a></span><em class="r-m"><em class="add">+</em><a href="http://learning.sohu.com/" target="_blank">更多</a></em>
 			</div>
 			<div class="pic-text pt-mg">
-				<div><a href="http://learning.sohu.com/s2014/beida/" target="_blank"><img border="0" alt="哪个省上北大容易" src="http://i1.itc.cn/20140607/3238_7a3b62b1_db10_70d7_a7ea_e5b0caf71c32_1.jpg" width="100" height="70" filter="1"></a></div>
-<h4><a href="http://learning.sohu.com/s2014/beida/" target="_blank">哪个省的学生上北大最容易？</a></h4>
+				<div><a href="http://learning.sohu.com/s2014/gkzw/" target="_blank"><img border=0 alt=2014年高考作文 src="http://i2.itc.cn/20140608/ad3_bbe0f3c2_cb83_5530_4f98_fb962d368fec_1.jpg" width=100 height=70 filter="1"></a></div>
+<h4><a href="http://learning.sohu.com/s2014/gkzw/" target="_blank">专题 | 2014年全国高考作文大全 20位名家大咖麻辣点评</a></h4>
 <p><span class="blue"><a href="http://learning.sohu.com/s2014/schooling/" target="_blank"></a></span></p>
 			</div>
 			<div class="list12">
 				<ul>
-					<li><a href="http://learning.sohu.com/s2014/liqunzx/" target="_blank">利群阳光助学| 毕淑敏一字说：从年轻时修炼善</a></li>
-<li><a href="http://learning.sohu.com/s2014/schooling/" target="_blank">于丹:学国学先灌输</a><a href="http://learning.sohu.com/s2014/1/" target="_blank"> 难倒博士妈的美国小学作业</a></li>
+					<li><a href="http://learning.sohu.com/20140607/n400545453.shtml" target="_blank">冯骥才:我写老照片</a>|<a href="http://learning.sohu.com/20140607/n400543721.shtml" target="_blank">朱大可:福建卷最心灵鸡汤</a></li>
+<li><a href="http://learning.sohu.com/20140606/n400528829.shtml" target="_blank">张鸣:写老规矩有点迂腐|</a><a href="http://learning.sohu.com/20140607/n400548945.shtml" target="_blank">哪省作文“最鸡血”？</a></li>
 				</ul>
 			</div>
 		</div>
@@ -2736,20 +2735,20 @@ showTurnAD266(intTurnAD266);
 	<div class="left">
 		<div class="left-pub left-pub-mg0 l">
 			<div class="focus-pic">
-				<a href="http://pic.2014.sohu.com/group-570865.shtml#0" target="_blank"  ><img style="ZOOM: 1; opacity: 1" alt="热身赛-德国6-1 罗伊斯重伤告别世界杯" src="http://i2.itc.cn/20140607/3245_d7c1a8e5_284d_6bee_d63a_73024991c14c_1.jpg" width=340 height=190></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://pic.2014.sohu.com/group-570865.shtml#0" target="_blank">热身赛-德国6-1 罗伊斯重伤告别世界杯</a></em>
+				<a href="http://pic.sports.sohu.com/group-571241.shtml" target="_blank"  ><img style="ZOOM: 1; opacity: 1" alt="法网-彭帅谢淑薇首夺女双冠军 开心捧杯" src="http://i3.itc.cn/20140608/32bc_f7e35dfc_f531_4c08_01f1_b754b71b76e7_1.jpg" width=340 height=190></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://pic.sports.sohu.com/group-571241.shtml" target="_blank">法网-彭帅谢淑薇首夺女双冠军 开心捧杯</a></em>
 			</div>
 		</div>
 		<div class="left-pub left-pub-mg0 r">
 			<div class="list14 list14-mg0">
 				<h3>
-					<a title="" href="http://2014.sohu.com/" target="_blank">罗伊斯替身敲定 里贝里谈伤别世界杯:灵魂已死</a>
+					<a title="" href="http://sports.sohu.com/s2014/frenchopen2014/" target="_blank">法网-正播小德纳达尔决战 彭帅谢淑薇首度夺冠</a>
 				</h3>
 				<ul>
-				    <li><a title="" href="http://sports.sohu.com/s2014/frenchopen2014/" target="_blank">法网-21时直播莎娃争冠 彭帅谢淑薇首进女双决赛</a></li>
-<li><a title="" href="http://sports.sohu.com/nba.shtml" target="_blank">NBA-詹姆斯吃7片抗抽筋药请求登场 曝湖人追林书豪</a></li>
-<li><a title="" href="http://sports.sohu.com/zhongchao.shtml" target="_blank">马云或带动中超都赚钱 恒大绿地900万欧争夺埃托奥</a></li>
-<li><a title="" href="http://2014.sohu.com/20140607/n400542730.shtml" target="_blank">曝卡卡与娇妻已分居2月</a> <a title="" href="http://sports.sohu.com/yingchao.shtml" target="_blank">利物浦购西甲红星达成协议</a></li>
-<li><a title="" href="http://sports.sohu.com/s2004/zhongjia.shtml" target="_blank">中甲青岛双雄奏凯 力帆领跑</a> <a title="" href="http://cbachina.sports.sohu.com/" target="_blank">男篮擒澳大利亚止连败</a> </li>
+				    <li><a title="" href="http://2014.sohu.com/" target="_blank">喀麦隆不满奖金拒绝赴巴西 搜狐领取世界杯采访证</a></li>
+<li><a title="" href="http://cbachina.sports.sohu.com/" target="_blank">热身赛-郭艾伦13分悍将15+6 男篮擒澳洲收获两连胜</a> </li>
+<li><a title="" href="http://sports.sohu.com/nba.shtml" target="_blank">NBA-热火核心质疑马刺假摔多 帕森斯重申盼留火箭</a></li>
+<li><a title="" href="http://sports.sohu.com/zhongchao.shtml" target="_blank">曝吉拉迪诺加盟恒大几成定局 绿地追阿根廷前国脚</a></li>
+<li><a title="" href="http://sports.sohu.com/20140608/n400571247.shtml" target="_blank">国青男足1-4巴西获第三</a> <a title="" href="http://sports.sohu.com/20140608/n400565973.shtml" target="_blank">菲越士兵中国南海岛屿踢球</a> </li>
 				</ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href="http://vip.book.sohu.com/book/101459/"  target=_blank>北漂一族的爱情故事</a>　<a href="http://vip.book.sohu.com/book/101482/"  target=_blank>帝女皇后：凤凰于飞</a></p></div></div>
@@ -2764,18 +2763,18 @@ showTurnAD266(intTurnAD266);
 <div class="more r-m"><em class="add">+</em><a href="http://yule.sohu.com/" target="_blank">更多</a></div>
 			</div>
 			<div class="pic-text">
-				<div><a href="http://yule.sohu.com/" target="_blank"><img alt="头条人物|许晴：会撒娇的女人最聪明" 医生:已清醒="" 可以吃流食="" src="http://i1.itc.cn/20140606/b21_fd6d1748_d8f3_d791_fd42_929e1b3abb9c_1.jpg" width="100" height="70"></a></div>
-<h4><a href="http://yule.sohu.com/s2014/ttrwxq/" target="_blank">头条人物|许晴：<br>会撒娇的女人最聪明</a></h4>
-<p>有资本撒娇：45岁才被生活收拾…</p>
+				<div><a href="http://yule.sohu.com/" target="_blank"><img alt="华谊20周年庆群星云集 王中军放话票房2年100亿" 医生:已清醒="" 可以吃流食="" src="http://i1.itc.cn/20140608/4c6_773b2e78_a740_2d7b_b5ba_245010cb50bb_1.jpg" width="100" height="70"></a></div>
+<h4><a href="http://yule.sohu.com/20140608/n400557314.shtml" target="_blank">华谊20周年庆群星云集<br>王中军放话票房2年100亿</a></h4>
+<p>华谊20周年庆典举行…</p>
 			</div>
 			<div class="list14">
 				<h3>
-					<a href="http://yule.sohu.com/20140606/n400491133.shtml" target="_blank">《舌尖2》第八集失约：有争议才是真的红</a>
+					<a href="http://yule.sohu.com/20140608/n400558824.shtml" target="_blank">2014高考作文题曝光 钟汉良郭德纲齐“押中”</a>
 				</h3>
-				<ul><li><a href='http://yule.sohu.com/20140607/n400538321.shtml' target='_blank'>周迅与男友高圣远异地恋：靠视频维系想结婚</a></li>
-<li><a href='http://yule.sohu.com/20140607/n400538262.shtml' target='_blank'>特型演员常某某涉强奸被刑拘 曾系周总理扮演者</a></li>
-<li><a href='http://yule.sohu.com/20140607/n400538163.shtml' target='_blank'>赵又廷父亲不知儿子领证：年轻人自己安排</a></li>
-<li><a href='http://yule.sohu.com/20140607/n400537514.shtml' target='_blank'>许晴家世曝光：母亲系总政歌舞团舞蹈队队长</a></li>
+				<ul><li><a href='http://yule.sohu.com/20140608/n400563621.shtml' target='_blank'>小S微博晒健身房素颜照片 身后“红屁股”抢镜</a></li>
+<li><a href='http://yule.sohu.com/20140608/n400563158.shtml' target='_blank'>《笑傲江湖》迎来总决赛 冯小刚宋丹丹多次对峙</a></li>
+<li><a href='http://yule.sohu.com/20140608/n400558085.shtml' target='_blank'>徐静蕾新片布拉格开拍 亲自参演有望牵手吴亦凡</a></li>
+<li><a href='http://yule.sohu.com/20140608/n400557780.shtml' target='_blank'>陶喆女友遭起底：身价超10亿 曾恋吴佩慈弟弟</a></li>
 </ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href=http://vip.book.sohu.com/book/149147/ target=_blank>剑煮酒无味：饮刀客</a>　<a href=http://vip.book.sohu.com/book/147834/ target=_blank>美好年华之家族风云</a></p></div></div>
@@ -2790,18 +2789,18 @@ showTurnAD266(intTurnAD266);
 <div class="more r-m"><em class="add">+</em><a href="http://tv.sohu.com/s2013/yulebobao/" target="_blank">更多</a></div>
 			</div>
 			<div class="pic-text">
-				<div><a href="http://tv.sohu.com/20140607/n400536642.shtml" target="_blank"><img alt="撒贝宁回母校被问情感黑脸不答 疑似情伤未愈" src="http://i3.itc.cn/20140607/3010_445bf73a_ecc2_75b3_3ad9_e215fdd0fa03_1.jpg" height="70" width="100"></a></div>
-<h4><a href="http://tv.sohu.com/20140607/n400536642.shtml" target="_blank">撒贝宁回母校被问情感黑脸不答<br>疑似情伤未愈</a></h4>
-<p>小萨不高兴，后果很严重…</p>
+				<div><a href="http://tv.sohu.com/20140608/n400556904.shtml" target="_blank"><img alt="赵又廷独自回台 高圆圆送行依依不舍三步一回头" src="http://i0.itc.cn/20140608/3204_35e1ec4e_14cd_c8e6_2ad4_54abe93bf945_1.jpg" height="70" width="100"></a></div>
+<h4><a href="http://tv.sohu.com/20140608/n400556904.shtml" target="_blank">高圆圆送别赵又廷<br>依依不舍三步一回头</a></h4>
+<p>高圆圆依依不舍赵又廷…</p> 
 			</div>
 			<div class="list14">
 				<h3>
-					<a href="http://tv.sohu.com/20140607/n400538267.shtml" target="_blank">许晴家世曝光：母亲系总政歌舞团舞蹈队队长</a>
+					<a href="http://tv.sohu.com/20140608/n400559931.shtml" target="_blank">蓝洁瑛近照曝光 街头吸烟身材发福似桃姐</a>
 				</h3>
-				<ul><li><a href='http://tv.sohu.com/20140607/n400540966.shtml' target='_blank'>蒋勤勤欲定“小三”风波 陈建斌不争辩</a></li>
-<li><a href='http://tv.sohu.com/20140607/n400538948.shtml' target='_blank'>伊能静否认离婚要房子不要孩子：净身出户</a></li>
-<li><a href='http://tv.sohu.com/20140607/n400536639.shtml' target='_blank'>古天乐爆料：高圆圆赵又廷在法国度蜜月</a></li>
-<li><a href='http://tv.sohu.com/20140607/n400536457.shtml' target='_blank'>窦靖童手缠绷带秀英俊侧脸 网友直呼帅哭</a></li>
+				<ul><li><a href='http://tv.sohu.com/20140608/n400561185.shtml' target='_blank'>曝陶喆奉子成婚 邻居：他老婆肚子很大</a></li>
+<li><a href='http://tv.sohu.com/20140608/n400560708.shtml' target='_blank'>“宋丹丹与编剧之争”成安徽高考作文题</a></li>
+<li><a href='http://tv.sohu.com/20140608/n400559931.shtml' target='_blank'>蓝洁瑛近照曝光 街头吸烟身材发福似桃姐</a></li>
+<li><a href='http://tv.sohu.com/20140608/n400559188.shtml' target='_blank'>马伊琍网晒女儿书法照 网友：写的真好</a></li>
 </ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href=http://vip.book.sohu.com/book/47239/ target=_blank>水的神话：伊甸之谜</a>　<a href=http://vip.book.sohu.com/book/130402/ target=_blank>一个成功女性的覆灭</a></p></div></div>
@@ -2816,8 +2815,8 @@ showTurnAD266(intTurnAD266);
 
 
 <li><a href="http://pic.yule.sohu.com/group-570439.shtml" target="_blank"><img style="zoom: 1; opacity: 1;" alt="蜘蛛女邓斯特真空登封面 " src="http://i2.itc.cn/20140606/b21_10474cbd_3e7a_59bd_99a7_3b80775d776c_1.jpg" width="160" height="145"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://pic.yule.sohu.com/group-570439.shtml" target="_blank">蜘蛛女邓斯特真空登封面</a></em><em class="txt-tt"><a href="http://yule.sohu.com/" target="_blank">海外明星</a></em></li></div>
-				<div style="float:left"><li><a href="http://tv.sohu.com/20140607/n400537407.shtml" target="_blank"><img style="opacity: 1;" alt="吴尊亮相上海排场十足" src="http://i1.itc.cn/20140607/3010_c0c23b38_3198_a03a_d2c0_0163fbcd21e1_1.jpg" height="145" width="160"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://tv.sohu.com/20140607/n400537407.shtml" target="_blank">吴尊亮相上海排场十足</a></em><em class="txt-tt"><a href="http://tv.sohu.com/s2013/yulebobao/" target="_blank">娱乐播报</a></em></li>
-<li class="end"><a href="http://tv.sohu.com/20140607/n400537445.shtml" target="_blank"><img style="opacity: 1;" alt="巩俐到港宣传被送错花" src="http://i3.itc.cn/20140607/3010_c0c23b38_3198_a03a_d2c0_0163fbcd21e1_2.jpg" height="145" width="160"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://tv.sohu.com/20140607/n400537445.shtml" target="_blank">巩俐到港宣传被送错花</a></em><em class="txt-tt"><a href="http://tv.sohu.com/s2013/yulebobao/" target="_blank">娱乐播报</a></em></li></div>
+				<div style="float:left"><li><a href="http://tv.sohu.com/20140608/n400557460.shtml" target="_blank"><img style="opacity: 1;" alt="华谊20周年庆典众星云集" src="http://i3.itc.cn/20140608/3204_4cb38689_dbe6_dda9_63aa_c16314f008c0_1.jpg" height="145" width="160"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://tv.sohu.com/20140608/n400557460.shtml" target="_blank">华谊20周年庆典众星云集</a></em><em class="txt-tt"><a href="http://tv.sohu.com/s2013/yulebobao/" target="_blank">娱乐播报</a></em></li>
+<li class="end"><a href="http://tv.sohu.com/20140608/n400558754.shtml " target="_blank"><img style="opacity: 1;" alt="赵本山谭晶牵手对唱" src="http://i0.itc.cn/20140608/3204_70a7aa77_bcfe_d421_8f48_59545a64fb7e_1.jpg" height="145" width="160"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://tv.sohu.com/20140608/n400558754.shtml " target="_blank">赵本山谭晶牵手对唱</a></em><em class="txt-tt"><a href="http://tv.sohu.com/s2013/yulebobao/" target="_blank">娱乐播报</a></em></li> </div>
 			</ul>
 		</div>
 	</div>
@@ -2833,10 +2832,10 @@ showTurnAD266(intTurnAD266);
 
 
 
-<li><a title="" href="http://tv.sohu.com/20140607/n400542717.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i3.itc.cn/20140607/2edc_393725de_c680_149f_25be_72f74b37b056_2.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140607/n400542717.shtml" target="_blank">日本4-3逆转</a></em></li>
+<li><a title="" href="http://tv.sohu.com/20140608/n400559913.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i1.itc.cn/20140608/2edc_e467b925_b7ce_291d_86fb_553c0a144208_1.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140608/n400559913.shtml" target="_blank">莎娃2-1夺冠</a></em></li>
 
 
-<li class="end"><a title="" href="http://tv.sohu.com/20140607/n400540990.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i2.itc.cn/20140607/2edc_7842a372_8a88_9896_40c9_6d26b224325f_1.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140607/n400540990.shtml" target="_blank">德国6-1大胜</a></em></li>
+<li class="end"><a title="" href="http://tv.sohu.com/20140608/n400572072.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i3.itc.cn/20140608/2d08_fa872cae_8221_cab9_32df_99e9d13adc60_1.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140608/n400572072.shtml" target="_blank">男篮擒澳洲</a></em></li>
 
 
 
@@ -2854,13 +2853,12 @@ showTurnAD266(intTurnAD266);
 <ul>
 
 
-<li><a title="" href="http://tv.sohu.com/20140606/n400528824.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i2.itc.cn/20140606/9fd_b87824c6_bbc8_95b7_e902_c50da164d6b1_1.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140606/n400528824.shtml" target="_blank">法国核心伤退</a></em></li>
+<li><a title="" href="http://tv.sohu.com/20140608/n400561329.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i3.itc.cn/20140608/2edc_f4025ffc_00ff_7605_5a9c_60f2a5ed618b_2.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140608/n400561329.shtml" target="_blank">阿根廷胜劲旅</a></em></li>
 
 
-<li class="end"><a title="" href="http://tv.sohu.com/20140607/n400541030.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i1.itc.cn/20140607/2edc_d2957c95_2db6_7088_a38f_08ee5846ee3a_1.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140607/n400541030.shtml" target="_blank">德国边锋重伤</a></em></li>
+<li class="end"><a title="" href="http://tv.sohu.com/20140608/n400561364.shtml" target="_blank"><img width="100" height="70" alt="" src="http://i2.itc.cn/20140608/2edc_f4025ffc_00ff_7605_5a9c_60f2a5ed618b_3.jpg"></a><em class="txt-bg"></em><em class="play-icon"></em><em class="txt-txt"><a title="" href="http://tv.sohu.com/20140608/n400561364.shtml" target="_blank">西班牙2-0小胜</a></em></li>
 
-</ul></div>
-
+</ul></div>
 		</div>
 		<div class="blockRB clear">
 			<div class="title">
@@ -3016,16 +3014,16 @@ showTurnAD265(intTurnAD265);
 <DIV class="more r-m"><EM class=add>+</EM><A href="http://house.focus.cn/" target=_blank>更多</A></DIV>
 			</div>
 			<div class="pic-text">
-<div><a href="http://house.focus.cn/zhuanti14/2014bjtudishengkuang/" target="_blank"><img alt=北京80宗拟供应地块亮相 src="http://i2.itc.cn/20140606/3237_ab8b9bb7_cd7b_7d06_c0fc_b21c7f4e31ef_1.jpg" width=100 height=70 filter="1"></a> </div>
-<h4><a href="http://house.focus.cn/zhuanti14/2014bjtudishengkuang/" target="_blank">北京80宗拟供应地块亮相</a></h4>
-<p>北京市国土局公布了2014年首批拟供应的商品住宅和商服用地。</p></div>
+<div><a href="http://house.focus.cn/zhuanti14/hushuoyizhouloushi30/" target="_blank"><img alt=北京二手房九成降价 src="http://i0.itc.cn/20140608/3237_.jpg" width=100 height=70 filter="1"></a> </div>
+<h4><a href="http://house.focus.cn/zhuanti14/hushuoyizhouloushi30/" target="_blank">"红五月"北京楼市量价齐跌</a></h4>
+<p>新房价格小幅下降的同时，二手房价格环比下跌5.52%。</p></div>
 <div class="list14">
-<h3><a href="http://house.focus.cn/news/2014-06-07/5123797.html" target="_blank">租房20年花百万不后悔</a> <a title="" href="http://house.focus.cn/news/2014-06-07/5123496.html" target="_blank">银监会表态支持首套房贷</a></h3>
+<h3><a href="http://house.focus.cn/news/2014-06-08/5124649.html" target="_blank">高考状元房2天超万元</a> <a title="" href="http://house.focus.cn/news/2014-06-08/5124667.html" target="_blank">房企资金链决定楼市走势</a></h3>
 <ul>
-<li><a href="http://house.focus.cn/daogou/2984.html" target="_blank">200万置业北苑</a> <a title="" href="http://house.focus.cn/daogou/3127.html" target="_blank">房山邻铁3居40万</a> <a title="" href="http://house.focus.cn/daogou/3096.html" target="_blank">固安核心2居64万</a></li>
-<li><a href="http://house.focus.cn/daogou/2887.html" target="_blank">4万购朝阳精装房</a> <a title="" href="http://house.focus.cn/daogou/2864.html" target="_blank">150万置业房山</a> <a title="" href="http://house.focus.cn/daogou/2860.html" target="_blank">80万买香河三居</a></li>
-<li><a href="http://house.focus.cn/zhuanti14/house_beijingzuixinkaipan/" target="_blank">6月开盘享优惠</a> <a title="" href="http://house.focus.cn/zhuanti14/house_beijingdazheloupan/" target="_blank">最新降价打折盘</a> <a title="" href="http://zhuanti.focus.cn/2013/house_beijingxianfang/" target="_blank">最全现房减30万</a></li>
-<li><a href="http://zhuanti.focus.cn/2013/zizhuxingshangpinfang/" target="_blank">自住房推全国</a> <a title="" href="http://house.focus.cn/msgview/2500017/300422093.html" target="_blank">黄村自住房解读</a> <a title="" href="http://house.focus.cn/msgview/7571/300410319.html" target="_blank">买商住必知6件事</a></li></ul></div>	
+<li><a href="http://house.focus.cn/daogou/3162.html" target="_blank">150万购大兴2居</a> <a title="" href="http://house.focus.cn/daogou/3158.html" target="_blank">房山学区房2.3万</a> <a title="" href="http://house.focus.cn/daogou/3011.html" target="_blank">名校学区房106万</a></li>
+<li><a href="http://house.focus.cn/zhuanti13/house_jjysbxg/" target="_blank">最全不限购汇总</a> <a title="" href="http://house.focus.cn/daogou/2028.html" target="_blank">200万通州邻铁房</a> <a title="" href="http://house.focus.cn/daogou/2363.html" target="_blank">房山邻铁房90万</a></li>
+<li><a href="http://house.focus.cn/daogou/2340.html" target="_blank">邻铁现房2.2万</a> <a title="" href="http://house.focus.cn/daogou/1749.html" target="_blank">亦庄精装房200万</a> <a title="" href="http://zhuanti.focus.cn/2013/house_beijingxianfang/" target="_blank">最全现房减30万</a></li>
+<li><a href="http://zhuanti.focus.cn/2013/zizhuxingshangpinfang/" target="_blank">辟谣自住房摇号</a> <a title="" href="http://house.focus.cn/msgview/2500017/300419476.html" target="_blank">6城试点自住房</a> <a title="" href="http://house.focus.cn/msgview/7624/300399611.html" target="_blank">房山良乡项目PK</a></li></ul></div>	
 		</div>
 		<div class="left-pub left-pub-mg0 r" id="focus_news2">
 			<div class="menuD">
@@ -3476,19 +3474,19 @@ showTurnAD264(intTurnAD264);
 	<div class="left">
 		<div class="left-pub left-pub-mg0 l">
 			<div class="focus-pic">
-				<a href="http://it.sohu.com" target="_blank"><img style="opacity: 1;" alt="微生活驾崩 腾讯O2O业务瘦身完成" src="http://i1.itc.cn/20140607/749_1b89b25f_1a3a_5a6e_947c_6479b84ea8cd_1.jpg" height="190" width="340"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://it.sohu.com" target="_blank">微生活驾崩 腾讯O2O业务瘦身完成</a></em>
+				<a href="http://it.sohu.com" target="_blank"><img style="opacity: 0.9;" alt="微生活驾崩 腾讯O2O业务瘦身完成" src="http://i2.itc.cn/20140608/2f0a_5f6a208c_e456_f232_e230_f36d04ded8a8_1.jpg" height="190" width="340"></a><em class="txt-bg"></em><em class="txt-txt"><a href="http://it.sohu.com" target="_blank">联通百度合作互联网金融，会改变什么？</a></em>
 			</div>
 		</div>
 		<div class="left-pub left-pub-mg0 r">
 			<div class="list14 list14-mg0">
 				<h3>
-					<a href="http://it.sohu.com/20140607/n400539348.shtml" target="_blank">Uber获12亿美元融资 估值达到182亿美元</a>
+					<a href="http://it.sohu.com/20140608/n400558642.shtml" target="_blank">微软小冰遭封杀后寻“新欢”  联姻易信米聊</a>
 				</h3>
-				<ul><li><a href='http://it.sohu.com/20140607/n400545169.shtml' target='_blank'>苹果收购Beats因低估了流媒体音乐的重要性</a></li>
-<li><a href='http://it.sohu.com/20140607/n400542269.shtml' target='_blank'>爱立信：亚太地区将新增逾20亿智能手机连接</a></li>
-<li><a href='http://it.sohu.com/20140607/n400541855.shtml' target='_blank'>谷歌将收购音乐服务Songza 加速流媒体音乐服务</a></li>
-<li><a href='http://it.sohu.com/20140607/n400540795.shtml' target='_blank'>苹果完成了对社交搜索引擎Spotsetter的收购</a></li>
-<li><a href='http://it.sohu.com/20140607/n400539961.shtml' target='_blank'>YouTube的联合创始人如今各自都在干嘛呢？</a></li>
+				<ul><li><a href='http://it.sohu.com/20140608/n400561800.shtml' target='_blank'>网络大V董良杰获释 曾编造自来水避孕药假信息</a></li>
+<li><a href='http://it.sohu.com/20140608/n400561493.shtml' target='_blank'>日本软银新研制情感机器人：能唱能跳会说话</a></li>
+<li><a href='http://it.sohu.com/20140608/n400560748.shtml' target='_blank'>苹果欲吸引中国开发者  开发本土程序应用</a></li>
+<li><a href='http://it.sohu.com/20140608/n400558642.shtml' target='_blank'>微软小冰遭封杀后寻多个“新欢” 联姻易信米聊</a></li>
+<li><a href='http://it.sohu.com/20140607/n400545169.shtml' target='_blank'>苹果收购Beats因低估了流媒体音乐的重要性</a></li>
 </ul>
 				<SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href="http://vip.book.sohu.com/book/88849/"  target=_blank>左手人生，右手岁月</a>　<a href="http://vip.book.sohu.com/book/101459/"  target=_blank>北漂一族的爱情故事</a></p></div></div>
@@ -3533,9 +3531,9 @@ showTurnAD264(intTurnAD264);
 				<h3>
 					<a href="http://digi.it.sohu.com/20140606/n400497671.shtml" target="_blank">苹果iWatch发布时间/售价曝光</a>
 				</h3>
-				<ul><li><a href='http://digi.it.sohu.com/20140605/n400447461.shtml' target='_blank'>抢占互联网入口 谷歌推新智能电视系统</a></li>
-<li><a href='http://digi.it.sohu.com/20140605/n400447333.shtml' target='_blank'>苹果又玩另类 或将放弃3.5mm耳机接口</a></li>
-<li><a href='http://digi.it.sohu.com/20140604/n400412420.shtml' target='_blank'>LG G Watch和Moto 360原型上手对比图</a></li>
+				<ul><li><a href='http://digi.it.sohu.com/20140608/n400566603.shtml' target='_blank'>诺基亚发布超柔韧屏幕面板 可承受10万次弯折</a></li>
+<li><a href='http://digi.it.sohu.com/20140608/n400566429.shtml' target='_blank'>盘点苹果10个未曾亮相的惊人产品设计</a></li>
+<li><a href='http://digi.it.sohu.com/20140605/n400447461.shtml' target='_blank'>抢占互联网入口 谷歌推新智能电视系统</a></li>
 </ul>
         <SOHUADCODE><div>
 <div class="t-ad"><p><span>商情</span>|<a href=http://vip.book.sohu.com/book/10776/ target=_blank>木匠皇帝：明宫晚钟</a>　<a href=http://vip.book.sohu.com/book/147834/ target=_blank>美好年华之家族风云</a></p></div></div>

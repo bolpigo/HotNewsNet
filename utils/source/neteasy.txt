@@ -820,7 +820,7 @@ body { padding-top:39px;}
                 //今日热点 TAG
                 (function(){
                     var hotTagsData ={};
-                    var hotTagsData = {"count":50,"data":[{"name":"大妈高速广场舞","url":"http://tag.163.com/news/131/131274/1.html"},{"name":"虹桥火车站斗殴","url":"http://tag.163.com/news/131/131262/1.html"},{"name":"哈尔滨老头乐","url":"http://tag.163.com/news/131/131206/1.html"},{"name":"女子遭昔日闺蜜毁容","url":"http://tag.163.com/news/131/131160/1.html"},{"name":"亚洲最大的高考工厂","url":"http://tag.163.com/news/131/131046/1.html"},{"name":"女嫌犯恶灵之王","url":"http://tag.163.com/news/131/131177/1.html"},{"name":"黑石斑鱼","url":"http://tag.163.com/news/131/131219/1.html"},{"name":"中方南海仲裁","url":"http://tag.163.com/news/130/130977/1.html"},{"name":"朝鲜农场世外桃源","url":"http://tag.163.com/news/130/130988/1.html"},{"name":"奥巴马遭偷拍","url":"http://tag.163.com/news/131/131003/1.html"},{"name":"开豪车到中学求婚","url":"http://tag.163.com/news/131/131232/1.html"},{"name":"89岁老兵高空跳伞","url":"http://tag.163.com/news/131/131240/1.html"},{"name":"深化中阿合作","url":"http://tag.163.com/news/131/131114/1.html"},{"name":"乌克兰女外长","url":"http://tag.163.com/news/131/131289/1.html"},{"name":"巴沙尔总统选举","url":"http://tag.163.com/news/131/131022/1.html"},{"name":"国贸地铁","url":"http://tag.163.com/news/131/131126/1.html"},{"name":"刘汉提交上诉状","url":"http://tag.163.com/news/131/131087/1.html"},{"name":"习近平任免驻外大使","url":"http://tag.163.com/news/131/131113/1.html"},{"name":"高圆圆我们结婚","url":"http://tag.163.com/news/131/131183/1.html"},{"name":"希拉里总统大选","url":"http://tag.163.com/news/131/131032/1.html"},{"name":"无牌奥迪撞飞交警","url":"http://tag.163.com/news/131/131175/1.html"},{"name":"落马官员受审表情","url":"http://tag.163.com/news/131/131029/1.html"},{"name":"29名暴恐嫌疑人","url":"http://tag.163.com/news/131/131019/1.html"},{"name":"中央公务员遴选","url":"http://tag.163.com/news/131/131242/1.html"},{"name":"杨幂出院纤瘦如昔","url":"http://tag.163.com/news/131/131110/1.html"},{"name":"简政放权简单放权","url":"http://tag.163.com/news/131/131118/1.html"},{"name":"张德江巴基斯坦客人","url":"http://tag.163.com/news/131/131119/1.html"},{"name":"13岁女孩登顶珠峰","url":"http://tag.163.com/news/131/131121/1.html"},{"name":"贾乃亮父母首出镜","url":"http://tag.163.com/news/131/131251/1.html"},{"name":"女孩3000字遗言","url":"http://tag.163.com/news/131/131072/1.html"},{"name":"云豹因太胖遭围观","url":"http://tag.163.com/news/131/131073/1.html"},{"name":"义乌飞机坠毁","url":"http://tag.163.com/news/131/131213/1.html"},{"name":"相声演员周炜","url":"http://tag.163.com/news/131/131212/1.html"},{"name":"人皮书","url":"http://tag.163.com/news/131/131202/1.html"},{"name":"近千万考生今日高考","url":"http://tag.163.com/news/131/131230/1.html"},{"name":"茂名窝案63人免职","url":"http://tag.163.com/news/131/131231/1.html"},{"name":"济南婴儿安全岛","url":"http://tag.163.com/news/131/131228/1.html"},{"name":"吴亦凡郭敬明","url":"http://tag.163.com/news/131/131103/1.html"},{"name":"MH370坠毁噪音","url":"http://tag.163.com/news/130/130982/1.html"},{"name":"NBA公布最佳阵容","url":"http://tag.163.com/news/131/131191/1.html"},{"name":"浙江户籍制度改革","url":"http://tag.163.com/news/131/131184/1.html"},{"name":"许晴谈华晨宇绯闻","url":"http://tag.163.com/news/131/131197/1.html"},{"name":"英国女王豪华马车","url":"http://tag.163.com/news/131/131013/1.html"},{"name":"减肥神器肚皮碗","url":"http://tag.163.com/news/131/131065/1.html"},{"name":"二人转涉黄","url":"http://tag.163.com/news/131/131062/1.html"},{"name":"越方1200艘次","url":"http://tag.163.com/news/131/131146/1.html"},{"name":"美国真人秀","url":"http://tag.163.com/news/131/131266/1.html"},{"name":"广西无人海岛售14元","url":"http://tag.163.com/news/131/131056/1.html"},{"name":"新疆发现翼龙化石","url":"http://tag.163.com/news/131/131155/1.html"},{"name":"工地重金属萌娃","url":"http://tag.163.com/news/131/131283/1.html"}]}
+                    var hotTagsData = {"count":39,"data":[{"name":"大妈高速广场舞","url":"http://tag.163.com/news/131/131274/1.html"},{"name":"哈尔滨老头乐","url":"http://tag.163.com/news/131/131206/1.html"},{"name":"女子闺蜜毁容","url":"http://tag.163.com/news/131/131179/1.html"},{"name":"虹桥火车站斗殴","url":"http://tag.163.com/news/131/131262/1.html"},{"name":"女嫌犯恶灵之王","url":"http://tag.163.com/news/131/131177/1.html"},{"name":"中国去年930万移民","url":"http://tag.163.com/news/131/131361/1.html"},{"name":"高考枪手","url":"http://tag.163.com/news/131/131403/1.html"},{"name":"黑石斑鱼","url":"http://tag.163.com/news/131/131219/1.html"},{"name":"深化中阿合作","url":"http://tag.163.com/news/131/131114/1.html"},{"name":"乌克兰新总统","url":"http://tag.163.com/news/131/131314/1.html"},{"name":"开豪车到中学求婚","url":"http://tag.163.com/news/131/131232/1.html"},{"name":"13岁印度女孩珠峰","url":"http://tag.163.com/news/131/131312/1.html"},{"name":"89岁老兵高空跳伞","url":"http://tag.163.com/news/131/131240/1.html"},{"name":"习近平任免驻外大使","url":"http://tag.163.com/news/131/131113/1.html"},{"name":"乌克兰女外长","url":"http://tag.163.com/news/131/131289/1.html"},{"name":"中央公务员遴选","url":"http://tag.163.com/news/131/131242/1.html"},{"name":"女学霸坐轮椅高考","url":"http://tag.163.com/news/131/131300/1.html"},{"name":"最后一名风语者逝世","url":"http://tag.163.com/news/131/131390/1.html"},{"name":"简政放权简单放权","url":"http://tag.163.com/news/131/131118/1.html"},{"name":"张德江巴基斯坦客人","url":"http://tag.163.com/news/131/131119/1.html"},{"name":"修改著作权法","url":"http://tag.163.com/news/131/131362/1.html"},{"name":"浙江户籍制度改革","url":"http://tag.163.com/news/131/131184/1.html"},{"name":"北京自住房摇号规则","url":"http://tag.163.com/news/131/131248/1.html"},{"name":"许晴谈华晨宇绯闻","url":"http://tag.163.com/news/131/131197/1.html"},{"name":"世界上最小的国家","url":"http://tag.163.com/news/131/131317/1.html"},{"name":"墨西哥毒枭","url":"http://tag.163.com/news/131/131344/1.html"},{"name":"彭帅谢淑薇进法网决赛","url":"http://tag.163.com/news/131/131351/1.html"},{"name":"义乌飞机坠毁","url":"http://tag.163.com/news/131/131213/1.html"},{"name":"越方1200艘次","url":"http://tag.163.com/news/131/131146/1.html"},{"name":"学霸一个人考场","url":"http://tag.163.com/news/131/131328/1.html"},{"name":"伊朗火车相撞","url":"http://tag.163.com/news/131/131292/1.html"},{"name":"近千万考生今日高考","url":"http://tag.163.com/news/131/131230/1.html"},{"name":"新疆发现翼龙化石","url":"http://tag.163.com/news/131/131155/1.html"},{"name":"茂名窝案63人免职","url":"http://tag.163.com/news/131/131231/1.html"},{"name":"济南婴儿安全岛","url":"http://tag.163.com/news/131/131228/1.html"},{"name":"男子白血病","url":"http://tag.163.com/news/131/131286/1.html"},{"name":"黑龙江爆炸","url":"http://tag.163.com/news/131/131404/1.html"},{"name":"成人奶妈暗访","url":"http://tag.163.com/news/131/131284/1.html"},{"name":"工地重金属萌娃","url":"http://tag.163.com/news/131/131283/1.html"}]}
                     if (hotTagsData.count && hotTagsData.count > 0) {
                         var code = '?from=newshome_new',
                                 html = [],
@@ -851,27 +851,25 @@ body { padding-top:39px;}
         <!--新闻headarea -->
 <div id="news" class="mod JS_NTES_LOG_FE" data-module-name="c_news">
     <span class="blank9"></span>
-    <h2 class="bigsize"><a href="http://news.163.com/14/0606/17/9U2RF9L200014JB5.html">习近平主持深改组会议 明确户籍改革要求</a></h2>
+    <h2 class="bigsize"><a href="http://news.163.com/14/0608/11/9U7B3FL300014JB6.html">王毅：习近平或出访印度 两国共识超分歧</a></h2>
     <p>
-            <a href="http://news.163.com/14/0606/22/9U3CQJJG00014AEE.html">李克强听取李小鹏等8位省市长汇报经济工作</a> <a target="_blank" href="http://news.163.com/14/0606/20/9U36DGTI00014JB5.html">行政审批</a> <a target="_blank" href="http://news.163.com/14/0606/11/9U26QRO90001124J.html">遴选公务员</a><br />
+            <a href="http://news.163.com/14/0608/19/9U894F6J0001124J.html">二季度官方密集出台15项重大经济政策</a> <a target="_blank" href="http://news.163.com/14/0608/12/9U7H7MU500014JB5.html">刘云山将出访欧洲四国</a><br />
     </p>
  <span class="blank9"></span>
-    <h2 class="bigsize"><a href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">各地高考作文:鄂鲁辽三省材料雷同</a> <a target="_blank" href="http://news.163.com/special/gaokao2014/">最新</a></h2>
+    <h2 class="bigsize"><a href="http://news.163.com/14/0608/17/9U8309220001124J.html">外交部:越南冲撞中方1416艘次并纵容反华</a></h2>
     <p>
-            <a href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">3省作文材料均看风景</a> <a target="_blank" href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">湖北山东:对风景评价各异</a> <a target="_blank" href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">辽宁:霓虹和繁星</a><br />
-        <a href="http://news.163.com/14/0607/11/9U4Q3REK0001124J.html">北京:老规矩</a> <a target="_blank" href="http://news.163.com/14/0607/11/9U4R1UIN0001124J.html">上海:穿越沙漠</a> <a target="_blank" href="http://news.163.com/14/0607/11/9U4QGKHN0001124J.html">江苏:青春能否不朽</a> <a target="_blank" href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">全国卷:过独木桥</a><br />
-        <a href="http://news.163.com/14/0607/12/9U4SR9F50001124J.html">天津:给卖菜大娘植芯片让她博览古今</a> <a target="_blank" href="http://news.163.com/special/gkzuowen/">高考作文七宗最</a> <a target="_blank" href="http://edu.163.com/special/zuowen2014/">作文汇总</a><br />
-        <a href="http://news.163.com/14/0607/00/9U3J78RO00014JB6.html">全国高校拟招698万人</a> <a target="_blank" href="http://news.163.com/14/0607/01/9U3NPI6U00014AED.html">异地高考人数增12倍</a> <a target="_blank" href="http://news.163.com/special/jiafenjianshi/">加分简史</a> <a target="_blank" href="http://edu.163.com/special/2014gaokao/">高考专题</a><br />
+            <a href="http://news.163.com/14/0608/17/9U8309220001124J.html">越方派出水下特工干扰中方南海作业</a> <a target="_blank" href="http://news.163.com/14/0608/17/9U8309220001124J.html">暴乱致中国公民4死300多伤</a><br />
     </p>
  <span class="blank9"></span>
-    <h2 class="bigsize"><a href="http://news.163.com/14/0607/12/9U4UKO4B00014JB5.html">山东18名大学生跨省当高考"枪手"被抓</a></h2>
+    <h2 class="bigsize"><a href="http://news.163.com/14/0608/13/9U7KJJFC00014Q4P.html">高考安保升级：25省份警察配枪护考</a> <a target="_blank" href="http://edu.163.com/special/2014gaokao/">专题</a></h2>
     <p>
-            <a href="http://news.163.com/14/0607/09/9U4K7IPV00011229.html">女生车祸坐轮椅考试不知母亲去世</a> <a target="_blank" href="http://news.163.com/14/0607/10/9U4NQRD50001124J.html">班主任否认睡过头误全班准考证</a><br />
+            <a href="http://news.163.com/14/0608/02/9U6DC23S00014JB6.html">江西夺刀救人考生登人民日报头版</a> <a target="_blank" href="http://news.163.com/14/0608/10/9U78RDGE00014AEE.html">聊城：硬闯考点按暴恐分子处理</a><br />
+        <a href="http://news.163.com/14/0608/15/9U7RB3K000014JB5.html">考生迟到被拒入场 家长集体求情未果</a> <a target="_blank" href="http://news.163.com/14/0608/17/9U82A71V00014JB6.html">多数省份高考结束</a> <a target="_blank" href="http://edu.163.com/special/zt2014/">真题汇总</a><br />
     </p>
  <span class="blank9"></span>
-    <h2 class="bigsize"><a href="http://news.163.com/14/0606/21/9U3B28A00001121M.html">越南:反政府组织在游行中挑动民众打砸抢</a></h2>
+    <h2 class="bigsize"><a href="http://news.163.com/14/0608/03/9U6FRTVA0001124J.html">中国公布境内20个活跃邪教组织名单</a></h2>
     <p>
-            <a href="http://news.163.com/14/0528/11/9TB36M8P0001124J.html">越南大规模起诉反华暴乱中参与打砸抢者</a> <a target="_blank" href="http://news.163.com/14/0605/18/9U0EEPO900014JB6.html">仍未赔偿受损中国企业</a><br />
+            <a href="http://news.163.com/14/0608/03/9U6FRTVA0001124J.html">专家:教主崇拜和精神控制是共同特征</a> <a target="_blank" href="http://news.163.com/14/0608/03/9U6FRTVA0001124J.html">类似招远血案并不鲜见</a><br />
     </p>
  <span class="blank9"></span>
  </div>
@@ -880,33 +878,33 @@ body { padding-top:39px;}
  <a href="http://g.163.com/a?CID=27954&Values=2709252458&Redirect=http://c.361.cn.maysunmedia.com/track/dclk?cid=100014&pid=1000493&rdt=http%3A%2F%2Fwww.189.cn%2Fllfb%3Fcmpid%3Djt-banner-163-lx1yuan%26ms_cid%3D100014%26ms_pid%3D1000493"><img width="360" height="35" src="http://img1.126.net/channel4/016685/dx36035_0430.jpg"></a>
         </div> -->
 <div class="hot-news mod JS_NTES_LOG_FE" data-module-name="c_hotnews">
-            <h3 class="bigsize"><a href="http://news.163.com/14/0607/14/9U534ME600014JB6.html">扬州环保局女局长被查 被曝为季建业情妇(图)</a></h3>
+            <h3 class="bigsize"><a href="http://news.163.com/14/0608/15/9U7QAUF20001121M.html">日本巡逻机在冲绳海域发现中国海军编队(图)</a></h3>
             <ul class="mod-list main-list">
-                        <li><a href="http://news.163.com/14/0607/15/9U577PHP00014JB6.html">安倍或获准可越过内阁直接下令自卫队动武</a> <a target="_blank" href="http://news.163.com/14/0607/08/9U4FH19D00014AEE.html">立场</a></li>
-                <li><a href="http://news.163.com/14/0607/10/9U4OE1G90001124J.html">官员财产申报逐步扩围 或与不动产登记信息共享</a></li>
-                <li><a href="http://news.163.com/14/0607/15/9U5802AG0001124J.html">傅政华巡查高考考点安保工作 要求做好处突准备</a></li>
-                <li><a href="http://news.163.com/14/0607/14/9U541JP700014PRF.html">中纪委网站刊文解释"通奸"</a> <a target="_blank" href="http://news.163.com/special/zuofengbad/">图解"作风问题"</a></li>
-                <li><a href="http://news.163.com/14/0607/14/9U562H2F00014JB6.html">台湾庆祝黄埔建军90年 马英九缅怀抗日牺牲同胞</a></li>
-                <li><a href="http://news.163.com/14/0607/16/9U5D2UVG0001124J.html">广州地铁内乘客晕倒引发恐慌逃离 6人受伤(图)</a></li>
+                        <li><a href="http://news.163.com/special/fanfufengbao/">退休官员落马调查:吉林原副省长"边腐边升"16年</a></li>
+                <li><a href="http://news.163.com/14/0608/21/9U8FJC1P0001124J.html">广州三元里数百人聚集与执法人员对峙(图)</a></li>
+                <li><a href="http://news.163.com/14/0608/11/9U7CG1LI0001124J.html">广州书记4年来首次失龙舟赛冠军 外国人夺冠(图)</a></li>
+                <li><a href="http://news.163.com/14/0608/15/9U7R01M800014AED.html">上海枪杀6人案被告遭索赔百万元 受审称赔不起</a></li>
+                <li><a href="http://news.163.com/special/malaysiaplane/">MH370乘客家属欲筹款500万美元悬赏征集线索</a></li>
+                <li><a href="http://news.163.com/14/0608/15/9U7RR7Q700014JB5.html">北京教改新政推高学区房价：最高每平30万元</a></li>
             </ul>
         <span class="blank9"></span>
-        <h3 class="bigsize"><a href="http://news.163.com/14/0607/16/9U5D4LR90001124J.html">安徽一官员被查后将金银等赃物埋在自家院内</a></h3>
+        <h3 class="bigsize"><a href="http://news.163.com/14/0608/11/9U7EC33E0001121M.html">菲越两国友谊赛今在非法侵占南海岛屿举行</a></h3>
             <ul class="mod-list main-list">
-                        <li><a href="http://news.163.com/14/0607/07/9U4E4AH20001124J.html">国务院扶贫办1名"假党员假干部假学历"官员被查</a></li>
-                <li><a href="http://news.163.com/14/0607/03/9U40BBOQ00014AED.html">杭州拟立法减轻救人不当致死者责任 鼓励见义勇为</a></li>
-                <li><a href="http://news.163.com/14/0607/16/9U5B91OV0001121M.html">墨西哥落网毒枭情妇疑接管世界最大贩毒集团(图)</a></li>
-                <li><a href="http://news.163.com/special/ukraine/">波罗申科宣誓就任总统 称克里米亚仍属乌克兰</a></li>
-                <li><a href="http://news.163.com/14/0607/12/9U4TPQ5700014JB6.html">20余位中国远征军阵亡将士遗骸将被安葬腾冲</a></li>
-                        <li><a href="http://auto.163.com/photoview/5BD20008/166509.html">90后漂亮学姐高校炫百万豪车</a> <a target="_blank" href="http://auto.163.com/14/0606/01/9U15MKID00084TUO.html">宝马新X6比卡宴威武多了</a></li>
+                        <li><a href="http://news.163.com/14/0608/11/9U7DBCK000014JB6.html">日本天皇堂兄弟桂宫亲王突然病故 病因不明(图)</a></li>
+                <li><a href="http://news.163.com/14/0608/16/9U7T8C3J00011229.html">西安城管被曝非法占用人行道充当停车场敛财</a></li>
+                <li><a href="http://news.163.com/14/0608/13/9U7KONC700014Q4P.html">河北出生72天男婴被抱走 警方调查暂无进展(图)</a></li>
+                <li><a href="http://news.163.com/14/0608/13/9U7JEUTN00011229.html">哈理工MBA作弊案唯一在逃人员吸毒网聊被抓(图)</a></li>
+                <li><a href="http://news.163.com/14/0608/07/9U6VDEOE00011229.html">江西南昌拟将3座小庙合并 让和尚与尼姑住一起</a></li>
+                        <li><a href="http://auto.163.com/14/0608/09/9U75OJQK00084IJL.html">咸阳年轻人开豪车免费接送高考生</a> <a target="_blank" href="http://auto.163.com/14/0608/09/9U75U7IR00084TV1.html">车主高速"顺手牵羊"</a></li>
             </ul>
         <span class="blank9"></span>
-        <h3 class="bigsize"><a href="http://news.163.com/14/0607/06/9U47RC9800014AED.html">南京1小区大爷大妈承诺高考期间广场舞停跳3天</a></h3>
+        <h3 class="bigsize"><a href="http://news.163.com/14/0608/09/9U75Q95O00014JB5.html">广西玉林市民：你可以不吃狗肉 别影响我们吃</a></h3>
         <ul class="mod-list main-list">
-                        <li><a href="http://news.163.com/14/0607/09/9U4IBD2B0001124J.html">青海海东一镍铁矿发生毒气泄露 已造成两人死亡</a></li>
-                                        <li><a href="http://money.163.com/?from=news">宁波市政府需日均偿债1.28亿</a> <a target="_blank" href="http://money.163.com/14/0607/08/9U4F7UHM00253B0H.html">吴英资产将公开拍卖</a></li>
-                <li><a href="http://money.163.com/14/0607/09/9U4JHOCK00253B0H.html?from=news">渣打:中国会有10-20个城市房价跌超50%</a> <a target="_blank" href="http://money.163.com/14/0607/09/9U4HQNLC00254ITV.html">阿里IPO围城</a></li>
-                                <li><a href="http://tech.163.com/14/0606/08/9U1SLCIP000915BF.html">QQ大盗5个月盗400万QQ号</a> <a target="_blank" href="http://tech.163.com/14/0606/03/9U1C9AJA000915BD.html">清华科研:人类有望饿死癌细胞</a></li>
-                                <li id="houseRecommendNews"><a href="http://gz.house.163.com/14/0607/09/9U4J5MGI00873C6D.html">广州一大波"白菜价"楼盘来袭</a> <a target="_blank" href="http://gz.house.163.com/14/0607/09/9U4HRG7400873C6D.html">郊区白热化促销</a></li>
+                        <li><a href="http://news.163.com/14/0608/14/9U7M9OEO00014AED.html">揭秘香港"飞虎队":10秒擒"贼王" 遮面防报复(图)</a></li>
+                                        <li><a href="http://money.163.com/?from=news">信贷艰难挤泡沫:频发老板跑路</a> <a target="_blank" href="http://money.163.com/photoview/0BGT0025/14256.html">百辆豪车扎堆春熙路</a></li>
+                <li><a href="http://money.163.com/chanjing/?from=news">康师傅统一大战 不惜自残掐对手</a> <a target="_blank" href="http://biz.163.com/#from=money_index">李嘉诚如何请人吃饭</a></li>
+                                <li><a href="http://tech.163.com/14/0608/12/9U7FVR4C000915BF.html">余额宝上线一年改变了什么</a> <a target="_blank" href="http://tech.163.com/14/0608/10/9U7AO2D8000915BE.html">美国用激光束从太空传视频</a></li>
+                                <li id="houseRecommendNews"><a href="http://gz.house.163.com/14/0608/08/9U7297D300873C6D.html">温州房产商低价售楼只为全身而退</a> <a target="_blank" href="http://gz.house.163.com/14/0605/16/9U08C23C0087482R.html">降价楼盘如昙花一现</a></li>
                                 <li><a href="http://vhouse.163.com/14/0603/16/9TR0EN0C00294MCG.html">欧洲农民住别墅补贴数百万</a> <a target="_blank" href="http://vhouse.163.com/photoview/5LTA0029/13791.html">奥巴马遭中国大妈搂腰袭臀</a></li>
             </ul>
 </div>
@@ -951,22 +949,22 @@ body { padding-top:39px;}
 <!-- <object codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" id="flashad" width="150" height="30"> <param name="movie" value="http://img1.126.net/channel6/13030.swf">  <param name="quality" value="autohigh">  <param name="wmode" value="opaque">  <embed src="http://img1.126.net/channel6/13030.swf" quality="autohigh" wmode="opaque" name="flashad" swliveconnect="TRUE" width="150" height="30" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object> --></div>
             </div>
             <div class="ui-til3-tab-c current">
-                                                <h3 class="bigsize"><a href="http://news.163.com/14/0607/03/9U3UN0U800014Q4P.html">湖南超编公车拍卖 44辆车拍出200多万元(图)</a></h3>
+                                                <h3 class="bigsize"><a href="http://news.163.com/14/0608/14/9U7M69KK000146BE.html">唐家璇出席中日友好交流大会 称对立根源在日</a></h3>
                                 <ul class="mod-list main-list">
-                                                            <li><a href="http://news.163.com/14/0607/15/9U5908G900014JB6.html">传吴伯雄之子选举提名将被撤 国民党发言人澄清</a></li>
-                                        <li><a href="http://news.163.com/14/0607/15/9U59EH3F00014JB6.html">18名越南人组团经大陆＂偷渡＂台湾 遭台方抓获</a></li>
-                                        <li><a href="http://news.163.com/14/0607/01/9U3MH2FQ00014AED.html">国有企业事业单位人才获准选调中央机关任职</a></li>
-                                        <li><a href="http://news.163.com/14/0607/14/9U54K4CO00014JB6.html">民进党高层称欢迎张志军访台 国台办回应</a></li>
-                                        <li><a href="http://news.163.com/14/0607/11/9U4QTEIO00014JB5.html">海南致8死校车侧翻事故被定为生产安全责任事故</a></li>
+                                                            <li><a href="http://news.163.com/14/0608/15/9U7Q48NO00014JB5.html">江西一项考古发现或将青铜器冶炼史前推至夏代</a></li>
+                                        <li><a href="http://news.163.com/14/0608/10/9U7A626H00014JB6.html">马英九谈精简台军:绝不废海军陆战队和宪兵</a></li>
+                                        <li><a href="http://news.163.com/14/0608/14/9U7M68OO0001124J.html">济南规定因公短期出国培训经费预算先行审核</a></li>
+                                        <li><a href="http://news.163.com/14/0607/20/9U5Q404T00014AEE.html">安徽一招商局原局长受贿 一审获刑5年半</a></li>
+                                        <li><a href="http://news.163.com/14/0608/09/9U771MKB00014JB5.html">陕西将对建筑施工现场关键岗位人员实行实名管理</a></li>
                                     </ul>
                 <span class="blank15"></span>
                 <ul class="mod-list main-list">
-                                                            <li><a href="http://news.163.com/14/0607/04/9U43MD5H00011229.html"><em class="fB">广州官员行贿百万砸出仕途受审:自称曾两袖清风</em></a></li>
-                                                            <li><a href="http://news.163.com/14/0607/12/9U4SBHAT00014JB5.html">辽宁致4死2伤工厂爆炸事故两责任人被判刑</a></li>
-                                        <li><a href="http://news.163.com/14/0607/11/9U4P0QCG00014JB6.html">国民党人接获杀马英九威胁信息 台官方加强维安</a></li>
-                                        <li><a href="http://news.163.com/14/0607/08/9U4EL3AE00014JB5.html">南昌规划40亩绿地突变寺庙：业主不干 僧人不愿</a></li>
-                                        <li><a href="http://news.163.com/14/0606/23/9U3FVT5V00014JB6.html">甘肃武威凉州区通报群体不适事件：排除农药中毒</a></li>
-                                        <li><a href="http://news.163.com/14/0607/07/9U4E4BBU00014JB5.html">广东国企领导不服6名亲戚被清退 让员工填表表决</a></li>
+                                                            <li><a href="http://news.163.com/14/0608/18/9U83T0HB00014JB5.html"><em class="fB">多数省市区高考今天落幕 考生:这三年过的值</em></a></li>
+                                                            <li><a href="http://news.163.com/14/0608/20/9U8ASQ2D00014JB5.html">新疆兵团纪委:更加有力地严明党的政治纪律</a></li>
+                                        <li><a href="http://news.163.com/14/0608/20/9U8AN9G200014JB5.html">湖南省委巡视组进驻教育厅等6单位开展巡视</a></li>
+                                        <li><a href="http://news.163.com/14/0608/19/9U895MTU00014JB6.html">西藏投资最大水利工程拉洛水利枢纽开工</a></li>
+                                        <li><a href="http://news.163.com/14/0608/18/9U86DTVD00014JB6.html">华北东北将降阵雨 局地伴有雷电大风或冰雹</a></li>
+                                        <li><a href="http://news.163.com/14/0608/18/9U83R0LB00014JB5.html">浙江规定不可卖＂活禽＂ 须宰杀后交付购买者</a></li>
                                     </ul>
             </div>
         </div>
@@ -976,22 +974,22 @@ body { padding-top:39px;}
                 <h2><a href="http://news.163.com/world/">国际</a></h2>
             </div>
             <div class="ui-til3-tab-c current">
-                                                <h3 class="bigsize"><a href="http://news.163.com/14/0607/04/9U424V4800014JB6.html">白宫称"奥普会"提三点要求 呼吁普京抓住机会</a></h3>
+                                                <h3 class="bigsize"><a href="http://news.163.com/14/0608/16/9U7S998N00014JB6.html">埃及法院判处10名在逃穆兄会高级成员死刑</a></h3>
                                 <ul class="mod-list main-list">
-                                                            <li><a href="http://news.163.com/14/0607/01/9U3MRL9E00014AED.html">希拉里回忆与奥巴马首次会面：像青少年约会</a></li>
-                                        <li><a href="http://news.163.com/14/0607/15/9U5778R500014JB6.html">普京：俄罗斯不会参与乌克兰内部停火谈判</a></li>
-                                        <li><a href="http://news.163.com/14/0607/15/9U57FQRP00014JB6.html">美国西雅图大学发生枪击事件 一韩裔新生遇难</a></li>
-                                        <li><a href="http://news.163.com/14/0607/15/9U58MG5200014JB6.html">美国中情局首次公布社交网站帐号 引发网友热议</a></li>
-                                        <li><a href="http://news.163.com/14/0607/14/9U569SHP00014JB6.html">日意首脑在意大利举行会谈 确认加强情报合作</a></li>
+                                                            <li><a href="http://news.163.com/14/0608/21/9U8DDJ4700014JB6.html">泰国首都曼谷周日部署6000名军警维安</a></li>
+                                        <li><a href="http://news.163.com/14/0608/16/9U7SR7780001121M.html">日内阁官房长官称不排除安倍适时访朝</a></li>
+                                        <li><a href="http://news.163.com/14/0608/15/9U7PV2NC00014JB6.html">印度北部气温飙至47度致停电 民众纵火烧变电所</a></li>
+                                        <li><a href="http://news.163.com/14/0608/14/9U7OL45000014JB6.html">日本东北地区发生5.2级地震 暂无受损消息(图)</a></li>
+                                        <li><a href="http://news.163.com/14/0608/13/9U7KH8VB00014JB6.html">韩国沉船事故确认造成291人遇难 仍有13人失踪</a></li>
                                     </ul>
                 <span class="blank15"></span>
                 <ul class="mod-list main-list">
-                                                            <li><a href="http://news.163.com/14/0607/16/9U5A4GAH00014JB6.html"><em class="fB">波罗申科正式就任乌克兰总统 誓言维护乌统一</em></a></li>
-                                                            <li><a href="http://news.163.com/14/0607/15/9U57GDHO0001121M.html">乌克兰新总统就职仪式举行 波罗申科正式就任</a></li>
-                                        <li><a href="http://news.163.com/14/0607/14/9U53F66V00014JB6.html">法国总统奥朗德称俄乌总统在法会晤由自己组织</a></li>
-                                        <li><a href="http://news.163.com/14/0607/13/9U50RBJ000014JB6.html">金正恩视察万景台革命学院 赞体育馆世界一流</a></li>
-                                        <li><a href="http://news.163.com/14/0607/11/9U4Q4G5R00014JB6.html">伊朗发生火车相撞事件 致数十人伤亡</a></li>
-                                        <li><a href="http://news.163.com/14/0607/09/9U4IHPVV00014JB5.html">外媒：朝鲜人认为男人骑电单车赚钱才是男子汉</a></li>
+                                                            <li><a href="http://news.163.com/14/0608/21/9U8G14JQ0001121M.html"><em class="fB">21名国家元首和政府首脑将观战世界杯(名单)</em></a></li>
+                                                            <li><a href="http://news.163.com/14/0608/10/9U7AMAC100014JB5.html">哥伦比亚反政府武装再次宣布为大选短暂停火</a></li>
+                                        <li><a href="http://news.163.com/14/0608/08/9U73RQ5P00014JB6.html">乌克兰东部两州称对波罗申科特赦声明没兴趣</a></li>
+                                        <li><a href="http://news.163.com/14/0608/08/9U72O65F00014JB5.html">尼日利亚逮捕4名“博科圣地”少女间谍</a></li>
+                                        <li><a href="http://news.163.com/14/0608/09/9U759L9900014JB6.html">韩国又一名二战日军慰安妇去世 幸存者减至54人</a></li>
+                                        <li><a href="http://news.163.com/14/0608/09/9U76JEMM00014JB6.html">美国与伊朗将举行双边直接核谈判 数十年来首次</a></li>
                                     </ul>
             </div>
         </div>
@@ -1000,12 +998,12 @@ body { padding-top:39px;}
             <div class="title-bar ui-til3"><h2><a href="http://ent.163.com/">娱乐</a>/<a href="http://sports.163.com/">体育</a></h2></div>
             <span class="blank6"></span>
             <ul class="mod-list main-list">
-                                                <li><a href="http://sports.163.com/nba/">曝詹皇首战服7颗抗抽筋药</a></li>
-                                <li><a href="http://2014.163.com/">悲剧!里贝里因伤无缘世界杯 英超悍将紧急入替</a></li>
-                                                <li><a href="http://sports.163.com/photoview/0AQ50005/115757.html">上海九球赛台湾美女惊艳</a> <a target="_blank" href="http://2014.163.com/photoview/5O180005/115754.html">我们追过的"世界杯女神"</a></li>
-                                                <li><a href="http://ent.163.com/photoview/00AJ0003/530660.html#p=9U3GS4BC00AJ0003"><em class=' I_N_G_'>张柏芝现身"筷子腿"惹眼</em></a> <a target="_blank" href="http://ent.163.com/photoview/00AJ0003/530651.html#p=9U2RV7MF00AJ0003">梁洛施随时再续豪门梦</a></li>
-                                <li><a href="http://ent.163.com/14/0607/00/9U3KTQPK00031H2L.html">许晴家世曝光:母亲系舞蹈队队长</a> <a target="_blank" href="http://ent.163.com/photoview/00AJ0003/530666.html#p=9U3JCFT700AJ0003">女模穿三角裤开唱</a></li>
-                                <li><a href="http://ent.163.com/14/0607/00/9U3LDB9R00031H2L.html">林志玲自曝用冷水美胸:更紧实</a> <a target="_blank" href="http://ent.163.com/photoview/00AJ0003/530671.html#p=9U4CLIHH00AJ0003">宋祖英弟弟生活照</a></li>
+                                                <li><a href="http://sports.163.com/special/frenchopen2014/">法网-正直播小德纳达尔争冠</a></li>
+                                <li><a href="http://2014.163.com/">热身赛-阿根廷2-0胜</a> <a target="_blank" href="http://2014.163.com/14/0608/06/9U6Q8HJ2000505HF.html#p=9U6OHJV15O220005">梅西呕吐吃"药丸"破门</a></li>
+                                                <li><a href="http://sports.163.com/photoview/0B6P0005/115832.html"><em class=' I_N_G_'>郜林爱妻自曝清凉照</em></a> <a target="_blank" href="http://2014.163.com/photoview/5O2O0005/115834.html">朴智星携主播女友度假</a></li>
+                                                <li><a href="http://ent.163.com/14/0607/23/9U63B2VN00031H2L.html"><em class=' I_N_G_'>"宁贵人"露侧乳大秀性感</em></a> <a target="_blank" href="http://ent.163.com/photoview/00AJ0003/530700.html">麦莉着"卡阴装"热舞</a></li>
+                                <li><a href="http://ent.163.com/photoview/00AJ0003/530712.html"><em class=' I_N_G_'>黄晓明当众摸baby大腿</em></a> <a target="_blank" href="http://ent.163.com/photoview/00AJ0003/530727.html">健身队美女清凉拉练</a></li>
+                                <li><a href="http://ent.163.com/photoview/00AJ0003/530695.html"><em class=' I_N_G_'>洋美女近似全裸秀彩绘</em></a> <a target="_blank" href="http://ent.163.com/14/0608/04/9U6LTUN500031H2L.html?hsy">叶倩文与儿子同台献唱</a></li>
                             </ul>
         </div>
         <span class="blank12"></span>
@@ -1015,40 +1013,40 @@ body { padding-top:39px;}
 <div class="widget-slide widget-slide-2 JS_NTES_LOG_FE mod-scroll-auto" data-module-name="c_slide">
     <div class="widget-slide-body">
         <ul class="widget-slide-contents-piclist">
-                                       <li><a class = "left"  href="http://news.163.com/photoview/00AN0001/67110.html"><img width="400" height="280" alt="2014高考拉开帷幕 民警持枪巡逻" title="2014高考拉开帷幕 民警持枪巡逻" src="http://img2.cache.netease.com/cnews/2014/6/7/20140607103837d218b.jpg"></a>
+                                       <li><a class = "left"  href="http://news.163.com/photoview/00AP0001/67167.html"><img width="400" height="280" alt="汉江岸旁一游轮失火 现场冒出浓烟" title="汉江岸旁一游轮失火 现场冒出浓烟" src="http://img5.cache.netease.com/cnews/2014/6/8/20140608161819478bd.jpg"></a>
                 <div class="widget-slide-content-text right">
-                    <h4 ><a href="http://news.163.com/photoview/00AN0001/67110.html">2014高考拉开帷幕 民警持枪巡逻</a></h4>
-                    <p>6月7日，2014年全国高考拉开帷幕。据统计，今年全国高考报名人数为939万人，较2013年增加27万人，增幅3%。 多地增派警力持枪巡逻，维持秩序。</p>
+                    <h4 ><a href="http://news.163.com/photoview/00AP0001/67167.html">汉江岸旁一游轮失火 现场冒出浓烟</a></h4>
+                    <p>2014年6月8日，下午3点15分左右，汉江襄阳市城区段一艘游轮失火。3点40分，有网友爆料称消防车已经赶赴现场，但江面有风，火势还在蔓延。</p>
                 </div>
             </li>
-                           <li><a class = "left"  href="http://news.163.com/photoview/00AO0001/67095.html"><img width="400" height="280" alt="多国政要赴法纪念诺曼底登陆70周年" title="多国政要赴法纪念诺曼底登陆70周年" src="http://img3.cache.netease.com/cnews/2014/6/6/2014060621472845439.jpg"></a>
+                           <li><a class = "left"  href="http://news.163.com/photoview/00AN0001/67157.html"><img width="400" height="280" alt="黑龙江1快餐厅爆炸 2名警察受伤" title="黑龙江1快餐厅爆炸 2名警察受伤" src="http://img6.cache.netease.com/cnews/2014/6/8/2014060812082238c7a.jpg"></a>
                 <div class="widget-slide-content-text right">
-                    <h4 ><a href="http://news.163.com/photoview/00AO0001/67095.html">多国政要赴法纪念诺曼底登陆70周年</a></h4>
-                    <p>当地时间6月6日，包括美、俄、英、德等当年诺曼底战役交战双方的19个国家的元首出席在诺曼底登陆旧址举行的纪念仪式。</p>
+                    <h4 ><a href="http://news.163.com/photoview/00AN0001/67157.html">黑龙江1快餐厅爆炸 2名警察受伤</a></h4>
+                    <p>6月8日9：30分有人拨报警电话称黑龙江安达一快餐厅内有爆炸物将在5分钟后爆炸，接警后警方立即疏散人群，而后爆炸物爆炸造成2名警察受伤。</p>
                 </div>
             </li>
-                           <li><a class = "left"  href="http://news.163.com/photoview/00AP0001/67092.html"><img width="400" height="280" alt="贵州仁怀茅台大桥及钟楼整体爆破" title="贵州仁怀茅台大桥及钟楼整体爆破" src="http://img3.cache.netease.com/cnews/2014/6/7/20140607080521a1f4a.jpg"></a>
+                           <li><a class = "left"  href="http://news.163.com/photoview/00AN0001/67165.html"><img width="400" height="280" alt="济南考生迟到家长求情未果考生离开" title="济南考生迟到家长求情未果考生离开" src="http://img5.cache.netease.com/cnews/2014/6/8/2014060816204233c22.jpg"></a>
                 <div class="widget-slide-content-text right">
-                    <h4 ><a href="http://news.163.com/photoview/00AP0001/67092.html">贵州仁怀茅台大桥及钟楼整体爆破</a></h4>
-                    <p>6月6日13时，贵州仁怀茅台大桥及钟楼整体爆破成。茅台大桥于1988年12月动工修建，1990年因故坍塌；1992年10月复建，1994年10月竣工。</p>
+                    <h4 ><a href="http://news.163.com/photoview/00AN0001/67165.html">济南考生迟到家长求情未果考生离开</a></h4>
+                    <p>在山东省商贸学校高考考点，一名身穿红色短裤的女孩奔进校门，但被考场工作人员拒之门外。不少家长现场求情未果，考生只能离开。</p>
                 </div>
             </li>
-                           <li><a class = "left"  href="http://news.163.com/photoview/00AN0001/67105.html"><img width="400" height="280" alt="宾馆里的考前一夜" title="宾馆里的考前一夜" src="http://img4.cache.netease.com/cnews/2014/6/7/201406070836560d54b.jpg"></a>
+                           <li><a class = "left"  href="http://news.163.com/photoview/00AP0001/67150.html"><img width="400" height="280" alt="河南一售楼处促销改赌场称体验博彩" title="河南一售楼处促销改赌场称体验博彩" src="http://img6.cache.netease.com/cnews/2014/6/8/201406081039268764f.jpg"></a>
                 <div class="widget-slide-content-text right">
-                    <h4 ><a href="http://news.163.com/photoview/00AN0001/67105.html">宾馆里的考前一夜</a></h4>
-                    <p>重庆璧山县来凤中学的考生考点设在璧山县城，该校1200多名高三考生提前一天来到县城，在宾馆度过高考前的最后一夜。</p>
+                    <h4 ><a href="http://news.163.com/photoview/00AP0001/67150.html">河南一售楼处促销改赌场称体验博彩</a></h4>
+                    <p>河南一房企为促销楼盘项目，在其营销中心举办博彩活动。商家设百家乐、二十一点、掷骰子、俄罗斯转盘、德州扑克、大小点等，邀请客户体验。</p>
+                </div>
+            </li>
+                           <li><a class = "left"  href="http://news.163.com/photoview/00AP0001/67147.html"><img width="400" height="280" alt="全国高考开考多地加强无线电监控" title="全国高考开考多地加强无线电监控" src="http://img1.cache.netease.com/cnews/2014/6/8/201406081001403760a.jpg"></a>
+                <div class="widget-slide-content-text right">
+                    <h4 ><a href="http://news.163.com/photoview/00AP0001/67147.html">全国高考开考多地加强无线电监控</a></h4>
+                    <p>2014年全国高考拉开帷幕，考场内外加强安检及无线电监控力度。据统计，今年全国高考报名人数为939万人，较2013年增加27万人，增幅3%。</p>
                 </div>
             </li>
                            <li><a class = "left"  href="http://news.163.com/photoview/19BR0001/67093.html"><img width="400" height="280" alt="一周图片精选【第234期】5.31-6.6" title="一周图片精选【第234期】5.31-6.6" src="http://img5.cache.netease.com/cnews/2014/6/7/201406070243401f4e8.jpg"></a>
                 <div class="widget-slide-content-text right">
                     <h4 ><a href="http://news.163.com/photoview/19BR0001/67093.html">一周图片精选【第234期】5.31-6.6</a></h4>
                     <p>当地时间2014年6月5日，法国诺曼底黄金海滩，一名老兵在插满英国国旗的沙滩前敬礼。当天是诺曼底登陆70周年纪念日，法国多地举行纪念活动。</p>
-                </div>
-            </li>
-                           <li><a class = "left"  href="http://news.163.com/special/zuobizhinan/"><img width="400" height="280" alt="特别策划：中国人的作弊智慧" title="特别策划：中国人的作弊智慧" src="http://img6.cache.netease.com/cnews/2014/6/6/201406061108398324e.jpg"></a>
-                <div class="widget-slide-content-text right">
-                    <h4 ><a href="http://news.163.com/special/zuobizhinan/">特别策划：中国人的作弊智慧</a></h4>
-                    <p>在毕业升学的压力下，考生发挥的不仅仅是智力和脑容量，还有各种牛逼闪闪的“作弊智慧”。</p>
                 </div>
             </li>
                     </ul>
@@ -1059,12 +1057,12 @@ body { padding-top:39px;}
                         <li class="current"></li><li></li><li></li><li></li><li></li><li></li>        </ul>
         <div class="widget-slide-ctrl-tabs" id="widget-slide-ctrl-tabs" >
             <ul>
-                                                     <li class="current"><a href="http://news.163.com/photoview/00AN0001/67110.html"><img width="53" height="36"  alt="2014高考拉开帷幕 民警持枪巡逻" title="2014高考拉开帷幕 民警持枪巡逻" src="http://img2.cache.netease.com/cnews/2014/6/7/20140607103837d218b.jpg" /></a></li>
-                                     <li class=""><a href="http://news.163.com/photoview/00AO0001/67095.html"><img width="53" height="36"  alt="多国政要赴法纪念诺曼底登陆70周年" title="多国政要赴法纪念诺曼底登陆70周年" src="http://img3.cache.netease.com/cnews/2014/6/6/2014060621472845439.jpg" /></a></li>
-                                     <li class=""><a href="http://news.163.com/photoview/00AP0001/67092.html"><img width="53" height="36"  alt="贵州仁怀茅台大桥及钟楼整体爆破" title="贵州仁怀茅台大桥及钟楼整体爆破" src="http://img3.cache.netease.com/cnews/2014/6/7/20140607080521a1f4a.jpg" /></a></li>
-                                     <li class=""><a href="http://news.163.com/photoview/00AN0001/67105.html"><img width="53" height="36"  alt="宾馆里的考前一夜" title="宾馆里的考前一夜" src="http://img4.cache.netease.com/cnews/2014/6/7/201406070836560d54b.jpg" /></a></li>
+                                                     <li class="current"><a href="http://news.163.com/photoview/00AP0001/67167.html"><img width="53" height="36"  alt="汉江岸旁一游轮失火 现场冒出浓烟" title="汉江岸旁一游轮失火 现场冒出浓烟" src="http://img5.cache.netease.com/cnews/2014/6/8/20140608161819478bd.jpg" /></a></li>
+                                     <li class=""><a href="http://news.163.com/photoview/00AN0001/67157.html"><img width="53" height="36"  alt="黑龙江1快餐厅爆炸 2名警察受伤" title="黑龙江1快餐厅爆炸 2名警察受伤" src="http://img6.cache.netease.com/cnews/2014/6/8/2014060812082238c7a.jpg" /></a></li>
+                                     <li class=""><a href="http://news.163.com/photoview/00AN0001/67165.html"><img width="53" height="36"  alt="济南考生迟到家长求情未果考生离开" title="济南考生迟到家长求情未果考生离开" src="http://img5.cache.netease.com/cnews/2014/6/8/2014060816204233c22.jpg" /></a></li>
+                                     <li class=""><a href="http://news.163.com/photoview/00AP0001/67150.html"><img width="53" height="36"  alt="河南一售楼处促销改赌场称体验博彩" title="河南一售楼处促销改赌场称体验博彩" src="http://img6.cache.netease.com/cnews/2014/6/8/201406081039268764f.jpg" /></a></li>
+                                     <li class=""><a href="http://news.163.com/photoview/00AP0001/67147.html"><img width="53" height="36"  alt="全国高考开考多地加强无线电监控" title="全国高考开考多地加强无线电监控" src="http://img1.cache.netease.com/cnews/2014/6/8/201406081001403760a.jpg" /></a></li>
                                      <li class=""><a href="http://news.163.com/photoview/19BR0001/67093.html"><img width="53" height="36"  alt="一周图片精选【第234期】5.31-6.6" title="一周图片精选【第234期】5.31-6.6" src="http://img5.cache.netease.com/cnews/2014/6/7/201406070243401f4e8.jpg" /></a></li>
-                                     <li class=""><a href="http://news.163.com/special/zuobizhinan/"><img width="53" height="36"  alt="特别策划：中国人的作弊智慧" title="特别策划：中国人的作弊智慧" src="http://img6.cache.netease.com/cnews/2014/6/6/201406061108398324e.jpg" /></a></li>
                             </ul>
         </div>
         <a href="" class="widget-slide-ctrl-next">&gt;</a>
@@ -1235,8 +1233,8 @@ body { padding-top:39px;}
     <div  id="ui-til3-tab-o">
         <div class="title-bar ui-til2"><h2><a href="http://news.163.com/special/00011269/gdmore.html">高层动态</a></h2></div>
         <ul class="mod-list sub-list JS_NTES_LOG_FE" data-module-name="c_dtgc">
-                                    <li><a href="http://news.163.com/14/0606/12/9U2AMB3G00014JB6.html">习近平：防止极端势力和思想制造断层线</a></li>
-                        <li><a href="http://news.163.com/14/0605/07/9TV84A5B00014JB6.html">李克强谈简政放权:放活不是放任 管好不是管死</a></li>
+                                    <li><a href="http://news.163.com/14/0606/17/9U2RF9L200014JB5.html">习近平主持深改组会议 明确户籍改革要求</a></li>
+                        <li><a href="http://news.163.com/14/0606/22/9U3CQJJG00014AEE.html">李克强听取李小鹏等8位省市长汇报工作</a></li>
                     </ul>
     </div>
     <div class="ui-til3-tab air-arm-tab" id="ui-til3-tab-g">
@@ -1247,8 +1245,8 @@ body { padding-top:39px;}
         <span class="blank15"></span>
         <div class="ui-til3-tab-c current">
             <ul class="mod-list sub-list JS_NTES_LOG_FE" data-module-name="c_dtgc">
-                                                <li><a href="http://news.163.com/14/0606/12/9U2AMB3G00014JB6.html">习近平：防止极端势力和思想制造断层线</a></li>
-                                <li><a href="http://news.163.com/14/0605/07/9TV84A5B00014JB6.html">李克强谈简政放权:放活不是放任 管好不是管死</a></li>
+                                                <li><a href="http://news.163.com/14/0606/17/9U2RF9L200014JB5.html">习近平主持深改组会议 明确户籍改革要求</a></li>
+                                <li><a href="http://news.163.com/14/0606/22/9U3CQJJG00014AEE.html">李克强听取李小鹏等8位省市长汇报工作</a></li>
                             </ul>
         </div>
         <div class="ui-til3-tab-c">
@@ -1404,68 +1402,68 @@ body { padding-top:39px;}
                 <div class="tab-con  JS_NTES_LOG_FE" data-module-name="c_gentie_t_0">
                     <ul class="rankList newsList clearfix">
                                                                                                                         <li class="">
-                            <span class="front ranknum">1</span><a href="http://news.163.com/14/0606/22/9U3E8VQ300014JB5.html">广西否认组织狗肉节:食狗肉是个人行为短</a><span class="more right">9073</span>
+                            <span class="front ranknum">1</span><a href="http://news.163.com/14/0608/09/9U75Q95O00014JB5.html">广西玉林市民：你可以不吃狗肉 别影响我</a><span class="more right">12287</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="front ranknum">2</span><a href="http://news.163.com/14/0607/00/9U3J78RO00014JB6.html">近千万考生今日高考 多地警察持枪巡逻</a><span class="more right">6162</span>
+                            <span class="front ranknum">2</span><a href="http://news.163.com/14/0608/01/9U6C2FMO00014AED.html">河北女孩放弃高考 被哈佛等9所名校录取(</a><span class="more right">11005</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="front ranknum">3</span><a href="http://news.163.com/14/0607/01/9U3OMFCM00011229.html">高三学生放弃高考搞发明 希望被免试录取</a><span class="more right">5606</span>
+                            <span class="front ranknum">3</span><a href="http://news.163.com/14/0608/02/9U6DC23S00014JB6.html">江西夺刀救人考生登人民日报头版(图)</a><span class="more right">10149</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">4</span><a href="http://news.163.com/14/0607/06/9U47RC9800014AED.html">南京一小区大爷大妈承诺高考期间广场舞停</a><span class="more right">5589</span>
+                            <span class="follow ranknum">4</span><a href="http://news.163.com/14/0607/23/9U64102T00014JB5.html">长沙患者家属殴打女医生和怀孕护士被刑拘</a><span class="more right">10007</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">5</span><a href="http://news.163.com/14/0606/21/9U3B28A00001121M.html">越南:反政府组织在游行中挑动民众打砸抢</a><span class="more right">5270</span>
+                            <span class="follow ranknum">5</span><a href="http://news.163.com/14/0608/17/9U8309220001124J.html">外交部:越冲撞中方船只1416艘次 纵容反华</a><span class="more right">7884</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">6</span><a href="http://news.163.com/14/0607/01/9U3MMLUV00014AED.html">女子与修电脑男子发生关系 未婚生子诉之</a><span class="more right">5114</span>
+                            <span class="follow ranknum">6</span><a href="http://news.163.com/14/0608/18/9U85S1E900011229.html">广东湛江一女考生疑因高考失利跳楼身亡(</a><span class="more right">6449</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">7</span><a href="http://news.163.com/14/0607/06/9U4AMSQC0001124J.html">中国将启水权交易 各省用不完的水可自行</a><span class="more right">3578</span>
+                            <span class="follow ranknum">7</span><a href="http://news.163.com/14/0608/01/9U6BVA3Q00014AED.html">非京籍考生:曾不满自己只能考高职</a><span class="more right">6129</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">8</span><a href="http://news.163.com/14/0607/05/9U4786LO00011229.html">合肥大四女生抱8个多月大女儿拍毕业照(图</a><span class="more right">3382</span>
+                            <span class="follow ranknum">8</span><a href="http://news.163.com/14/0608/04/9U6JCPL200014AED.html">网络鉴黄师：对干露露这样的擦边球只能干</a><span class="more right">4543</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">9</span><a href="http://news.163.com/14/0607/06/9U496K4L00011229.html">网友举报妻子遭官员调戏 官方澄清系普通</a><span class="more right">3252</span>
+                            <span class="follow ranknum">9</span><a href="http://news.163.com/14/0608/11/9U7CG1LI0001124J.html">广州书记4年来首次失龙舟赛冠军 外国人夺</a><span class="more right">4223</span>
                         </li>
                                                                                                 <li class="last">
-                            <span class="follow ranknum">10</span><a href="http://news.163.com/14/0607/03/9U3TKH8D00014Q4P.html">中国登顶珠峰女登山家承认乘直升机 此前</a><span class="more right">3134</span>
+                            <span class="follow ranknum">10</span><a href="http://news.163.com/14/0608/09/9U75CK5900011229.html">成都街头近百辆豪车扎堆引发围观(图)</a><span class="more right">4022</span>
                         </li>
                                             </ul>
                 </div>
                 <div class="tab-con JS_NTES_LOG_FE" data-module-name="c_gentie_t_1">
                     <ul class="rankList newsList clearfix">
                                                                                                                         <li class="">
-                            <span class="front ranknum">1</span><a href="http://news.163.com/14/0607/11/9U4P2HEG0001124J.html">各地高考作文题公布:湖北山东辽宁材料雷</a><span class="more right">1702331</span>
+                            <span class="front ranknum">1</span><a href="http://news.163.com/14/0608/14/9U7M9OEO00014AED.html">揭秘香港"飞虎队":10秒擒"贼王" 遮面防报</a><span class="more right">749259</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="front ranknum">2</span><a href="http://news.163.com/14/0607/00/9U3J78RO00014JB6.html">近千万考生今日高考 多地警察持枪巡逻</a><span class="more right">969782</span>
+                            <span class="front ranknum">2</span><a href="http://news.163.com/14/0608/15/9U7RB3K000014JB5.html">济南一考生迟到被拒入场 家长集体求情未</a><span class="more right">354013</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="front ranknum">3</span><a href="http://news.163.com/14/0607/05/9U4786LO00011229.html">合肥大四女生抱8个多月大女儿拍毕业照(图</a><span class="more right">215373</span>
+                            <span class="front ranknum">3</span><a href="http://news.163.com/13/1112/03/9DEVC45R00014AED.html">专家:有地方政府已准备“一房四吃” 包括</a><span class="more right">168538</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">4</span><a href="http://news.163.com/13/1112/03/9DEVC45R00014AED.html">专家:有地方政府已准备“一房四吃” 包括</a><span class="more right">181828</span>
+                            <span class="follow ranknum">4</span><a href="http://news.163.com/14/0608/10/9U7AKBJV00011229.html">河南“160岁高僧”圆寂8年不腐 瞻仰肉身</a><span class="more right">154799</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">5</span><a href="http://news.163.com/14/0607/16/9U5B91OV0001121M.html">墨西哥落网毒枭情妇疑接管世界最大贩毒集</a><span class="more right">144246</span>
+                            <span class="follow ranknum">5</span><a href="http://news.163.com/14/0608/01/9U6C2FMO00014AED.html">河北女孩放弃高考 被哈佛等9所名校录取(</a><span class="more right">152426</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">6</span><a href="http://news.163.com/14/0606/17/9U2RF9L200014JB5.html">习近平主持深改组会议 明确户籍改革要求</a><span class="more right">143444</span>
+                            <span class="follow ranknum">6</span><a href="http://news.163.com/14/0608/15/9U7R01M800014AED.html">上海枪杀6人案被告遭索赔百万元 受审称赔</a><span class="more right">152192</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">7</span><a href="http://news.163.com/14/0607/10/9U4NQRD50001124J.html">深圳班主任否认睡过头致全班准考证被堵路</a><span class="more right">143236</span>
+                            <span class="follow ranknum">7</span><a href="http://news.163.com/14/0608/11/9U7DAMBL0001124J.html">黑龙江一快餐厅发生爆炸 曾有人报警称有</a><span class="more right">143929</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">8</span><a href="http://news.163.com/14/0607/14/9U534ME600014JB6.html">扬州环保局女局长被查 被曝曾为季建业情</a><span class="more right">129661</span>
+                            <span class="follow ranknum">8</span><a href="http://news.163.com/14/0608/09/9U75Q95O00014JB5.html">广西玉林市民：你可以不吃狗肉 别影响我</a><span class="more right">129946</span>
                         </li>
                                                                                                 <li class="">
-                            <span class="follow ranknum">9</span><a href="http://news.163.com/14/0607/01/9U3MMLUV00014AED.html">女子与修电脑男子发生关系 未婚生子诉之</a><span class="more right">112674</span>
+                            <span class="follow ranknum">9</span><a href="http://news.163.com/14/0608/12/9U7HP9FO00014JB6.html">俄罗斯4名男子受困冰原 1人被好友肢解食</a><span class="more right">129527</span>
                         </li>
                                                                                                 <li class="last">
-                            <span class="follow ranknum">10</span><a href="http://news.163.com/14/0607/08/9U4GQ7TN00011229.html">厦门八市现巨型豆腐鲨 长5.8米重达2吨(图</a><span class="more right">90128</span>
+                            <span class="follow ranknum">10</span><a href="http://news.163.com/14/0608/18/9U85S1E900011229.html">广东湛江一女考生疑因高考失利跳楼身亡(</a><span class="more right">118774</span>
                         </li>
                                             </ul>
                 </div>
@@ -1578,23 +1576,23 @@ body { padding-top:39px;}
                     <h2 class="ui-til3-tab-u"><a href="http://news.163.com/air/">航空新闻</a></h2>
                 </div>
                 <div class="mod-list main-list news-date-list ui-til3-tab-c current">
-                                                            <h3 class="bigsize"><a href="http://war.163.com/14/0607/09/9U4JL36O00014OMD.html">大校:96坦克部队奔袭200公里趴窝应被点赞</a></h3>
+                                                            <h3 class="bigsize"><a href="http://war.163.com/14/0608/09/9U75GUNV00011MTO.html">俄媒建议中国俄罗斯伊朗结三国联盟共抗美</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://war.163.com/14/0607/09/9U4JSVH200011MTO.html">美报告称中国军费1450亿 目的就是要挑战美</a></li>
-                                                                        <li><a href="http://war.163.com/14/0607/07/9U4CMPF500014OMD.html">美军报告:中国二炮有上千枚导弹 正研东风41</a></li>
-                                                                        <li><a href="http://war.163.com/14/0607/14/9U53CD4500011MTO.html"><em class="fB">美曝中国"真"航母杀手 比DF-21D导弹更厉害</em></a></li>
-                                                                        <li><a href="http://war.163.com/14/0607/13/9U52G6MV00011MTO.html">美划大陆对台动武7条红线想封台还需5至10年</a></li>
-                                                                        <li><a href="http://war.163.com/14/0607/12/9U4T27BP00014OMD.html">外媒揭秘苏联核手提箱：只设计红黄两个按钮</a></li>
+                                                                                                <li><a href="http://war.163.com/14/0608/08/9U72C3PH00011MTO.html">台军:解放军乘野牛气垫船登陆 阿帕奇不管用</a></li>
+                                                                        <li><a href="http://war.163.com/14/0608/09/9U76J94B00014OMD.html">奥巴马：美军全球无对手 俄媒称他需急救</a></li>
+                                                                        <li><a href="http://war.163.com/14/0608/09/9U74SMLV00011MTO.html"><em class="fB">日媒：中国空军亚洲第一世界第三 紧追西方</em></a></li>
+                                                                        <li><a href="http://war.163.com/14/0608/05/9U6N6OOU00014OMD.html">美国海军最后一名二战"风语者"密码员去世</a></li>
+                                                                        <li><a href="http://war.163.com/14/0608/01/9U698U0D00014OMD.html">日媒：日本漏报640公斤钚 可生产80枚核弹头</a></li>
                                             </ul>
                 </div>
                 <div class="mod-list main-list news-date-list ui-til3-tab-c">
-                                                            <h3 class="bigsize"><a href="http://news.163.com/air/14/0607/14/9U55CGOG00014PQF.html">海航夹缝生存深耕北美 宽体机数量不足隐现</a></h3>
+                                                            <h3 class="bigsize"><a href="http://news.163.com/air/14/0608/15/9U7OQ9EA00014PQF.html">Arke接收首架787 战机飞行员空中护航玩自拍</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://news.163.com/air/14/0607/10/9U4NCA9N00014PQF.html">俄副总理：中俄可创建规模最大全球导航系统</a></li>
-                                                                        <li><a href="http://news.163.com/air/14/0606/19/9U32Q2O700014P42.html">[航空]俄盼与中国合资建厂 造远程宽体客机</a></li>
-                                                                        <li><a href="http://news.163.com/air/14/0606/09/9U22HP0U00014P42.html"><em class="fB">[航空]青藏机场演练边境冲突被Y国轰炸(图)</em></a></li>
-                                                                        <li><a href="http://news.163.com/air/14/0606/09/9U21FUQA00014P42.html">[航空]波音757停产10年后或将改进重出江湖</a></li>
-                                                                        <li><a href="http://news.163.com/air/14/0606/13/9U2FJ70700014P42.html">中国海军一架飞机在夜间训练中失事坠毁</a></li>
+                                                                                                <li><a href="http://news.163.com/air/14/0608/09/9U76B10J00014PQF.html">美用激光束从太空传回视频 速度提升170倍</a></li>
+                                                                        <li><a href="http://news.163.com/air/14/0607/18/9U5IP5NG00014SB1.html">巴基斯坦普惠集团主席一行到访中航工业通飞</a></li>
+                                                                        <li><a href="http://news.163.com/air/14/0607/18/9U5IM8SF00014SB1.html"><em class="fB">TA600飞机项目制造符合性检查计划顺利签订</em></a></li>
+                                                                        <li><a href="http://news.163.com/air/14/0607/18/9U5IEIPN00014SB1.html">林左鸣参观中航工业通飞渝洽会展台</a></li>
+                                                                        <li><a href="http://news.163.com/air/14/0607/18/9U5I2NRB00014SB1.html">林左鸣到驻疆企业贵航农机调研</a></li>
                                             </ul>
                 </div>
             </div>
@@ -1611,13 +1609,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://discovery.163.com/14/0606/11/9U276J6R000125LI.html">美最新科研证明新型冠状病毒由骆驼传染人</a></h3>
+                                                            <h3 class="bigsize"><a href="http://discovery.163.com/14/0608/10/9U79N2BC000125LI.html">月球源于行星撞地球理论获得新的证据支持</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://discovery.163.com/14/0606/11/9U26R24M000125LI.html">科学家为人类设计"附肢" 人体或现第三只手</a></li>
-                                                                        <li><a href="http://discovery.163.com/14/0606/11/9U275M5H000125LI.html">美国哈佛大学图书馆证实发现首本人皮书</a></li>
-                                                                        <li><a href="http://discovery.163.com/14/0606/11/9U26VEUA000125LI.html"><em class="fB">新疆发现最古老裤子 可追溯至3300年前</em></a></li>
-                                                                        <li><a href="http://discovery.163.com/14/0606/11/9U26TRKB000125LI.html">科学家提出向遥远行星发送人类DNA"播种生命"</a></li>
-                                                                        <li><a href="http://discovery.163.com/14/0606/11/9U2746QN000125LI.html">儿童也会患躁郁症 需及时诊断但不能过度治疗</a></li>
+                                                                                                <li><a href="http://discovery.163.com/14/0608/10/9U7A9G9E000125LI.html">科学家或通过卫星数据探索百慕大三角之谜</a></li>
+                                                                        <li><a href="http://discovery.163.com/14/0608/10/9U79VCHL000125LI.html">研究人员开发超疏水防雾纳米结构 应用广泛</a></li>
+                                                                        <li><a href="http://discovery.163.com/14/0608/10/9U7A68CH000125LI.html"><em class="fB">"情景记忆"依赖海马区 "语义记忆"依赖皮层</em></a></li>
+                                                                        <li><a href="http://discovery.163.com/14/0608/10/9U795LUA000125LI.html">日樱岛火山喷发达4500米 火山灰或影响农作物</a></li>
+                                                                        <li><a href="http://discovery.163.com/14/0608/10/9U79GU3T000125LI.html">澳大利亚过去10年车祸死亡人数下降四分之一</a></li>
                                             </ul>
                 </div>
             </div>
@@ -1659,17 +1657,17 @@ body { padding-top:39px;}
                 <div class="widget-slide widget-slide-1">
                     <div class="widget-slide-body">
                         <ul class="imgList-widget-4  clearfix">
-                                                                                                                   <li><a href="http://discovery.163.com/photoview/4T8F0001/67098.html"><img width="220" height="150" src="http://img1.cache.netease.com/cnews/2014/6/7/20140607021237c6c48.jpg" title="一周外媒动物图片精选" alt="一周外媒动物图片精选"></a>
-                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67098.html"></a>
-                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67098.html">一周外媒动物图片精选</a></p>
+                                                                                                                   <li><a href="http://discovery.163.com/photoview/4T8F0001/67135.html"><img width="220" height="150" src="http://img2.cache.netease.com/cnews/2014/6/8/2014060801155773499.jpg" title="世界各地＂惨烈＂的通勤拥堵场景" alt="世界各地＂惨烈＂的通勤拥堵场景"></a>
+                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67135.html"></a>
+                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67135.html">世界各地"惨烈"的通勤拥堵场景</a></p>
                             </li>
-                                                                                                                   <li><a href="http://discovery.163.com/photoview/4T8F0001/67097.html"><img width="220" height="150" src="http://img6.cache.netease.com/cnews/2014/6/7/2014060702091068fa0.jpg" title="美国太空行走简史" alt="美国太空行走简史"></a>
-                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67097.html"></a>
-                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67097.html">美国太空行走简史</a></p>
+                                                                                                                   <li><a href="http://discovery.163.com/photoview/4T8F0001/67137.html"><img width="220" height="150" src="http://img3.cache.netease.com/cnews/2014/6/8/20140608011812edbab.jpg" title="邦加岛非法锡矿开采 环境遭破坏" alt="邦加岛非法锡矿开采 环境遭破坏"></a>
+                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67137.html"></a>
+                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67137.html">邦加岛非法锡矿开采 环境遭破坏</a></p>
                             </li>
-                                                                                                                   <li class="last"><a href="http://discovery.163.com/photoview/4T8F0001/67099.html"><img width="220" height="150" src="http://img5.cache.netease.com/cnews/2014/6/7/20140607021131b8037.jpg" title="探秘世界上最奇特的地下城市" alt="探秘世界上最奇特的地下城市"></a>
-                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67099.html"></a>
-                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67099.html">探秘世界上最奇特的地下城市</a></p>
+                                                                                                                   <li class="last"><a href="http://discovery.163.com/photoview/4T8F0001/67136.html"><img width="220" height="150" src="http://img1.cache.netease.com/cnews/2014/6/8/2014060801185522b41.jpg" title="从太空看地球 感受大自然的壮观 " alt="从太空看地球 感受大自然的壮观 "></a>
+                                <a class="img-bg" href="http://discovery.163.com/photoview/4T8F0001/67136.html"></a>
+                                <p><a href="http://discovery.163.com/photoview/4T8F0001/67136.html">从太空看地球 感受大自然的壮观 </a></p>
                             </li>
                                                                                  </ul>
                     </div>
@@ -1694,20 +1692,20 @@ body { padding-top:39px;}
                 <div class="ui-til3-tab-c current">
                     <div class="mod-imgText imgList-widget-2 clearfix">
                         <ul>
-                                                                                                                                               <li class="" ><a href="http://war.163.com/photoview/4T8E0001/67113.html"><img width="100" height="70" title="网友绘中国陆军新型轮式突击炮" alt="网友绘中国陆军新型轮式突击炮" src="http://img3.cache.netease.com/cnews/2014/6/7/20140607104802bce35.jpg"></a>
-                                <p><a href="http://war.163.com/photoview/4T8E0001/67113.html">网友绘中国陆军新型轮式突击炮</a></p>
+                                                                                                                                               <li class="" ><a href="http://war.163.com/photoview/4T8E0001/67138.html"><img width="100" height="70" title="东风15导弹部队夜间起竖密如枪林" alt="东风15导弹部队夜间起竖密如枪林" src="http://img6.cache.netease.com/cnews/2014/6/8/2014060808560992a4d.jpg"></a>
+                                <p><a href="http://war.163.com/photoview/4T8E0001/67138.html">东风15导弹部队夜间起竖密如枪林</a></p>
                             </li>
-                                                                                                                   <li class="" ><a href="http://war.163.com/photoview/4T8E0001/67106.html"><img width="100" height="70" title="上门推销：阵风战机参加印度军演" alt="上门推销：阵风战机参加印度军演" src="http://img1.cache.netease.com/cnews/2014/6/7/20140607090019fd4ed.jpg"></a>
-                                <p><a href="http://war.163.com/photoview/4T8E0001/67106.html">上门推销：阵风战机参加印度军演</a></p>
+                                                                                                                   <li class="" ><a href="http://war.163.com/photoview/4T8E0001/67151.html"><img width="100" height="70" title="墨西哥美女接管世界最大贩毒团伙" alt="墨西哥美女接管世界最大贩毒团伙" src="http://img6.cache.netease.com/cnews/2014/6/8/2014060811061986b6b.jpg"></a>
+                                <p><a href="http://war.163.com/photoview/4T8E0001/67151.html">墨西哥美女接管世界最大贩毒团伙</a></p>
                             </li>
-                                                                                                                   <li class="last" ><a href="http://war.163.com/photoview/4T8E0001/67104.html"><img width="100" height="70" title="飞豹挂雷霆制导炸弹练对地攻击" alt="飞豹挂雷霆制导炸弹练对地攻击" src="http://img1.cache.netease.com/cnews/2014/6/7/201406070857347e44b.jpg"></a>
-                                <p><a href="http://war.163.com/photoview/4T8E0001/67104.html">飞豹挂雷霆制导炸弹练对地攻击</a></p>
+                                                                                                                   <li class="last" ><a href="http://war.163.com/photoview/4T8E0001/67139.html"><img width="100" height="70" title="驻阿美军与阿富汗特战队联合剿匪" alt="驻阿美军与阿富汗特战队联合剿匪" src="http://img1.cache.netease.com/cnews/2014/6/8/2014060809000640f2f.jpg"></a>
+                                <p><a href="http://war.163.com/photoview/4T8E0001/67139.html">驻阿美军与阿富汗特战队联合剿匪</a></p>
                             </li>
                                                     </ul>
                     </div>
                     <ul class="mod-list sub-list">
-                                                                        <li><a href="http://war.163.com/photoview/4T8E0001/67100.html">欧美民众纪念诺曼底登陆70周年</a></li>
-                                                <li><a href="http://war.163.com/photoview/4T8E0001/67076.html">美国发表报告对中国军力大起底</a></li>
+                                                                        <li><a href="http://war.163.com/photoview/4T8E0001/67113.html">网友绘中国陆军新型轮式突击炮</a></li>
+                                                <li><a href="http://war.163.com/photoview/4T8E0001/67106.html">上门推销：阵风战机参加印度军演</a></li>
                                             </ul>
                 </div>
                 <div class="ui-til3-tab-c">
@@ -1744,29 +1742,29 @@ body { padding-top:39px;}
     <div class="widget-slide widget-slide-4">
         <div class="widget-slide-body"  >
             <ul class="imgList-widget-3">
-                                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67095.html"><img width="220" height="150" title="多政要赴法纪念诺曼底登陆70周年" alt="多政要赴法纪念诺曼底登陆70周年" src="http://img5.cache.netease.com/cnews/2014/6/6/201406062144546e3d6.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AO0001/67095.html">多政要赴法纪念诺曼底登陆70周年</a></p>
+                                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67164.html"><img width="220" height="150" title="美退休工程师将退役客机改造住宅" alt="美退休工程师将退役客机改造住宅" src="http://img3.cache.netease.com/cnews/2014/6/8/201406081528527ae90.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AO0001/67164.html">美退休工程师将退役客机改造住宅</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67096.html"><img width="220" height="150" title="乌克兰女外长裸身不雅照曝光" alt="乌克兰女外长裸身不雅照曝光" src="http://img6.cache.netease.com/cnews/2014/6/6/201406062117561b0cd.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AO0001/67096.html">乌克兰女外长裸身不雅照曝光</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AP0001/67162.html"><img width="220" height="150" title="大妈在堵车高速路上跳广场舞" alt="大妈在堵车高速路上跳广场舞" src="http://img2.cache.netease.com/cnews/2014/6/8/20140608135357f2b02.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AP0001/67162.html">大妈在堵车高速路上跳广场舞</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67094.html"><img width="220" height="150" title="Femen成员巴黎半裸刺杀“普京”" alt="Femen成员巴黎半裸刺杀“普京”" src="http://img2.cache.netease.com/cnews/2014/6/6/2014060620420822690.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AO0001/67094.html">Femen成员巴黎半裸刺杀“普京”</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67160.html"><img width="220" height="150" title="金正恩访问革命学院学生激动流泪" alt="金正恩访问革命学院学生激动流泪" src="http://img1.cache.netease.com/cnews/2014/6/8/20140608122032da262.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AO0001/67160.html">金正恩访问革命学院学生激动流泪</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AP0001/67092.html"><img width="220" height="150" title="贵州仁怀茅台大桥及钟楼整体爆破" alt="贵州仁怀茅台大桥及钟楼整体爆破" src="http://img4.cache.netease.com/cnews/2014/6/6/201406062003435f1c3.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AP0001/67092.html">贵州仁怀茅台大桥及钟楼整体爆破</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67156.html"><img width="220" height="150" title="航拍展示地球的壮观景色" alt="航拍展示地球的壮观景色" src="http://img2.cache.netease.com/cnews/2014/6/8/201406081138566ad1b.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AO0001/67156.html">航拍展示地球的壮观景色</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AO0001/67077.html"><img width="220" height="150" title="美哈佛大学图书馆发现首本人皮书" alt="美哈佛大学图书馆发现首本人皮书" src="http://img2.cache.netease.com/cnews/2014/6/6/20140606180626a8435.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AO0001/67077.html">美哈佛大学图书馆发现首本人皮书</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AN0001/67154.html"><img width="220" height="150" title="青海一镍铁矿毒气泄漏致2死6伤" alt="青海一镍铁矿毒气泄漏致2死6伤" src="http://img2.cache.netease.com/cnews/2014/6/8/20140608112537ea90b.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AN0001/67154.html">青海一镍铁矿毒气泄漏致2死6伤</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AP0001/67086.html"><img width="220" height="150" title="济南弃婴岛：女孩熟睡中被抛车外" alt="济南弃婴岛：女孩熟睡中被抛车外" src="http://img3.cache.netease.com/cnews/2014/6/6/2014060617542962c33.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AP0001/67086.html">济南弃婴岛：女孩熟睡中被抛车外</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AP0001/67153.html"><img width="220" height="150" title="北京现天价高考钟点房要价1678元" alt="北京现天价高考钟点房要价1678元" src="http://img6.cache.netease.com/cnews/2014/6/8/20140608111123ab0d5.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AP0001/67153.html">北京现天价高考钟点房要价1678元</a></p>
                 </li>
-                                                                   <li class="" ><a href="http://news.163.com/photoview/00AN0001/67070.html"><img width="220" height="150" title="昆明现强雷暴天气 闪电点亮夜空" alt="昆明现强雷暴天气 闪电点亮夜空" src="http://img4.cache.netease.com/cnews/2014/6/6/2014060614573677f36.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AN0001/67070.html">昆明现强雷暴天气 闪电点亮夜空</a></p>
+                                                                   <li class="" ><a href="http://news.163.com/photoview/00AP0001/67150.html"><img width="220" height="150" title="河南售楼处促销改赌场称体验博彩" alt="河南售楼处促销改赌场称体验博彩" src="http://img6.cache.netease.com/cnews/2014/6/8/20140608104133197fe.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AP0001/67150.html">河南售楼处促销改赌场称体验博彩</a></p>
                 </li>
-                                                                   <li class="last" ><a href="http://news.163.com/photoview/00AN0001/67079.html"><img width="220" height="150" title="上海男子开豪车中学门前求婚" alt="上海男子开豪车中学门前求婚" src="http://img3.cache.netease.com/cnews/2014/6/6/201406061455318b238.jpg"></a>
-                    <p><a href="http://news.163.com/photoview/00AN0001/67079.html">上海男子开豪车中学门前求婚</a></p>
+                                                                   <li class="last" ><a href="http://news.163.com/photoview/00AP0001/67147.html"><img width="220" height="150" title="全国高考开考多地加强无线电监控" alt="全国高考开考多地加强无线电监控" src="http://img4.cache.netease.com/cnews/2014/6/8/2014060810003756107.jpg"></a>
+                    <p><a href="http://news.163.com/photoview/00AP0001/67147.html">全国高考开考多地加强无线电监控</a></p>
                 </li>
                             </ul>
         </div>
@@ -1805,22 +1803,22 @@ body { padding-top:39px;}
                         <a href="http://ent.163.com/tv/">电视</a> <span class="cLGray">|</span>
                         <a href="http://ent.163.com/music/">音乐</a></span></div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://ent.163.com/special/gaoyuanyuanzhaoyouting/">古天乐说漏嘴曝高圆圆赵又廷法国度蜜月</a></h3>
+                                                            <h3 class="bigsize"><a href="http://ent.163.com/14/0607/14/9U53US9F00031H2L.html">“宋丹丹与编剧之争”成安徽高考作文题</a></h3>
                                         <ul class="mod-list main-list">
-                                                                        <li><a href="http://ent.163.com/14/0607/00/9U3LMRI800031H2L.html">舒淇探访好友林熙蕾 抱其幼女炫母爱</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3LL5C300031H2L.html">何炅变身“哈利·波特” 为高考生加油</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3LDB9R00031H2L.html">林志玲自曝洗完澡后用冷水美胸：会有紧实效果</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3LATGS00031H2L.html">台两男星上演"男男吻" 双舌交缠共舔冰淇淋</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3L8ASG00031H2L.html">孙燕姿一件短裤穿9年 为陪家人推上亿代言</a></li>
+                                                                        <li><a href="http://ent.163.com/special/gaoyuanyuanzhaoyouting/">高圆圆被曝酒店过新婚夜</a> <a target="_blank" href="http://ent.163.com/14/0607/18/9U5IEAHH00034JAU.html"> 赵又廷返台避谈婚礼</a></li>
+                                                <li><a href="http://ent.163.com/14/0607/17/9U5GHCKN00034JAU.html">黄海波亲属否认申请诉讼：哪跌倒哪爬起来</a></li>
+                                                <li><a href="http://ent.163.com/14/0608/07/9U6VD43C00031H2L.html">刘丹否认杨幂是恶媳妇 称细声细气只会笑</a></li>
+                                                <li><a href="http://ent.163.com/14/0607/23/9U63KHVB00031H2L.html">彭浩翔否认歧视内地人 认为发言被断章取义</a></li>
+                                                <li><a href="http://ent.163.com/14/0608/04/9U6LTUN500031H2L.html"><em class=' I_N_PIC_'>叶倩文与儿子同台献唱 林子祥做嘉宾登场</em></a></li>
                                             </ul>
                     <span class="blank15"></span>
                     <ul class="mod-list main-list">
-                                                                        <li><a href="http://ent.163.com/14/0607/00/9U3LIICB00031H2L.html"><em class="fB">陶喆自曝求婚细节 否认小16岁女友已怀孕</em></a></li>
-                                                                        <li><a href="http://ent.163.com/14/0607/00/9U3L4U0B00031H2L.html">邓紫棋否认与金秀贤拍广告零交流：有打招呼</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3L13D100031H2L.html">台名模刘薰爱养家暴男友：没工作能做家务也OK</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3KTQPK00031H2L.html">许晴家世曝光：母亲系总政歌舞团舞蹈队队长</a></li>
-                                                <li><a href="http://ent.163.com/14/0607/00/9U3KN19M00031H2L.html">吴君如：港片拍腻 我想当一名北漂演员</a></li>
-                                                <li><a href="http://ent.163.com/14/0606/23/9U3GIEUT00031H2L.html">彭顺小三李悦彤被曝脚踏两船 恋男星周柏豪</a></li>
+                                                                        <li><a href="http://ent.163.com/14/0608/08/9U7103EE00031H2L.html"><em class="fB">曝陶喆奉子成婚 邻居：他老婆肚子很大</em></a></li>
+                                                                        <li><a href="http://ent.163.com/14/0608/01/9U6C58OG00031H2L.html">成龙前经纪人坦言:有人想篡位宁愿先离开</a></li>
+                                                <li><a href="http://ent.163.com/14/0608/05/9U6NJNCP00031H2L.html"><em class=' I_N_G_'>马伊琍网晒女儿书法照 网友：写的真好</em></a></li>
+                                                <li><a href="http://ent.163.com/14/0608/03/9U6FJV4F00031H2L.html">韩星BoA曝校园遭霸凌 被抓厕所扯头发</a></li>
+                                                <li><a href="http://ent.163.com/14/0608/02/9U6DCFHP00031H2L.html">金秀贤被问是否整过型 机智说还年轻不需要</a></li>
+                                                <li><a href="http://ent.163.com/14/0608/00/9U67AR1O00031H2L.html"><em class=' I_N_G_'>蓝洁瑛近照曝光 街头吸烟身材发福似桃姐</em></a></li>
                                             </ul>
                 </div>
             </div>
@@ -1833,17 +1831,17 @@ body { padding-top:39px;}
                 <div class="widget-slide widget-slide-1">
                     <div class="widget-slide-body"  >
                         <ul class="imgList-widget-4  clearfix">
-                                                                                                                                               <li class=""><a href="http://ent.163.com/photoview/00AJ0003/530660.html"><img width="220" height="150" src="http://img5.cache.netease.com/ent/2014/6/7/201406070851097b3b8.jpg" title="张柏芝黑衣现身 ＂筷子腿＂惹眼" alt="张柏芝黑衣现身 ＂筷子腿＂惹眼"></a>
-                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530660.html"></a>
-                                <p><a href="http://ent.163.com/photoview/00AJ0003/530660.html">张柏芝黑衣现身 "筷子腿"惹眼</a></p>
+                                                                                                                                               <li class=""><a href="http://ent.163.com/photoview/00AJ0003/530693.html"><img width="220" height="150" src="http://img5.cache.netease.com/ent/2014/6/8/201406080832177ce98.jpg" title="郭晶晶捞金挥手显亲民" alt="郭晶晶捞金挥手显亲民"></a>
+                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530693.html"></a>
+                                <p><a href="http://ent.163.com/photoview/00AJ0003/530693.html">郭晶晶捞金挥手显亲民</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://ent.163.com/photoview/00AJ0003/530659.html"><img width="220" height="150" src="http://img1.cache.netease.com/ent/2014/6/7/201406070150062da48.jpg" title="范文芳晒七月孕肚" alt="范文芳晒七月孕肚"></a>
-                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530659.html"></a>
-                                <p><a href="http://ent.163.com/photoview/00AJ0003/530659.html">范文芳晒七月孕肚</a></p>
+                                                                                                                   <li class=""><a href="http://ent.163.com/photoview/00AJ0003/530689.html"><img width="220" height="150" src="http://img2.cache.netease.com/ent/2014/6/8/201406080833154702f.jpg" title="赵又廷返台独缺高圆圆" alt="赵又廷返台独缺高圆圆"></a>
+                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530689.html"></a>
+                                <p><a href="http://ent.163.com/photoview/00AJ0003/530689.html">赵又廷返台独缺高圆圆</a></p>
                             </li>
-                                                                                                                   <li class="last"><a href="http://ent.163.com/photoview/00AJ0003/530676.html"><img width="220" height="150" src="http://img3.cache.netease.com/ent/2014/6/7/20140607090059eb604.jpg" title="腾格尔26年前旧照曝光 半裸嗨唱" alt="腾格尔26年前旧照曝光 半裸嗨唱"></a>
-                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530676.html"></a>
-                                <p><a href="http://ent.163.com/photoview/00AJ0003/530676.html">腾格尔26年前旧照曝光 半裸嗨唱</a></p>
+                                                                                                                   <li class="last"><a href="http://ent.163.com/photoview/00AJ0003/530708.html"><img width="220" height="150" src="http://img6.cache.netease.com/ent/2014/6/8/201406080832473c6c1.jpg" title="AV女优着橘色内衣肩带外露" alt="AV女优着橘色内衣肩带外露"></a>
+                                <a class="img-bg" href="http://ent.163.com/photoview/00AJ0003/530708.html"></a>
+                                <p><a href="http://ent.163.com/photoview/00AJ0003/530708.html">AV女优着橘色内衣肩带外露</a></p>
                             </li>
                                                      </ul>
                     </div>
@@ -1860,11 +1858,11 @@ body { padding-top:39px;}
                 <span class="blank20"></span><span class="blank3"></span>
                 <div class="title-bar ui-til4"><h2><a href="http://ent.163.com/">娱乐业界</a></h2><span class="more link"><a href="http://ent.163.com/">更多>></a></span></div>
                 <ul class="mod-list sub-list">
-                                                            <li><a href="http://ent.163.com/14/0607/08/9U4H08KK000300B1.html"><em class="fB">《许三观卖血记》开机</em></a></li>
-                                                            <li><a href="http://ent.163.com/14/0607/08/9U4EUJUS00031GVS.html">《女人俱乐部》结局最高收视30点</a></li>
-                                        <li><a href="http://ent.163.com/14/0607/07/9U4D83LI00031GVS.html">《中国好舞蹈》学员献吻蔡依林</a></li>
-                                                            <li><a href="http://ent.163.com/14/0607/09/9U4J3DAM00031H0O.html">苏永康：年内结婚无暇度蜜月</a></li>
-                                        <li><a href="http://ent.163.com/14/0607/08/9U4EVI2N00031H0O.html">《歌狂》腾格尔与辣妹共舞</a></li>
+                                                            <li><a href="http://ent.163.com/14/0607/23/9U64EK29000300B1.html"><em class="fB">《一步之遥》推话剧</em></a></li>
+                                                            <li><a href="http://ent.163.com/14/0608/07/9U6VSUF000031GVS.html">《笑傲江湖》总决赛今晚来袭</a></li>
+                                        <li><a href="http://ent.163.com/14/0608/07/9U6VGQNV00031GVS.html">《非诚》“灾难哥”诉说坎坷人生</a></li>
+                                                            <li><a href="http://ent.163.com/14/0608/08/9U715R6U00031H0O.html">巫启贤北京开唱女儿欢欢惊艳亮嗓</a></li>
+                                        <li><a href="http://ent.163.com/14/0608/03/9U6HO1VG00032DGD.html">吴亦凡加盟徐静蕾新片 新星云集</a></li>
                                     </ul>
             </div>
         </div>
@@ -1872,23 +1870,23 @@ body { padding-top:39px;}
             <div class="title-bar ui-til4"><h2><a href="http://ent.163.com/">明星动态</a></h2></div>
             <div class="mod-imgText imgList-widget-2 ent-list clearfix">
                 <ul>
-                                                                                   <li ><a href="http://ent.163.com/photoview/00AJ0003/530663.html"><img width="100" height="70" src="http://img5.cache.netease.com/ent/2014/6/7/20140607093418ee534.jpg" title="陈静亮相发布会" alt="陈静亮相发布会"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530663.html">陈静亮相发布会</a></p>
+                                                                                   <li ><a href="http://ent.163.com/photoview/00AJ0003/530691.html#p=9U65R65100AJ0003"><img width="100" height="70" src="http://img6.cache.netease.com/ent/2014/6/8/2014060809125969526.jpg" title="柳岩大秀好身材" alt="柳岩大秀好身材"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530691.html#p=9U65R65100AJ0003">柳岩大秀好身材</a></p>
                     </li>
-                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530662.html"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/7/2014060709324109d1e.jpg" title="女星合影内衣模特" alt="女星合影内衣模特"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530662.html">女星合影内衣模特</a></p>
+                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530697.html"><img width="100" height="70" src="http://img6.cache.netease.com/ent/2014/6/8/20140608091215fc3f0.jpg" title="蓝洁瑛近照曝光" alt="蓝洁瑛近照曝光"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530697.html">蓝洁瑛近照曝光</a></p>
                     </li>
-                                           <li  class="last" ><a href="http://ent.163.com/photoview/00AJ0003/530661.html"><img width="100" height="70" src="http://img4.cache.netease.com/ent/2014/6/7/2014060709301866140.jpg" title="许志安为胞兄守夜" alt="许志安为胞兄守夜"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530661.html">许志安为胞兄守夜</a></p>
+                                           <li  class="last" ><a href="http://ent.163.com/photoview/00AJ0003/530709.html#p=9U6GH28M00AJ0003"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/8/20140608091138a347c.jpg" title="谋女郎现身无人识" alt="谋女郎现身无人识"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530709.html#p=9U6GH28M00AJ0003">谋女郎现身无人识</a></p>
                     </li>
-                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530665.html"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/7/20140607092859394fa.jpg" title="徐娇回杭州母校" alt="徐娇回杭州母校"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530665.html">徐娇回杭州母校</a></p>
+                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530713.html#p=9U54QIHB00B50003"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/8/201406080910498ff43.jpg" title="华谊电影公社开幕" alt="华谊电影公社开幕"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530713.html#p=9U54QIHB00B50003">华谊电影公社开幕</a></p>
                     </li>
-                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530671.html"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/7/2014060709274953917.jpg" title="宋祖英弟弟生活照" alt="宋祖英弟弟生活照"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530671.html">宋祖英弟弟生活照</a></p>
+                                           <li ><a href="http://ent.163.com/photoview/00AJ0003/530704.html"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/8/20140608091008ff182.jpg" title="曾志伟送别岳母" alt="曾志伟送别岳母"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530704.html">曾志伟送别岳母</a></p>
                     </li>
-                                           <li  class="last" ><a href="http://ent.163.com/photoview/00AJ0003/530673.html"><img width="100" height="70" src="http://img3.cache.netease.com/ent/2014/6/7/20140607092639b5e78.jpg" title="罗志祥喂粉丝便当" alt="罗志祥喂粉丝便当"></a>
-                    <p><a href="http://ent.163.com/photoview/00AJ0003/530673.html">罗志祥喂粉丝便当</a></p>
+                                           <li  class="last" ><a href="http://ent.163.com/photoview/00AJ0003/530701.html"><img width="100" height="70" src="http://img1.cache.netease.com/ent/2014/6/8/201406080909385b2d0.jpg" title="赵本山拉二胡献唱" alt="赵本山拉二胡献唱"></a>
+                    <p><a href="http://ent.163.com/photoview/00AJ0003/530701.html">赵本山拉二胡献唱</a></p>
                     </li>
                                     </ul>
             </div>
@@ -1920,22 +1918,22 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://sports.163.com/nba/">曝詹皇首战服7颗抗抽筋药</a></h3>
+                                                            <h3 class="bigsize"><a href="http://sports.163.com/special/frenchopen2014/">法网-正直播小德纳达尔争冠</a></h3>
                                         <ul class="mod-list main-list">
-                                                                        <li><a href="http://sports.163.com/14/0607/07/9U4DI0RU00051CA1.html">勒布朗:我是最常被攻击对象 已对外界批评"免疫"</a></li>
-                                                <li><a href="http://sports.163.com/14/0607/09/9U4HTQNE00051CA1.html#p=9U2EQVOG0AI90005">科比借LBJ抽筋宣传自家饮料:运动员应选专业饮品</a></li>
-                                                <li><a href="http://sports.163.com/14/0607/08/9U4ERBD100051CA1.html">好兄弟!"夜店登"带KD逍遥 与众美女疯至凌晨2点</a></li>
-                                                <li><a href="http://sports.163.com/photoview/0AI90005/115810.html#p=9U3BC21B0AI90005">习惯了?热火不惧输首战 马刺先发制人不保险</a></li>
+                                                                        <li><a href="http://sports.163.com/photoview/0AI90005/115845.html"><em class=' I_N_G_'>揭秘NBA众球星高考榜单 科比二本詹皇上高职</em></a></li>
+                                                <li><a href="http://sports.163.com/photoview/0AI90005/115839.html"><em class=' I_N_G_'>科比詹皇专掐对方痛处?两人已四度隔空交火</em></a></li>
                                                 <li><a href="http://sports.163.com/photoview/00MK0005/115766.html"><em class=' I_N_G_'>与魔兽开房少女正面照曝光 美媒:顶多16岁</em></a></li>
+                                                <li><a href="http://sports.163.com/14/0608/07/9U70FCI100051CA1.html">曝骑士将5年9000万留厄文 盼其能成沃尔式核心</a></li>
+                                                <li><a href="http://sports.163.com/photoview/28F90005/115842.html">一龙争霸赛完胜巴西拳王 狂殴对手致其倒地</a></li>
                                             </ul>
                     <span class="blank15"></span>
                     <ul class="mod-list main-list">
-                                                                        <li><a href="http://2014.163.com/"><em class="fB">悲剧!里贝里因伤无缘世界杯 英超悍将紧急入替</em></a></li>
-                                                                        <li><a href="http://sports.163.com/14/0607/13/9U50SRLK00051C89.html#p=9U2LJSJC0B6P0005">广州6球迷协会请愿恒大阿里:若改队名请叫广州FC</a></li>
-                                                <li><a href="http://sports.163.com/14/0607/04/9U41E38700051CD5.html#p=9GSE237L00CO0005">闹离婚?巴媒:卡卡夫妇已分居2月 卡洛琳方面否认</a></li>
-                                                <li><a href="http://sports.163.com/14/0607/11/9U4OP7LT00051C8V.html#p=9TQHUHIG5OR50005">皮克透露小法转会在即引火烧身 西媒:高层火大了</a></li>
-                                                <li><a href="http://sports.163.com/photoview/00DE0005/115801.html">"花儿"现场观战皇马 许晴刘涛白色战袍加身</a></li>
-                                                <li><a href="http://sports.163.com/photoview/0AQ50005/115757.html">上海九球赛台湾美女惊艳</a> <a target="_blank" href="http://2014.163.com/photoview/5O180005/115754.html">我们追过的"世界杯女神"</a></li>
+                                                                        <li><a href="http://2014.163.com/"><em class="fB">热身赛-阿根廷2-0胜</a> <a target="_blank" href="http://2014.163.com/14/0608/06/9U6Q8HJ2000505HF.html#p=9U6OHJV15O220005">梅西呕吐吃"药丸"破门</em></a></li>
+                                                                        <li><a href="http://2014.163.com/14/0608/15/9U7Q2131000505HF.html">帮派世界杯:皇马辅佐巴萨=双赢 拜仁助德国逆袭?</a></li>
+                                                <li><a href="http://2014.163.com/photoview/5O1J0005/115848.html">日本队抵达西装革履</a> <a target="_blank" href="http://2014.163.com/photoview/5O2H0005/115850.html">德国队集体黑衣亮相狂拽酷炫</a></li>
+                                                <li><a href="http://sports.163.com/photoview/0B6P0005/115869.html"><em class=' I_N_G_'>张稀哲携嫩模女友度假 豹纹情侣衫秀甜蜜</em></a></li>
+                                                <li><a href="http://sports.163.com/photoview/3SLH0005/115847.html"><em class=' I_N_G_'>郭晶晶返京捞金玩快闪 露肩粉裙站台引骚动</em></a></li>
+                                                <li><a href="http://sports.163.com/photoview/0B6P0005/115832.html"><em class=' I_N_G_'>郜林爱妻自曝清凉照</em></a> <a target="_blank" href="http://2014.163.com/photoview/5O2O0005/115834.html">朴智星携主播女友度假</a></li>
                                             </ul>
                 </div>
             </div>
@@ -1949,29 +1947,29 @@ body { padding-top:39px;}
                 <div class="widget-slide widget-slide-1">
                     <div class="widget-slide-body"  >
                         <ul class="imgList-widget-4  clearfix">
-                                                                                                                                               <li class=""><a href="http://2014.163.com/photoview/5O2H0005/115806.html"><img width="220" height="150" src="http://img1.cache.netease.com/sports/2014/6/7/20140607095230c443e.jpg" title="罗伊斯热身赛重伤 世界杯前景成疑" alt="罗伊斯热身赛重伤 世界杯前景成疑"></a>
-                                <a class="img-bg" href="http://2014.163.com/photoview/5O2H0005/115806.html"></a>
-                                <p><a href="http://2014.163.com/photoview/5O2H0005/115806.html">罗伊斯热身赛重伤 世界杯前景成疑</a></p>
+                                                                                                                                               <li class=""><a href="http://sports.163.com/photoview/05HE0005/115872.html"><img width="220" height="150" src="http://img4.cache.netease.com/sports/2014/6/8/20140608213104b9efc.jpg" title="海峡组合首夺法网双打冠军" alt="海峡组合首夺法网双打冠军"></a>
+                                <a class="img-bg" href="http://sports.163.com/photoview/05HE0005/115872.html"></a>
+                                <p><a href="http://sports.163.com/photoview/05HE0005/115872.html">海峡组合首夺法网双打冠军</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://2014.163.com/photoview/5O180005/115807.html"><img width="220" height="150" src="http://img2.cache.netease.com/sports/2014/6/7/201406070717596b64b.jpg" title="巴西热身赛1-0 内马尔遭严防倒地" alt="巴西热身赛1-0 内马尔遭严防倒地"></a>
-                                <a class="img-bg" href="http://2014.163.com/photoview/5O180005/115807.html"></a>
-                                <p><a href="http://2014.163.com/photoview/5O180005/115807.html">巴西热身赛1-0 内马尔遭严防倒地</a></p>
+                                                                                                                   <li class=""><a href="http://sports.163.com/photoview/0AEV0005/115871.html"><img width="220" height="150" src="http://img2.cache.netease.com/sports/2014/6/8/2014060821264191b68.jpg" title="中国95-90澳大利亚许钟豪激情怒吼" alt="中国95-90澳大利亚许钟豪激情怒吼"></a>
+                                <a class="img-bg" href="http://sports.163.com/photoview/0AEV0005/115871.html"></a>
+                                <p><a href="http://sports.163.com/photoview/0AEV0005/115871.html">中国95-90澳大利亚许钟豪激情怒吼</a></p>
                             </li>
                                                                                                                    <li class=""><a href="http://2014.163.com/dongqiudi/"><img width="220" height="150" src="http://img5.cache.netease.com/sports/2014/6/3/20140603082457357b9.jpg" title="谁是懂球帝？小伙伴们快来PK吧！" alt="谁是懂球帝？小伙伴们快来PK吧！"></a>
                                 <a class="img-bg" href="http://2014.163.com/dongqiudi/"></a>
                                 <p><a href="http://2014.163.com/dongqiudi/">谁是懂球帝？小伙伴们快来PK吧！</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://sports.163.com/photoview/05HE0005/115794.html"><img width="220" height="150" src="http://img4.cache.netease.com/sports/2014/6/6/20140606222333eae9f.jpg" title="小德重返法网决赛 全满贯一步之遥" alt="小德重返法网决赛 全满贯一步之遥"></a>
-                                <a class="img-bg" href="http://sports.163.com/photoview/05HE0005/115794.html"></a>
-                                <p><a href="http://sports.163.com/photoview/05HE0005/115794.html">小德重返法网决赛 全满贯一步之遥</a></p>
+                                                                                                                   <li class=""><a href="http://sports.163.com/photoview/0AQ50005/115864.html"><img width="220" height="150" src="http://img2.cache.netease.com/sports/2014/6/8/201406081703278c8b4.jpg" title="金佳映深V装抢镜九球决赛" alt="金佳映深V装抢镜九球决赛"></a>
+                                <a class="img-bg" href="http://sports.163.com/photoview/0AQ50005/115864.html"></a>
+                                <p><a href="http://sports.163.com/photoview/0AQ50005/115864.html">金佳映深V装抢镜九球决赛</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://sports.163.com/photoview/4TM10005/115767.html"><img width="220" height="150" src="http://img4.cache.netease.com/sports/2014/6/6/20140606114407fd3dd.jpg" title="空调故障詹姆斯累抽筋 热火负马刺" alt="空调故障詹姆斯累抽筋 热火负马刺"></a>
-                                <a class="img-bg" href="http://sports.163.com/photoview/4TM10005/115767.html"></a>
-                                <p><a href="http://sports.163.com/photoview/4TM10005/115767.html">空调故障詹姆斯累抽筋 热火负马刺</a></p>
+                                                                                                                   <li class=""><a href="http://sports.163.com/photoview/05HE0005/115835.html"><img width="220" height="150" src="http://img2.cache.netease.com/sports/2014/6/8/201406080714532ba0c.jpg" title="莎娃时隔两年再夺法网 热吻奖杯" alt="莎娃时隔两年再夺法网 热吻奖杯"></a>
+                                <a class="img-bg" href="http://sports.163.com/photoview/05HE0005/115835.html"></a>
+                                <p><a href="http://sports.163.com/photoview/05HE0005/115835.html">莎娃时隔两年再夺法网 热吻奖杯</a></p>
                             </li>
-                                                                                                                   <li class="last"><a href="http://sports.163.com/photoview/0AEV0005/115793.html"><img width="220" height="150" src="http://img5.cache.netease.com/sports/2014/6/7/2014060707083152130.jpg" title="男篮大胜澳洲 郭艾伦复出砍19分" alt="男篮大胜澳洲 郭艾伦复出砍19分"></a>
-                                <a class="img-bg" href="http://sports.163.com/photoview/0AEV0005/115793.html"></a>
-                                <p><a href="http://sports.163.com/photoview/0AEV0005/115793.html">男篮大胜澳洲 郭艾伦复出砍19分</a></p>
+                                                                                                                   <li class="last"><a href="http://2014.163.com/photoview/5O220005/115837.html"><img width="220" height="150" src="http://img2.cache.netease.com/sports/2014/6/8/2014060805034203861.jpg" title="阿根廷热身赛2-0 梅西替补破球荒" alt="阿根廷热身赛2-0 梅西替补破球荒"></a>
+                                <a class="img-bg" href="http://2014.163.com/photoview/5O220005/115837.html"></a>
+                                <p><a href="http://2014.163.com/photoview/5O220005/115837.html">阿根廷热身赛2-0 梅西替补破球荒</a></p>
                             </li>
                                                      </ul>
                     </div>
@@ -1987,10 +1985,10 @@ body { padding-top:39px;}
                 <div class="title-bar ui-til4"><h2><a href="http://sports.163.com/special/000502KO/lingdujiao.html">零度角</a></h2><span class="more link"><a  href="http://sports.163.com/special/000502KO/lingdujiao.html">更多>></a></span></div>
                 <ul class="mod-list sub-list">
                                                             <li><a href="http://sports.163.com/special/anglezero/jogar_bonito_3.html"><em class="fB">巴西天才因花哨被"废"</em></a></li>
-                                                            <li><a href="http://blog.163.com/andrew_r/blog/static/1741761502014560347709/">小法,一个巴萨笑话</a></li>
-                                        <li><a href="http://sports.163.com/14/0605/18/9U0C33C000053M27.html">头重脚轻的勒夫军团</a></li>
-                                        <li><a href="http://zwenyuan11.blog.163.com/blog/static/14911740520145514526958/">马云，够劲道不够厚道！</a></li>
-                                        <li><a href="http://blog.163.com/andrew_r/blog/static/17417615020145411251815/">梅西和巴西小偷把奖杯留在美洲</a></li>
+                                                            <li><a href="http://blog.163.com/andrew_r/blog/static/17417615020145851753712/">没有中国就没有世界杯</a></li>
+                                        <li><a href="http://zwenyuan11.blog.163.com/blog/static/14911740520145710177997/">许马会的政治经济学</a></li>
+                                        <li><a href="http://sports.163.com/14/0608/10/9U78VBK700053M27.html">西班牙国家队有限公司</a></li>
+                                        <li><a href="http://blog.163.com/andrew_r/blog/static/1741761502014560347709/">小法,一个巴萨笑话</a></li>
                                     </ul>
             </div>
         </div>
@@ -2030,25 +2028,25 @@ body { padding-top:39px;}
         <div class="content content-1">
             <div class="content-small first">
                 <div class="pstrans border-bottom">
-                                                               <img width="220" height="150"  alt="＂花少＂剧组现场看皇马"  title="＂花少＂剧组现场看皇马" src="http://img6.cache.netease.com/sports/2014/6/7/20140607074327db480.jpg" />
-                    <a  class="name f-trans" title="＂花少＂剧组现场看皇马"   href="http://sports.163.com/photoview/00DE0005/115801.html">
-                        <em>"花少"剧组现场看皇马</em><br><span>《花儿与少年》五位女星伯纳乌球场观战。</span>
+                                                               <img width="220" height="150"  alt="一龙狂殴打垮巴西拳王"  title="一龙狂殴打垮巴西拳王" src="http://img6.cache.netease.com/sports/2014/6/8/201406080843059d24b.jpg" />
+                    <a  class="name f-trans" title="一龙狂殴打垮巴西拳王"   href="http://sports.163.com/photoview/28F90005/115842.html">
+                        <em>一龙狂殴打垮巴西拳王</em><br><span>顶住舆论压力背水一战 再次完胜巴西冠军。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
                 <div class="pstrans">
-                                                               <img width="220" height="150"  alt="＂懦夫＂詹皇远逊乔丹？"  title="＂懦夫＂詹皇远逊乔丹？" src="http://img1.cache.netease.com/sports/2014/6/7/2014060707511137af5.jpg" />
-                    <a  class="name f-trans" title="＂懦夫＂詹皇远逊乔丹？" href="http://sports.163.com/photoview/0AI90005/115809.html">
-                        <em>"懦夫"詹皇远逊乔丹？</em><br><span>灵魂懦夫?詹皇挨骂皆因世人被乔丹科比惯坏。</span>
+                                                               <img width="220" height="150"  alt="揭NBA众球星高考榜单"  title="揭NBA众球星高考榜单" src="http://img1.cache.netease.com/sports/2014/6/8/20140608103452fa7aa.jpg" />
+                    <a  class="name f-trans" title="揭NBA众球星高考榜单" href="http://sports.163.com/photoview/0AI90005/115845.html">
+                        <em>揭NBA众球星高考榜单</em><br><span>科比二本詹皇上高职。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
             </div>
             <div class="content-large">
                 <div class="pstrans border-bottom">
-                                                               <img width="255" height="250" alt="勒布朗:＂伟大＂的代价"  title="勒布朗:＂伟大＂的代价" src="http://img2.cache.netease.com/sports/2014/6/7/201406070737578b32c.jpg" />
-                    <a  class="name f-trans" title="勒布朗:＂伟大＂的代价" href="http://sports.163.com/photoview/5DBP0005/115800.html">
-                        <em>勒布朗:"伟大"的代价</em><br><span>体能衰竭功亏一篑遭人诟病，这不过是勒布朗通往总统山的又一难。</span>
+                                                               <img width="255" height="250" alt="科比詹皇四度隔空交火"  title="科比詹皇四度隔空交火" src="http://img4.cache.netease.com/sports/2014/6/8/20140608084041feef9.jpg" />
+                    <a  class="name f-trans" title="科比詹皇四度隔空交火" href="http://sports.163.com/photoview/0AI90005/115839.html">
+                        <em>科比詹皇四度隔空交火</em><br><span>勒布朗因总决赛G1抽筋被全美讥讽，科比也趁机宣传自己入股的运动饮料。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
@@ -2063,25 +2061,25 @@ body { padding-top:39px;}
                     <p class="left" ><a href="http://ent.163.com/photo/">娱乐热图</a></p><a class="right arrow" href="http://ent.163.com/photo/">>></a>
                 </div>
                 <div class="pstrans">
-                                                               <img width="255" height="250" alt="巩俐微笑访港 获工作人员献花"  title="巩俐微笑访港 获工作人员献花" src="http://img5.cache.netease.com/ent/2014/6/7/20140607091144bd984.jpg" />
-                    <a  class="name f-trans" title="巩俐微笑访港 获工作人员献花" href="http://ent.163.com/photoview/00AJ0003/530674.html">
-                        <em>巩俐微笑访港 获工作人员献花</em><br><span>巩俐抵达香港，走出机场时手持鲜花的工作人员将花送给巩俐，巩俐手捧鲜花展笑颜。</span>
+                                                               <img width="255" height="250" alt="“宁贵人”热依扎秀巨乳险侧漏"  title="“宁贵人”热依扎秀巨乳险侧漏" src="http://img2.cache.netease.com/ent/2014/6/8/2014060809233313459.jpg" />
+                    <a  class="name f-trans" title="“宁贵人”热依扎秀巨乳险侧漏" href="http://ent.163.com/photoview/00AJ0003/530719.html">
+                        <em>“宁贵人”热依扎秀巨乳险侧漏</em><br><span>“宁贵人”热依扎出席台湾活动，穿镂空洋装，大秀美胸。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
             </div>
             <div class="content-small">
                 <div class="pstrans border-bottom">
-                                                               <img width="220" height="150"  alt="秋瓷炫出席活动坐小凳秀美腿"  title="秋瓷炫出席活动坐小凳秀美腿" src="http://img4.cache.netease.com/ent/2014/6/7/20140607092338b7f45.jpg" />
-                    <a  class="name f-trans" title="秋瓷炫出席活动坐小凳秀美腿" href="http://ent.163.com/photoview/00AJ0003/530664.html">
-                        <em>秋瓷炫出席活动坐小凳秀美腿</em><br><span>日前，韩国女星秋瓷炫出席某活动，条件简陋只好落坐在小凳上。</span>
+                                                               <img width="220" height="150"  alt="贝克汉姆络腮胡须现机场"  title="贝克汉姆络腮胡须现机场" src="http://img5.cache.netease.com/ent/2014/6/8/2014060809301377116.jpg" />
+                    <a  class="name f-trans" title="贝克汉姆络腮胡须现机场" href="http://ent.163.com/photoview/00AJ0003/530705.html">
+                        <em>贝克汉姆络腮胡须现机场</em><br><span>大卫·贝克汉姆现身机场，留着络腮胡须的小贝显得男人味十足。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
                 <div class="pstrans">
-                                                               <img width="220" height="150" alt="吴尊现身获黑人保镖护驾"  title="吴尊现身获黑人保镖护驾" src="http://img5.cache.netease.com/ent/2014/6/7/2014060709171778bbe.jpg" />
-                    <a class="name f-trans" title="吴尊现身获黑人保镖护驾"  href="http://ent.163.com/photoview/00AJ0003/530670.html">
-                        <em>吴尊现身获黑人保镖护驾</em><br><span>6月6日晚，吴尊助阵某时尚派对，获黑人保镖护驾。</span>
+                                                               <img width="220" height="150" alt="黄晓明当众摸Angelababy大腿"  title="黄晓明当众摸Angelababy大腿" src="http://img4.cache.netease.com/ent/2014/6/8/20140608092858eb6fa.jpg" />
+                    <a class="name f-trans" title="黄晓明当众摸Angelababy大腿"  href="http://ent.163.com/photoview/00AJ0003/530712.html#p=9U6U3B7K00AJ0003">
+                        <em>黄晓明当众摸Angelababy大腿</em><br><span>华谊兄弟二十周年庆典，黄晓明当众摸Angelababy大腿。</span>
                     </a>
                                         <div class="cover f-trans"></div>
                 </div>
@@ -2119,13 +2117,13 @@ body { padding-top:39px;}
                         <a  href="http://money.163.com/fund/">基金</a></span>
                 </div>
                 <div class="mod-list main-list news-date-list sline">
-                                                            <h3 class="bigsize"><a href="http://money.163.com/14/0607/08/9U4F7V1U00253B0H.html?from=news">企业“配合态度”影响反垄断处罚力度</a></h3>
+                                                            <h3 class="bigsize"><a href="http://money.163.com/14/0608/12/9U7GL87Q00253G87.html?from=news">全球机会最多10城：大陆无一个进前十</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://money.163.com/14/0607/08/9U4F7VSL00253B0H.html?from=news">合景泰富涉嫌囤地：北京"地王"拿地三年仍在挖坑</a></li>
-                                                                        <li><a href="http://money.163.com/14/0607/08/9U4F810U00253B0H.html?from=news">青岛668套小产权房捆绑拍卖转正 幕后人逼退万科</a></li>
-                                                                        <li><a href="http://money.163.com/14/0607/11/9U4PC8NV00252G50.html?from=news"><em class="fB">南昌规划扩建寺庙拟让和尚尼姑住一起</em></a></li>
-                                                                        <li><a href="http://money.163.com/14/0607/08/9U4F80OU00253B0H.html?from=news">柳州首富失联涉非法吸存 有借贷人扬言追杀他</a></li>
-                                                                        <li><a href="http://money.163.com/14/0607/07/9U4E48UN00254TI5.html?from=news">国企领导不服6名亲戚被清退 让员工填表表决</a></li>
+                                                                                                <li><a href="http://money.163.com/14/0608/11/9U7CC4TM00254SM1.html?from=news">茅于轼：解决交通拥堵可向所有开车者收路费</a></li>
+                                                                        <li><a href="http://money.163.com/14/0608/12/9U7FC8MG002526O3.html?from=news">丁家宜工厂已经停产解散 员工:产线就我自己上班</a></li>
+                                                                        <li><a href="http://money.163.com/14/0608/04/9U6LFOVA00253B0H.html?from=news"><em class="fB">教授：养老保险制度可靠 没有当期缺口问题</em></a></li>
+                                                                        <li><a href="http://money.163.com/14/0607/19/9U5N69GL002534NU.html?from=news">温州豪宅6折卖无人买 开发商降价求全身而退</a></li>
+                                                                        <li><a href="http://money.163.com/14/0607/23/9U6220HI00251LIE.html?from=news">乌龙指主角杨剑波变身大学教授 课堂被挤爆</a></li>
                                             </ul>
                     <span class="blank20"></span> <span class="blank15"></span>
                 </div>
@@ -2166,9 +2164,9 @@ body { padding-top:39px;}
                                 <a class="img-bg" href="http://money.163.com/photoview/5BNQ0025/14248.html?from=news"></a>
                                 <p><a href="http://money.163.com/photoview/5BNQ0025/14248.html?from=news">贵州茅台大桥及钟楼整体爆破成功</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://money.163.com/14/0607/16/9U5D0M56002526O5.html?from=news"><img width="220" height="150" src="http://img2.cache.netease.com/stock/2014/6/7/20140607170807fa889.jpg" title="宜宾出租车撞上劳斯莱斯称愿意陪" alt="宜宾出租车撞上劳斯莱斯称愿意陪"></a>
+                                                                                                                   <li class=""><a href="http://money.163.com/14/0607/16/9U5D0M56002526O5.html?from=news"><img width="220" height="150" src="http://img2.cache.netease.com/stock/2014/6/7/20140607170807fa889.jpg" title="宜宾出租车撞上劳斯莱斯称愿意赔" alt="宜宾出租车撞上劳斯莱斯称愿意赔"></a>
                                 <a class="img-bg" href="http://money.163.com/14/0607/16/9U5D0M56002526O5.html?from=news"></a>
-                                <p><a href="http://money.163.com/14/0607/16/9U5D0M56002526O5.html?from=news">宜宾出租车撞上劳斯莱斯称愿意陪</a></p>
+                                <p><a href="http://money.163.com/14/0607/16/9U5D0M56002526O5.html?from=news">宜宾出租车撞上劳斯莱斯称愿意赔</a></p>
                             </li>
                                                                                                                    <li class=""><a href="http://money.163.com/photoview/0AK00025/14249.html?from=news"><img width="220" height="150" src="http://img3.cache.netease.com/stock/2014/6/7/2014060716091329f13.jpg" title="冯小刚旅游项目开业 投资10亿" alt="冯小刚旅游项目开业 投资10亿"></a>
                                 <a class="img-bg" href="http://money.163.com/photoview/0AK00025/14249.html?from=news"></a>
@@ -2344,11 +2342,11 @@ body { padding-top:39px;}
                 </div>
                 <span class="blank15"></span>
                 <ul class="mod-list main-list">
-                                                                                <li><a href="http://auto.163.com/14/0606/19/9U34QHB200084TUO.html"><em class="fB">售12.88-20.08万元 纳智捷优6正式上市</em></a></li>
-                                                            <li><a href="http://auto.163.com/14/0606/19/9U349QL600084TUO.html">外观/动力小改 宝马新款X1售25.9-43.6万元</a></li>
-                                                            <li><a href="http://auto.163.com/14/0606/15/9U2L7QNL00084TUO.html">百公里加速2.7秒 下代日产GT-R混合动力</a></li>
-                                                            <li><a href="http://auto.163.com/14/0606/11/9U26R0OM00084TUO.html">售7.39万元起 雪佛兰新款爱唯欧正式上市</a></li>
-                                                            <li><a href="http://auto.163.com/14/0606/11/9U26AC7N00084TUO.html">搭载0.9T发动机 奔驰smart fortwo谍照</a></li>
+                                                                                <li><a href="http://auto.163.com/14/0608/22/9U8IFFB500084TUO.html"><em class="fB">换装全新动力 新一代科鲁兹有望7月上市</em></a></li>
+                                                            <li><a href="http://auto.163.com/14/0608/21/9U8ERUR800084TUO.html">6月底启动预售 启辰R30有望7月份上市</a></li>
+                                                            <li><a href="http://auto.163.com/14/0608/21/9U8EE79J00084TUO.html">外观/配置小改 别克发布新款Verano官图</a></li>
+                                                            <li><a href="http://auto.163.com/14/0608/00/9U66G41300084TUO.html">比民用发展更快 以色列无人战车将升级</a></li>
+                                                            <li><a href="http://auto.163.com/14/0606/19/9U34QHB200084TUO.html">售12.88-20.08万元 纳智捷优6正式上市</a></li>
                                     </ul>
             </div>
         </div>
@@ -2417,28 +2415,28 @@ body { padding-top:39px;}
                     <div class="tab-con current">
                         <ul class="rankList clearfix">
                                                                                                                                             <li class="">
-                                <span class="front ranknum">1</span><a href="http://auto.163.com/14/0606/01/9U15MKID00084TUO.html#NS1011">百公里加速4.8秒 宝马发布新一代X6官图</a><span class="more right">596392</span>
+                                <span class="front ranknum">1</span><a href="http://auto.163.com/14/0606/01/9U15MKID00084TUO.html#NS1011">百公里加速4.8秒 宝马发布新一代X6官图</a><span class="more right">443800</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="front ranknum">2</span><a href="http://auto.163.com/14/0605/09/9TVEIEN400084TUO.html#NS1011">预售13万起 本田小SUV缤智有望11月上市</a><span class="more right">479499</span>
+                                <span class="front ranknum">2</span><a href="http://auto.163.com/14/0608/09/9U75OJQK00084IJL.html#NS1011">全是豪车 咸阳年轻人开车免费接送高考生</a><span class="more right">391693</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="front ranknum">3</span><a href="http://auto.163.com/14/0604/23/9TUC5G3Q00084TUO.html#NS1011">将于7月28日上市 雷凌官方预售价发布</a><span class="more right">248907</span>
+                                <span class="front ranknum">3</span><a href="http://auto.163.com/14/0608/00/9U66G41300084TUO.html#NS1011">比民用发展更快 以色列无人战车将升级</a><span class="more right">289077</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="follow ranknum">4</span><a href="http://auto.163.com/14/0606/02/9U18NFQQ00084TUO.html#NS1011">外观/动力小改 宝马新款X1于6月6日上市</a><span class="more right">210107</span>
+                                <span class="follow ranknum">4</span><a href="http://auto.163.com/14/0606/16/9U2QJEB5000853RO.html#NS1011">一周车坛囧事[第44期]:乡巴佬or爱国者？</a><span class="more right">172902</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="follow ranknum">5</span><a href="http://auto.163.com/14/0606/01/9U13UGPK00085758.html#NS1011">12.88-20.08万 纳智捷优6指导价正式公布</a><span class="more right">115325</span>
+                                <span class="follow ranknum">5</span><a href="http://auto.163.com/14/0606/19/9U349QL600084TUO.html#NS1011">外观/动力小改 宝马新款X1售25.9-43.6万</a><span class="more right">158890</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="follow ranknum">6</span><a href="http://auto.163.com/14/0606/11/9U26R0OM00084TUO.html#NS1011">售7.39万元起 雪佛兰新款爱唯欧正式上市</a><span class="more right">94950</span>
+                                <span class="follow ranknum">6</span><a href="http://auto.163.com/14/0604/23/9TUC5G3Q00084TUO.html#NS1011">将于7月28日上市 雷凌官方预售价发布</a><span class="more right">149295</span>
                             </li>
                                                                                                                 <li class="">
-                                <span class="follow ranknum">7</span><a href="http://auto.163.com/14/0605/21/9U0OSDAE00084TUP.html#NS1011">多用途/有个性 五款中高端跨界车型推荐</a><span class="more right">90372</span>
+                                <span class="follow ranknum">7</span><a href="http://auto.163.com/14/0605/09/9TVEIEN400084TUO.html#NS1011">预售13万起 本田小SUV缤智有望11月上市</a><span class="more right">116668</span>
                             </li>
                                                                                                                 <li class="last">
-                                <span class="follow ranknum">8</span><a href="http://auto.163.com/14/0604/23/9TUB6QI500084TUO.html#NS1011">更像"小君越"了! 新一代英朗效果图首曝</a><span class="more right">89756</span>
+                                <span class="follow ranknum">8</span><a href="http://auto.163.com/14/0606/19/9U34QHB200084TUO.html#NS1011">售12.88-20.08万元 纳智捷优6正式上市</a><span class="more right">94526</span>
                             </li>
                                                     </ul>
                     </div>
@@ -2457,16 +2455,16 @@ body { padding-top:39px;}
                                 <span class="follow ranknum">4</span><a href="http://product.auto.163.com/series/3147.html#NS1012">途观</a><span class="more right">19.98 - 31.58(万元)</span>
                             </li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">5</span><a href="http://product.auto.163.com/series/17286.html#NS1012">创酷</a><span class="more right">11.99 - 15.99(万元)</span>
+                                <span class="follow ranknum">5</span><a href="http://product.auto.163.com/series/16792.html#NS1012">纳智捷优6 SU</a><span class="more right">12.88 - 20.08(万元)</span>
                             </li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">6</span><a href="http://product.auto.163.com/series/15101.html#NS1012">哈弗H6</a><span class="more right">11.28 - 16.28(万元)</span>
+                                <span class="follow ranknum">6</span><a href="http://product.auto.163.com/series/17286.html#NS1012">创酷</a><span class="more right">11.99 - 15.99(万元)</span>
                             </li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">7</span><a href="http://product.auto.163.com/series/2215.html#NS1012">速腾</a><span class="more right">13.18 - 18.58(万元)</span>
+                                <span class="follow ranknum">7</span><a href="http://product.auto.163.com/series/15101.html#NS1012">哈弗H6</a><span class="more right">11.28 - 16.28(万元)</span>
                             </li>
                                                                                                                                             <li class="last">
-                                <span class="follow ranknum">8</span><a href="http://product.auto.163.com/series/16792.html#NS1012">纳智捷优6 SU</a><span class="more right">12.88 - 20.08(万元)</span>
+                                <span class="follow ranknum">8</span><a href="http://product.auto.163.com/series/2215.html#NS1012">速腾</a><span class="more right">13.18 - 18.58(万元)</span>
                             </li>
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </ul>
                     </div>
@@ -2515,11 +2513,11 @@ body { padding-top:39px;}
                                                                                                                                             <li class="">
                                 <span class="front ranknum">3</span><a href="http://product.auto.163.com/series/3147.html#NS1014">途观</a><span class="more right">19.98 - 31.58(万元)</span></li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">4</span><a href="http://product.auto.163.com/series/17286.html#NS1014">创酷</a><span class="more right">11.99 - 15.99(万元)</span></li>
+                                <span class="follow ranknum">4</span><a href="http://product.auto.163.com/series/16792.html#NS1014">纳智捷优6 SU</a><span class="more right">12.88 - 20.08(万元)</span></li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">5</span><a href="http://product.auto.163.com/series/15101.html#NS1014">哈弗H6</a><span class="more right">11.28 - 16.28(万元)</span></li>
+                                <span class="follow ranknum">5</span><a href="http://product.auto.163.com/series/17286.html#NS1014">创酷</a><span class="more right">11.99 - 15.99(万元)</span></li>
                                                                                                                                             <li class="">
-                                <span class="follow ranknum">6</span><a href="http://product.auto.163.com/series/16792.html#NS1014">纳智捷优6 SU</a><span class="more right">12.88 - 20.08(万元)</span></li>
+                                <span class="follow ranknum">6</span><a href="http://product.auto.163.com/series/15101.html#NS1014">哈弗H6</a><span class="more right">11.28 - 16.28(万元)</span></li>
                                                                                                                                             <li class="">
                                 <span class="follow ranknum">7</span><a href="http://product.auto.163.com/series/16710.html#NS1014">翼虎</a><span class="more right">19.38 - 27.58(万元)</span></li>
                                                                                                                                             <li class="last">
@@ -2561,13 +2559,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://gz.house.163.com/14/0607/09/9U4J5MGI00873C6D.html">穗大波"白菜价"楼盘来袭</a> <a target="_blank" href="http://gz.house.163.com/14/0607/09/9U4HRG7400873C6D.html">郊区白热化促销</a></h3>
+                                                            <h3 class="bigsize"><a href="http://gz.house.163.com/14/0608/08/9U73I3TN00873C6D.html">广州二手交易量陷6年来最低 遭新房降价抢单</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://gz.house.163.com/14/0607/08/9U4GUR3400873C6D.html">银监会支持首套房贷</a> <a target="_blank" href="http://gz.house.163.com/14/0607/08/9U4GH02400873C6D.html">关注房企资金断裂风险</a></li>
-                                                                        <li><a href="http://gz.house.163.com/14/0607/09/9U4IOL5Q00873C6D.html">广州11条地铁线开建</a> <a target="_blank" href="http://gz.house.163.com/14/0607/08/9U4GRRPV00873C6D.html">青岛668套小产权房转正</a></li>
-                                                                        <li><a href="http://gz.house.163.com/14/0607/09/9U4IFUAO00873C6D.html"><em class="fB">天河出现“床位出租公寓” 80平米挤18人(图)</em></a></li>
-                                                                        <li><a href="http://gz.house.163.com/14/0604/11/9TT2FOHA0087482R.html">投资"潜力股" 品牌房企写字楼2.8万抵10万</a></li>
-                                                                        <li><a href="http://gz.house.163.com/photonew/5F2L0087/56699.html">澳洲买房投资中国人排第一 揭秘当地学位房</a></li>
+                                                                                                <li><a href="http://gz.house.163.com/14/0608/08/9U72DCT300873C6D.html">银监会大力支持首套房贷 过去五年都没用过这词</a></li>
+                                                                        <li><a href="http://gz.house.163.com/14/0608/08/9U733KDA00873C6D.html">英国楼市暴涨引过热担忧 升至近六年最高水平</a></li>
+                                                                        <li><a href="http://gz.house.163.com/14/0608/08/9U7297D300873C6D.html"><em class="fB">温州豪宅降价6万 房产商低价售楼只为全身而退</em></a></li>
+                                                                        <li><a href="http://gz.house.163.com/14/0605/16/9U08C23C0087482R.html">降价楼盘如昙花一现 限时限量难倒抄底买家</a></li>
+                                                                        <li><a href="http://gz.house.163.com/14/0605/11/9TVKDR140087482R.html">住市区1房不如买郊区别墅 百万起享健康人生</a></li>
                                             </ul>
                     <span class="blank20"></span><span class="blank20"></span>
                 </div>
@@ -2580,8 +2578,8 @@ body { padding-top:39px;}
                 <div class="title-bar ui-til4"></div>
                 <div class="mod-imgText imgList-widget-1  clearfix">
                     <ul>
-                                                                           <li class="first"><a href="http://gz.house.163.com/photonew/0HKF0087/56695.html#p=9TR1842P0HKF0087"><img width="100" height="70" src="http://img3.cache.netease.com/house/2014/6/5/20140605085813a2b0f.jpg" title="广东开发商强拆百年古桥被刑拘" alt="广东开发商强拆百年古桥被刑拘"></a>
-                            <p><a href="http://gz.house.163.com/photonew/0HKF0087/56695.html#p=9TR1842P0HKF0087">广东开发商强拆百年古桥被刑拘</a></p>
+                                                                           <li class="first"><a href="http://gz.house.163.com/photonew/0HKF0087/56687.html?1401756071896#p=9TQ70RBM0HKF0087"><img width="100" height="70" src="http://img2.cache.netease.com/house/2014/6/3/20140603084814e5f43.jpg" title="地产大佬第一份工作:当兵工人都有" alt="地产大佬第一份工作:当兵工人都有"></a>
+                            <p><a href="http://gz.house.163.com/photonew/0HKF0087/56687.html?1401756071896#p=9TQ70RBM0HKF0087">地产大佬第一份工作:当兵工人都有</a></p>
                         </li>
                                                                            <li><a href="http://bbs.gz.house.163.com/photoalbum/showing/352769766.html"><img width="100" height="70" src="http://img6.cache.netease.com/house/2013/9/17/2013091714334486454.jpg" title="废弃的公园似鬼城" alt="废弃的公园似鬼城"></a>
                             <p><a href="http://bbs.gz.house.163.com/photoalbum/showing/352769766.html">废弃的公园似鬼城</a></p>
@@ -2671,11 +2669,11 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://bj.house.163.com/14/0607/04/9U442LOC00073SD3.html">拿地3年只挖了一个坑 崇文门"地王"涉嫌囤地</a></h3>
+                                                            <h3 class="bigsize"><a href="http://bj.house.163.com/14/0608/08/9U72US7900073SD3.html">北京公布自住房摇号规则 中签后可弃选弃购</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://bj.house.163.com/14/0607/04/9U425KG900073SD3.html">北京楼市供销比逆转</a> <a target="_blank" href="http://bj.house.163.com/14/0607/00/9U3K793600073SD3.html">厦门救市陷两难困境</a></li>
-                                                                        <li><a href="http://bj.house.163.com/14/0607/05/9U47AP5G00073SD3.html">马光远：房地产与中国货币政策的囚徒困境</a></li>
-                                                                        <li><a href="http://bj.house.163.com/14/0607/04/9U442LRJ00073SD3.html"><em class="fB">负债率提高4倍 首创遭遇奥特莱斯“滑铁卢”</em></a></li>
+                                                                                                <li><a href="http://bj.house.163.com/14/0608/08/9U72US8800073SD3.html">高考状元房两天超万元成噱头:简陋宾馆涨近百元</a></li>
+                                                                        <li><a href="http://bj.house.163.com/14/0608/07/9U70N36100073SD3.html">温州豪宅楼盘每平米降6万 开发商降价求全身而退</a></li>
+                                                                        <li><a href="http://bj.house.163.com/14/0608/07/9U70HDMV00073SD3.html"><em class="fB">融创收购绿城 宋卫平：交权是对以往错误的弥补</em></a></li>
                                                                         <li><a href="http://bj.house.163.com/14/0607/00/9U3IVTJL000747K1.html">毕业就买房！给学姐挑房 精装小户型75万/套起</a></li>
                                                                         <li><a href="http://bbs.bj.house.163.com/bbs/yzsbs/414648426.html">单身女房奴生活心酸</a> <a target="_blank" href="http://bbs.bj.house.163.com/bbs/yzsbs/414771278.html">通州提升幼升小门槛赶外地人</a></li>
                                             </ul>
@@ -2794,13 +2792,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://sh.house.163.com/14/0607/05/9U44VKE300073SDJ.html">上海市公租房租赁即日起实行“一房一价”</a></h3>
+                                                            <h3 class="bigsize"><a href="http://sh.house.163.com/14/0608/08/9U72SK2100073SDJ.html">沪楼市现“诡异”抛售形式 房主要求现金交易</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://sh.house.163.com/14/0607/00/9U3JKHLF00073SDJ.html">银监会：关注资金断裂风险 大力支持首套房贷</a></li>
-                                                                        <li><a href="http://sh.house.163.com/14/0607/08/9U4GEHF700073SDJ.html">营改增迅速推进 专家：房产税应当先行</a></li>
-                                                                        <li><a href="http://sh.house.163.com/14/0607/05/9U46MLGA00073SDJ.html"><em class="fB">官员财产申报逐步扩围 或与不动产登记信息共享</em></a></li>
-                                                                        <li><a href="http://sh.house.163.com/14/0607/01/9U3MV1NQ00073SDJ.html">杭州最亏项目压力山大 中华企业计提跌1.1亿</a></li>
-                                                                        <li><a href="http://sh.house.163.com/14/0607/01/9U3PH9V800073SDJ.html">自住房摇号规则公布 摇取家庭不低于房源量2倍</a></li>
+                                                                                                <li><a href="http://sh.house.163.com/14/0608/09/9U75HK9J00073SDJ.html">建静安跨国金融功能区 相关“金融20条”发布</a></li>
+                                                                        <li><a href="http://sh.house.163.com/14/0608/08/9U73VF5N00073SDJ.html">外媒称中国商业地产泡沫大：购物中心建得太多</a></li>
+                                                                        <li><a href="http://sh.house.163.com/14/0608/08/9U73OT9F00073SDJ.html"><em class="fB">秦虹：房价涨势放缓对整个行业健康发展有利</em></a></li>
+                                                                        <li><a href="http://sh.house.163.com/14/0608/08/9U72B0I400073SDJ.html">媒体称楼市黑云压城 假摔与真摔取决于资金链</a></li>
+                                                                        <li><a href="http://sh.house.163.com/14/0608/08/9U723IHP00073SDJ.html">现行制度无益改善住房条件 公积金贴补首付无望</a></li>
                                             </ul>
                     <span class="blank20"></span><span class="blank20"></span>
                 </div>
@@ -2842,11 +2840,11 @@ body { padding-top:39px;}
                     <div id="row5-tabboxer" class="tab-bd display-control">
                         <div class="tab-con current">
                             <ul class="rankList clearfix">
-                                                                                                                                                                <li class=""><span class="front ranknum">1</span><a href="http://xf.house.163.com/sh/0RKN.html">湖畔天下</a><span class="more right">嘉定</span> <span class="cLGray right">|</span> <span class="more right">31 套/周</span></li>
-                                                                                                                                <li class=""><span class="front ranknum">2</span><a href="http://xf.house.163.com/sh/0SAU.html">绿地海域笙晖</a><span class="more right">宝山</span> <span class="cLGray right">|</span> <span class="more right">24 套/周</span></li>
-                                                                                                                                <li class=""><span class="front ranknum">3</span><a href="http://xf.house.163.com/sh/0QAW.html">丝庐雅苑</a><span class="more right">浦东</span> <span class="cLGray right">|</span> <span class="more right">23 套/周</span></li>
-                                                                                                                                <li class=""><span class="follow ranknum">4</span><a href="http://xf.house.163.com/sh/0DLT.html">万科金色城市</a><span class="more right">浦东</span> <span class="cLGray right">|</span> <span class="more right">17 套/周</span></li>
-                                                                                                                                <li class="last"><span class="follow ranknum">5</span><a href="http://xf.house.163.com/sh/0DcG.html">凤凰城</a><span class="more right">闵行</span> <span class="cLGray right">|</span> <span class="more right">14 套/周</span></li>
+                                                                                                                                                                <li class=""><span class="front ranknum">1</span><a href="http://xf.house.163.com/sh/0SAU.html">绿地海域笙晖</a><span class="more right">宝山</span> <span class="cLGray right">|</span> <span class="more right">38 套/周</span></li>
+                                                                                                                                <li class=""><span class="front ranknum">2</span><a href="http://xf.house.163.com/sh/0RKN.html">湖畔天下</a><span class="more right">嘉定</span> <span class="cLGray right">|</span> <span class="more right">23 套/周</span></li>
+                                                                                                                                <li class=""><span class="front ranknum">3</span><a href="http://xf.house.163.com/sh/0DcG.html">凤凰城</a><span class="more right">闵行</span> <span class="cLGray right">|</span> <span class="more right">22 套/周</span></li>
+                                                                                                                                <li class=""><span class="follow ranknum">4</span><a href="http://xf.house.163.com/sh/0DcP.html">万源城朗郡</a><span class="more right">闵行</span> <span class="cLGray right">|</span> <span class="more right">21 套/周</span></li>
+                                                                                                                                <li class="last"><span class="follow ranknum">5</span><a href="http://xf.house.163.com/sh/0EIC.html">安亭新镇</a><span class="more right">嘉定</span> <span class="cLGray right">|</span> <span class="more right">21 套/周</span></li>
                                                             </ul>
                         </div>
                         <div class="tab-con ">
@@ -2888,13 +2886,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://sz.house.163.com/14/0607/08/9U4FJA1300073T3P.html">广东豪宅断供现象抬头 不良贷款率在上升</a></h3>
+                                                            <h3 class="bigsize"><a href="http://sz.house.163.com/14/0608/08/9U72CAQM00073T3P.html">重阳投资总裁王庆：房地产已丧失投资价值</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://sz.house.163.com/photonew/2AJR0007/147055.html">一周房产新闻：广州CBD“床位房”男女混住</a></li>
-                                                                        <li><a href="http://sz.house.163.com/14/0607/08/9U4F5K8400073T3P.html">深建工署原副署长受贿2审 称家有老小望从轻</a></li>
-                                                                        <li><a href="http://sz.house.163.com/14/0607/08/9U4ERG5000074KCM.html"><em class="fB">银监会改口 楼市要反弹?</a> <a target="_blank" href="http://sz.house.163.com/14/0607/08/9U4G70A900073T3P.html">渣打：会跌50%以上</em></a></li>
-                                                                        <li><a href="http://sz.house.163.com/14/0607/08/9U4FLQBQ00073T3P.html">地王困局：拿不到销售证 成本一天一辆宝马3</a></li>
-                                                                        <li><a href="http://sz.house.163.com/photonew/2AJR0007/146987.html">深圳"官员名流村年"开拆 海砂房寿命仅25年</a></li>
+                                                                                                <li><a href="http://sz.house.163.com/14/0608/08/9U742D1Q00073T3P.html">媒体称楼市黑云压城 假摔与真摔取决于资金链</a></li>
+                                                                        <li><a href="http://sz.house.163.com/14/0608/08/9U73HIHI00073T3P.html">楼市新信号：银监会表态大力支持首套房贷</a></li>
+                                                                        <li><a href="http://sz.house.163.com/14/0608/08/9U729RTD00073T3P.html"><em class="fB">多地住房公积金闹"钱荒" 部分城市现挤提风潮</em></a></li>
+                                                                        <li><a href="http://sz.house.163.com/14/0608/08/9U73IT7500073T3P.html">温州豪宅6折拍卖无人买 开发商降价求全身而退</a></li>
+                                                                        <li><a href="http://sz.house.163.com/14/0608/08/9U72AQ5F00073T3P.html">青岛668套小产权房转正特例 幕后操手逼退万科</a></li>
                                             </ul>
                     <span class="blank20"></span><span class="blank20"></span>
                 </div>
@@ -3072,13 +3070,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://tech.163.com/14/0607/09/9U4JHKH2000915BF.html">网友称小米手机扫银行卡可读取交易记录</a></h3>
+                                                            <h3 class="bigsize"><a href="http://tech.163.com/14/0608/12/9U7FVR4C000915BF.html">余额宝上线一年，改变了什么</a> <a target="_blank" href="http://tech.163.com/14/0608/12/9U7FJ9E2000915BF.html">银行会怎样</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://tech.163.com/14/0607/09/9U4L5SVU000915BF.html">江苏捣毁大型幼童色情网站 会员达9万多人</a></li>
-                                                                        <li><a href="http://tech.163.com/14/0607/09/9U4JA2D4000915BD.html">库克视察工厂照片显示苹果电脑运行Windows</a></li>
-                                                                        <li><a href="http://tech.163.com/14/0607/05/9U46FK0R00094ODU.html"><em class="fB">Uber获12亿美元融资</a> <a target="_blank" href="http://tech.163.com/14/0607/10/9U4LJNLG000915BF.html">评:似Groupon昙花一现</em></a></li>
+                                                                                                <li><a href="http://tech.163.com/14/0608/10/9U7AO2D8000915BE.html">每秒50兆，美国用激光束从太空传回高清视频</a></li>
+                                                                        <li><a href="http://tech.163.com/14/0608/07/9U6TQKD800094ODV.html">iPhone在墨输官司 合作伙伴或赔偿10亿美元</a></li>
+                                                                        <li><a href="http://tech.163.com/14/0607/09/9U4JA2D4000915BD.html"><em class="fB">库克视察工厂照片显示苹果电脑运行Windows</em></a></li>
+                                                                        <li><a href="http://tech.163.com/14/0607/05/9U46FK0R00094ODU.html">Uber获12亿美元融资</a> <a target="_blank" href="http://tech.163.com/14/0607/10/9U4LJNLG000915BF.html">评:似Groupon昙花一现</a></li>
                                                                         <li><a href="http://tech.163.com/14/0606/21/9U3970C400094ODU.html">苹果iWatch或10月发 搭配曲面OLED触屏</a></li>
-                                                                        <li><a href="http://tech.163.com/14/0606/08/9U1SLCIP000915BF.html">QQ大盗疯狂作案：5个月盗400多万个QQ号</a></li>
                                             </ul>
                 </div>
             </div>
@@ -3169,13 +3167,13 @@ body { padding-top:39px;}
                         <a  href="http://digi.163.com/quotation/">行情</a>
                     </span></div>
                 <div class="mod-list main-list news-date-list ">
-                                                            <h3 class="bigsize"><a href="http://digi.163.com/14/0607/09/9U4JCV4200162Q5T.html">考场战争：高考作弊/反作弊工具盘点</a></h3>
+                                                            <h3 class="bigsize"><a href="http://digi.163.com/14/0608/09/9U774LQ100162Q5T.html">值得升级！iOS 8 VS iOS 7高清组图</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://digi.163.com/14/0607/09/9U4K4OH100162Q5T.html">这就是NVIDIA第二代SHIELD掌机？</a></li>
-                                                                        <li><a href="http://digi.163.com/14/0607/09/9U4J6NQQ00162Q5T.html">5分钟看尽苹果iOS的8年进化</a></li>
-                                                                        <li><a href="http://digi.163.com/14/0607/09/9U4IUHGF00162Q5T.html"><em class="fB">基本确认！苹果iWatch具体发布时间曝光</em></a></li>
-                                                                        <li><a href="http://digi.163.com/14/0606/20/9U357KE800162OUT.html">微软小冰确认将和小米米聊合作</a></li>
-                                                                        <li><a href="http://digi.163.com/14/0606/07/9U1P2NPP00162OUT.html">Xbox One手柄官方Windows驱动放出</a></li>
+                                                                                                <li><a href="http://digi.163.com/14/0608/09/9U77ID1U00162Q5T.html">索尼重回游戏机全球销量No.1</a></li>
+                                                                        <li><a href="http://digi.163.com/14/0608/09/9U77F4UT00162Q5T.html">Windows XP有多坚挺？数据让你大吃一惊</a></li>
+                                                                        <li><a href="http://digi.163.com/14/0608/09/9U7791KE00162Q5T.html"><em class="fB">尼康：6月9日将会有“大事”发生</em></a></li>
+                                                                        <li><a href="http://digi.163.com/14/0608/09/9U777B1O00162Q5T.html">IC芯片银行卡存惊天隐患：没秘密了</a></li>
+                                                                        <li><a href="http://digi.163.com/14/0608/09/9U770OP000162Q5T.html">国行Xbox One露脸：界面中文化！</a></li>
                                             </ul>
                 </div>
             </div>
@@ -3359,7 +3357,7 @@ body { padding-top:39px;}
                          <a  href="http://bbs.lady.163.com/">生活</a>
                     </span></div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://lady.163.com/special/sense/2014616kuailejie05.html">当个快乐的小摊主 不羡鸳鸯不羡仙</a></h3>
+                                                            <h3 class="bigsize"><a href="http://lady.163.com/special/sense/2014616kuailejie04.html">DJ麦麦：不做富二代，要做"乐二代"</a></h3>
                                         <ul class="mod-list main-list">
                                                                         <li><a href="http://lady.163.com/14/0606/00/9U11JL2F002649P6.html">爱他们的时候我们像条狗</a> <a target="_blank" href="http://lady.163.com/14/0605/17/9U0ADJNB00264IKE.html   ">活是你的 钱是我的</a></li>
                                                 <li><a href="http://lady.163.com/14/0606/00/9U11BRV9002649P6.html">高圆圆北京领证 姐弟恋成王道</a> <a target="_blank" href="http://lady.163.com/14/0605/18/9U0DL1NA00264IIU.html ">男闺蜜度在哪?</a></li>
@@ -3378,17 +3376,17 @@ body { padding-top:39px;}
                 <div class="widget-slide widget-slide-1">
                     <div class="widget-slide-body"  >
                         <ul class="imgList-widget-4  clearfix">
-                                                                                                                                               <li class=""><a href="http://lady.163.com/photoview/4CJ80026/66772.html"><img width="220" height="150" src="http://img4.cache.netease.com/lady/2014/6/5/20140605075733634e3.jpg" title="长泽雅美的蜕变路" alt="长泽雅美的蜕变路"></a>
-                                <a class="img-bg" href="http://lady.163.com/photoview/4CJ80026/66772.html"></a>
-                                <p><a href="http://lady.163.com/photoview/4CJ80026/66772.html">长泽雅美的蜕变路</a></p>
+                                                                                                                                               <li class=""><a href="http://lady.163.com/14/0602/17/9TOJ3A1G00264IIU.html"><img width="220" height="150" src="http://img3.cache.netease.com/lady/2014/6/8/2014060809122252873.jpg" title="明星自杀原因大揭秘" alt="明星自杀原因大揭秘"></a>
+                                <a class="img-bg" href="http://lady.163.com/14/0602/17/9TOJ3A1G00264IIU.html"></a>
+                                <p><a href="http://lady.163.com/14/0602/17/9TOJ3A1G00264IIU.html">明星自杀原因大揭秘</a></p>
                             </li>
-                                                                                                                   <li class=""><a href="http://lady.163.com/photoview/4CJ80026/66768.html"><img width="220" height="150" src="http://img4.cache.netease.com/lady/2014/6/4/2014060407481481a2e.jpg" title="成龙电影中的男二超迷人" alt="成龙电影中的男二超迷人"></a>
-                                <a class="img-bg" href="http://lady.163.com/photoview/4CJ80026/66768.html"></a>
-                                <p><a href="http://lady.163.com/photoview/4CJ80026/66768.html">成龙电影中的男二超迷人</a></p>
+                                                                                                                   <li class=""><a href="http://fashion.163.com/photoview/25A20026/66679.html"><img width="220" height="150" src="http://img2.cache.netease.com/lady/2014/6/8/20140608090909d910d.jpg" title="明星和替身合照超神似" alt="明星和替身合照超神似"></a>
+                                <a class="img-bg" href="http://fashion.163.com/photoview/25A20026/66679.html"></a>
+                                <p><a href="http://fashion.163.com/photoview/25A20026/66679.html">明星和替身合照超神似</a></p>
                             </li>
-                                                                                                                   <li class="last"><a href="http://fashion.163.com/photoview/43AJ0026/66742.html"><img width="220" height="150" src="http://img3.cache.netease.com/lady/2014/6/4/2014060407461553397.jpg" title="李小璐凹凸身形一览无余" alt="李小璐凹凸身形一览无余"></a>
-                                <a class="img-bg" href="http://fashion.163.com/photoview/43AJ0026/66742.html"></a>
-                                <p><a href="http://fashion.163.com/photoview/43AJ0026/66742.html">李小璐凹凸身形一览无余</a></p>
+                                                                                                                   <li class="last"><a href="http://lady.163.com//14/0603/22/9TRLQ2S300264IIU.html"><img width="220" height="150" src="http://img4.cache.netease.com/lady/2014/6/8/20140608091408b99b6.jpg" title="优雅老去的韩国纯天然美女" alt="优雅老去的韩国纯天然美女"></a>
+                                <a class="img-bg" href="http://lady.163.com//14/0603/22/9TRLQ2S300264IIU.html"></a>
+                                <p><a href="http://lady.163.com//14/0603/22/9TRLQ2S300264IIU.html">优雅老去的韩国纯天然美女</a></p>
                             </li>
                                                      </ul>
                     </div>
@@ -3486,11 +3484,11 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://fashion.163.com/special/lvautomobilecollaborations/">LV与汽车那些事儿</a> <a target="_blank" href="http://fashion.163.com/special/daigouzhisan/">奢牌全球联保难实现</a></h3>
+                                                            <h3 class="bigsize"><a href="http://fashion.163.com/special/yss/">有种美叫"不太尖锐"</a> <a target="_blank" href="http://lady.163.com/special/calorie/">高热量零食排行榜</a></h3>
                                         <ul class="mod-list main-list">
                                                                         <li><a href="http://fashion.163.com/14/0605/17/9U0B495G00264NBB.html">Gaga舞台上当众裸体换装</a> <a target="_blank" href="http://fashion.163.com/14/0605/16/9U0599P300264MAE.html ">清凉透视装火热来袭</a></li>
                                                 <li><a href="http://fashion.163.com/14/0605/16/9U07G2GE00264M5O.html">真新鲜！LV推出旅行指南</a> <a target="_blank" href="http://fashion.163.com/photoview/43AJ0026/66870.html">赵又廷街拍俘获女神</a></li>
-                                                                        <li><a href="http://fashion.163.com/special/daigouzhisan/"><em class="fB">奢牌全球联保难实现海外代购售后成难题</em></a></li>
+                                                                        <li><a href="http://fashion.163.com/special/lvautomobilecollaborations/"><em class="fB">LV与汽车那些事儿</a> <a target="_blank" href="http://fashion.163.com/special/daigouzhisan/">奢牌全球联保难实现</em></a></li>
                                                                         <li><a href="http://lady.163.com/14/0605/10/9TVJH0RF00264NNF.html">王菲素颜显苍老</a> <a target="_blank" href="http://lady.163.com/14/0604/18/9TTPKI7L00264NMR.html">韩国专家支招整容后如何化妆</a></li>
                                                 <li><a href="http://lady.163.com/14/0605/12/9TVO91V500264IJ2.html">范冰冰SPA照撞脸甄嬛娘娘</a> <a target="_blank" href="http://lady.163.com/photoview/4CJ80026/66866.html">杨幂出院身材依旧</a></li>
                                             </ul>
@@ -3631,13 +3629,13 @@ body { padding-top:39px;}
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://yuedu.163.com/source/cd8484d03ab54b7ab321b099d413eb6d_4">严歌苓作品全系列</a> <a target="_blank" href="http://yuedu.163.com/source/168e87516c6649f6af05ff2a30456526_4">地球进化史</a> <a target="_blank" href="http://yuedu.163.com/source/fd56d4a250514d9790efed0d32ba9cb7_4">大唐泥犁狱</a></h3>
+                                                            <h3 class="bigsize"><a href="http://yuedu.163.com/source/19a3c09b4ca34e1f8b9abdb1b6049e22_4">走夜路放声歌唱</a> <a target="_blank" href="http://yuedu.163.com/source/23f7fe43de414e10b3622d68331bfcb9_4">最穷小伙发财记</a> <a target="_blank" href="http://yuedu.163.com/source/874c1a05c93a443aaf0bb7349891320a_4">这才是马云</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://yuedu.163.com/source/687f2deed2d9458c97a2814de392c7a5_4">高盛帝国</a> <a target="_blank" href="http://yuedu.163.com/source/f0693fe15d4d4fc098f2a3ca95558268_4">消失的爱人</a> <a target="_blank" href="http://yuedu.163.com/source/0504a4e94a154830971d9c833b616133_4">与故土一拍两散</a> <a target="_blank" href="http://yuedu.163.com/source/a41a982120ee42ee94b570db0d4069ca_4">免费</a> <a target="_blank" href="http://yuedu.163.com/source/47aecf4901f84f8a871758b9e69c0947_4">癌症传</a></li>
-                                                                        <li><a href="http://yuedu.163.com/source/d130e25d073a4ea8b867e210a0e74ea6_4">蒙古帝国</a> <a target="_blank" href="http://yuedu.163.com/source/16b897bf544647af853ceb9df0ce2d2a_4">爱情万岁</a> <a target="_blank" href="http://yuedu.163.com/source/ace340624d6645b5b135bfe26c374192_4">王安忆：三恋</a> <a target="_blank" href="http://yuedu.163.com/source/fb86ddc5d0464e4bad9aa581624fb20c_4">好孕连连</a> <a target="_blank" href="http://yuedu.163.com/source/137654be229e4e6d924449c42bd20c09_4">佛痒痒</a></li>
-                                                                        <li><a href="http://yuedu.163.com/source/fe1d8bbb8cb049b8927747e0f6835291_4"><em class="fB">市委班子</a> <a target="_blank" href="http://yuedu.163.com/source/3c026806a3c9473194bbc1ced84a1e22_4">平常日子</a> <a target="_blank" href="http://yuedu.163.com/source/7db079c3608c4f21a409a7d818e562e7_4">一号人物</a> <a target="_blank" href="http://yuedu.163.com/source/0e29a763023d45c8837e55f3fa9db275_4">所罗门王的宝藏</a> <a target="_blank" href="http://yuedu.163.com/source/848c7eb7e0104bb09eb00cdc92511127_4">后院</em></a></li>
-                                                                        <li><a href="http://yuedu.163.com/source/1acbee241bbc46bba7e66b7451047875_4">鬼吹灯</a> <a target="_blank" href="http://yuedu.163.com/source/3169586573de4096934f012969b5fcea_4">给我一支烟</a> <a target="_blank" href="http://yuedu.163.com/source/b1da162f6c2e4da992660403a27875ac_4">不想做空姐</a> <a target="_blank" href="http://yuedu.163.com/source/9ccce530c7bd4764ba9416e41f320b87_4">异事录</a> <a target="_blank" href="http://yuedu.163.com/source/8aec579d4231427f9e9c4989a5d1cd1d_4">相亲十年</a></li>
-                                                                        <li><a href="http://yuedu.163.com/source/13b96790133b47279afe578c4793ce85_4">暴富传奇</a> <a target="_blank" href="http://yuedu.163.com/source/b0d64988f42c4bd1a4ae7dcc229cf61a_4">掌眼大亨</a> <a target="_blank" href="http://yuedu.163.com/source/739d57d39bb64f20a9082cf4c533d36a_4">特种兵王</a> <a target="_blank" href="http://yuedu.163.com/source/da3ea1ecc25a48a3ada68e8b0ab33e84_4">欲望传奇</a> <a target="_blank" href="http://yuedu.163.com/source/81af7256f2694e10b8889d3742d031bd_4">温州情事</a></li>
+                                                                                                <li><a href="http://yuedu.163.com/source/98bf41f281704778885f9cf43f8d1254_4">帝国最后的荣耀</a> <a target="_blank" href="http://yuedu.163.com/source/eaac5b8a2a3f4c119d21db94b09b17b9_4">那些有钱的年轻人</a> <a target="_blank" href="http://yuedu.163.com/source/85217cdaa66048f29731ee71ebdfe722_4">中国奇异档案记录</a></li>
+                                                                        <li><a href="http://yuedu.163.com/source/9d35e625ef874643a717671ae4b7e2fa_4">红楼梦中养生秘密</a> <a target="_blank" href="http://yuedu.163.com/source/9242db37ede948bf986ca40e0fd9bee0_4">星云大师的人生哲学课</a> <a target="_blank" href="http://yuedu.163.com/source/5e24a13e333140ed8c3154cdf5c46aa4_4">说话的艺术</a></li>
+                                                                        <li><a href="http://yuedu.163.com/source/949f436479454f9eb66150824996a3f2_4"><em class="fB">超越巴菲特的投资艺术</a> <a target="_blank" href="http://yuedu.163.com/source/80f9286e605744ae9d33672b53780f0e_4">女人如何掌控自己</a> <a target="_blank" href="http://yuedu.163.com/source/e7d1f7b90cd046158272ae68fa494ce7_4">一本万利</em></a></li>
+                                                                        <li><a href="http://yuedu.163.com/source/9f96ea5f12f14d00ba6640ad762b9965_4">快乐者创造奇迹</a> <a target="_blank" href="http://yuedu.163.com/source/5d366bce55fd4d3a8c00b9a9df655bb3_4">世界上最伟大的谈判家</a> <a target="_blank" href="http://yuedu.163.com/source/4e88ac44fc22440b88f1aa42e3d6c3a1_4">中国式同居</a></li>
+                                                                        <li><a href="http://yuedu.163.com/source/6952025815084258bec4a9d6794ae470_4">你决定孩子的一生</a> <a target="_blank" href="http://yuedu.163.com/source/c7c7ceed42884cf1804f877e9695b6b7_4">达·芬奇笔记</a> <a target="_blank" href="http://yuedu.163.com/source/5aa0e92ced3742aeae17bd0a24576eef_4">夕阳下的星条旗</a></li>
                                             </ul>
                 </div>
             </div>
@@ -3649,17 +3647,17 @@ body { padding-top:39px;}
                 <div class="title-bar ui-til4"><h2><a href="http://book.163.com/">图书推荐</a></h2></div>
                 <div class="mod-imgText imgList-widget-1 clearfix">
                     <ul>
-                                                                                                                           <li class="first"><a href="http://yuedu.163.com/book_reader/b230e40a7d114872b9afc90c00ae34fe_4/4d1db1b6f7224ebf91d40fdec3500224"><img width="100" height="70" src="http://img1.cache.netease.com/book/2014/5/6/20140506110931e2f49.jpg" title="两性性科普：枪与玫瑰的使用方法" alt="两性性科普：枪与玫瑰的使用方法"></a>
-                            <p><a href="http://yuedu.163.com/book_reader/b230e40a7d114872b9afc90c00ae34fe_4/4d1db1b6f7224ebf91d40fdec3500224">两性性科普：枪与玫瑰的使用方法</a></p>
+                                                                                                                           <li class="first"><a href="http://yuedu.163.com/source/309b87c0079d46559f67edff4f71cc1c_4"><img width="100" height="70" src="http://img2.cache.netease.com/book/2014/4/1/20140401101600da88f.jpg" title="别相信男人：如何看清男人真面目" alt="别相信男人：如何看清男人真面目"></a>
+                            <p><a href="http://yuedu.163.com/source/309b87c0079d46559f67edff4f71cc1c_4">别相信男人：如何看清男人真面目</a></p>
                         </li>
-                                                                                                   <li class=""><a href="http://yuedu.163.com/source/f6884dd01ab44c558e9117534260b963_4"><img width="100" height="70" src="http://img6.cache.netease.com/book/2014/1/29/2014012910093033740.jpg" title="苏麻喇姑：清宫侍女的励志传奇" alt="苏麻喇姑：清宫侍女的励志传奇"></a>
-                            <p><a href="http://yuedu.163.com/source/f6884dd01ab44c558e9117534260b963_4">苏麻喇姑：清宫侍女的励志传奇</a></p>
+                                                                                                   <li class=""><a href="http://yuedu.163.com/source/b515fe539d1f448ca0e83390de342fc8_4"><img width="100" height="70" src="http://img6.cache.netease.com/book/2014/4/1/201404011020330df47.jpg" title="女人受益一生的36堂心计课" alt="女人受益一生的36堂心计课"></a>
+                            <p><a href="http://yuedu.163.com/source/b515fe539d1f448ca0e83390de342fc8_4">女人受益一生的36堂心计课</a></p>
                         </li>
                                             </ul>
                 </div>
                 <ul class="mod-list sub-list">
-                                                            <li><a href="http://yuedu.163.com/source/fbf3dd2676ca434e882ae7c407a2d3d7_4">[人物] 法网冠军李娜自传：独自上场</a></li>
-                                        <li><a href="http://yuedu.163.com/source/e63750806041488f8f123d543648d95f_4">[人物] 蒋介石与现代中国的浮沉故事</a></li>
+                                                            <li><a href="http://yuedu.163.com/source/b970083dec8e47dcb22239437f9567c4_4">[畅销] 缔造帝国经济的50位巨人</a></li>
+                                        <li><a href="http://yuedu.163.com/source/17534aa00669482bb99cf6341185793f_4">[畅销] 冯唐：十八岁给我一个姑娘</a></li>
                                     </ul>
             </div>
         </div>
@@ -3704,13 +3702,13 @@ body { padding-top:39px;}
                         <a  href="http://edu.163.com/en/">外语</a>
                     </span></div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://edu.163.com/special/2014gaokao/">高考:</a> <a target="_blank" href="http://edu.163.com/special/zuowen2014/">作文汇总</a> <a target="_blank" href="http://edu.163.com/14/0607/11/9U4R647O00294JE9.html">北京</a> <a target="_blank" href="http://edu.163.com/14/0607/11/9U4QKO9800294JE9.html">江苏</a> <a target="_blank" href="http://edu.163.com/14/0607/11/9U4Q963E00294JE9.html ">广东</a> <a target="_blank" href="http://edu.163.com/14/0607/11/9U4S2RUP00294JE9.html">山东</a></h3>
+                                                            <h3 class="bigsize"><a href="http://edu.163.com/14/0608/11/9U7CQRQ400294MBA.html">外媒:高考让中国手忙脚乱 多不认可禁令</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://edu.163.com/photoview/5NUO0029/13716.html#p=9TVEPJCQ5NUO0029"><em class=' I_N_G_'>各路菩萨保佑我娃高考</em></a> <a target="_blank" href="http://edu.163.com/14/0607/08/9U4G39KH00294JFQ.html ">家长沿街烧纸跪拜</a></li>
-                                                                        <li><a href="http://edu.163.com/14/0607/08/9U4HA65V00294MBA.html">高三学生突发气胸 决定冒险参加高考不做手术</a></li>
-                                                                        <li><a href="http://edu.163.com/14/0606/09/9U22GOHP00294IIH.html"><em class="fB">南方中学女学霸高中没毕业 7月赴新加坡留学</em></a></li>
-                                                                        <li><a href="http://daxue.163.com/14/0606/09/9U21R3IR00913J5O.html">女大学生"包养门"升级 数名女孩称被拍裸照</a></li>
-                                                                        <li><a href="http://edu.163.com/14/0606/11/9U277SPN00294IIK.html"><em class=' I_N_G_'>俄小学生坐装甲战车遛弯</em></a> <a target="_blank" href="http://edu.163.com/14/0606/17/9U2RHRUH00294IIK.html">美国人爱"伪中餐"</a></li>
+                                                                                                <li><a href="http://edu.163.com/14/0608/10/9U79EBTB00294JD0.html">[高考最选择]你失去的不仅仅是解题能力</a></li>
+                                                                        <li><a href="http://edu.163.com/14/0608/10/9U77S86200294JD0.html">[高考最跟帖]苍老师没站起来 世界仍属于她</a></li>
+                                                                        <li><a href="http://edu.163.com/14/0608/08/9U72OJHN00294JDT.html"><em class="fB">网友神笔挥就：2014年各省高考零分作文</em></a></li>
+                                                                        <li><a href="http://edu.163.com/14/0608/08/9U736AS900294M9N.html">河北衡水女孩放弃高考 被哈佛等9名校录取</a></li>
+                                                                        <li><a href="http://edu.163.com/14/0608/08/9U72INR600294JFQ.html"><em class=' I_N_G_'>韩寒照片被配上高考作文题</em></a> <a target="_blank" href="http://edu.163.com/photoview/5NUO0029/13894.html ">揭秘高考兵工厂</a></li>
                                             </ul>
                 </div>
             </div>
@@ -3722,8 +3720,8 @@ body { padding-top:39px;}
                 <div class="title-bar ui-til4"><h2><a href="http://edu.163.com/special/jctuwen/">精彩图文</a></h2></div>
                 <div class="mod-imgText imgList-widget-1 clearfix">
                     <ul>
-                                                                           <li class="first"><a href="http://edu.163.com/14/0607/11/9U4QSRMH00294JD0.html"><img width="100" height="70" src="http://img1.cache.netease.com/edu/2014/6/7/20140607171422be23b.jpg" title="考生斗歹徒憾失高考" alt="考生斗歹徒憾失高考"></a>
-                            <p><a href="http://edu.163.com/14/0607/11/9U4QSRMH00294JD0.html">考生斗歹徒憾失高考</a></p>
+                                                                           <li class="first"><a href="http://edu.163.com/14/0607/18/9U5GVTD400294JFQ.html"><img width="100" height="70" src="http://img1.cache.netease.com/edu/2014/6/8/20140608100849b39d0.gif" title="考生看到帅哥走不动" alt="考生看到帅哥走不动"></a>
+                            <p><a href="http://edu.163.com/14/0607/18/9U5GVTD400294JFQ.html">考生看到帅哥走不动</a></p>
                         </li>
                                                                            <li><a href="http://edu.163.com/14/0607/16/9U5CP9DN00294JD0.html"><img width="100" height="70" src="http://img6.cache.netease.com/edu/2014/6/7/20140607170954fae95.gif" title="探访亚洲最大高考工厂" alt="探访亚洲最大高考工厂"></a>
                             <p><a href="http://edu.163.com/14/0607/16/9U5CP9DN00294JD0.html">探访亚洲最大高考工厂</a></p>
@@ -3795,8 +3793,8 @@ body { padding-top:39px;}
                 <div class="title-bar ui-til4"><h2><a href="http://edu.163.com/special/ymshenghuo/">海外视角</a></h2></div>
                 <div class="mod-imgText imgList-widget-1 clearfix">
                     <ul>
-                                                                                                                           <li class="first"><a href="http://edu.163.com/14/0605/19/9U0GCI9J00294IIH.html"><img width="100" height="70" src="http://img4.cache.netease.com/edu/2014/6/6/201406060948409f4a4.jpg" title="牛津生考完试饮酒狂欢" alt="牛津生考完试饮酒狂欢"></a>
-                            <p><a href="http://edu.163.com/14/0605/19/9U0GCI9J00294IIH.html">牛津生考完试饮酒狂欢</a></p>
+                                                                                                                           <li class="first"><a href="http://edu.163.com/14/0608/12/9U7G5SK400294IIH.html"><img width="100" height="70" src="http://img6.cache.netease.com/edu/2014/6/8/20140608123002a998c.jpg" title="国外高中生毕业舞会" alt="国外高中生毕业舞会"></a>
+                            <p><a href="http://edu.163.com/14/0608/12/9U7G5SK400294IIH.html">国外高中生毕业舞会</a></p>
                         </li>
                                                                                                    <li class=""><a href="http://edu.163.com/14/0604/17/9TTNJBQP00294IIK.html"><img width="100" height="70" src="http://img4.cache.netease.com/edu/2014/6/5/20140605094439b9905.jpg" title="丹麦天使素颜落差大" alt="丹麦天使素颜落差大"></a>
                             <p><a href="http://edu.163.com/14/0604/17/9TTNJBQP00294IIK.html">丹麦天使素颜落差大</a></p>
@@ -3997,13 +3995,13 @@ body { padding-top:39px;}
                         <a target="_blank" href="http://game.163.com/shouyou/">手机游戏</a>
 </span>                </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://game.163.com/special/news/datajunkie22.html?news">数据控第二十二期：PSP 最成功的失败者</a></h3>
+                                                            <h3 class="bigsize"><a href="http://game.163.com/14/0608/08/9U7460MU00314K8K.html?news">记住这些名字！历届E3上最常见的老面孔</a></h3>
                                         <ul class="mod-list main-list">
-                                                                                                <li><a href="http://game.163.com/14/0607/14/9U54AHKD00314QDE.html?news">LOL测试服补丁改动：豹女再度加强 或将更加OP</a></li>
-                                                                        <li><a href="http://game.163.com/14/0606/17/9U2TAJ5600314K8K.html?news">找准中国电视游戏潜在用户 得女玩家者得天下</a></li>
-                                                                        <li><a href="http://game.163.com/14/0607/14/9U5517TD00314QDE.html?news"><em class="fB">LOL设计师答疑：新地图或将让游戏更加流畅</em></a></li>
-                                                                        <li><a href="http://game.163.com/14/0607/12/9U4VH97A00314SDA.html?news">《最终幻想14》水晶之旅广州站 角色篇预告视频</a></li>
-                                                                        <li><a href="http://w.163.com/14/0607/12/9U4TS7RT00314C3U.html?news">召唤各路吃货 盘点魔兽世界那些可摆放的食物</a></li>
+                                                                                                <li><a href="http://game.163.com/14/0608/10/9U795AU800314K8K.html?news">PS5也不远？ AMD高管称微软索尼正开发下代主机</a></li>
+                                                                        <li><a href="http://game.163.com/14/0608/16/9U7UJS3S00314SDA.html?news">舅舅党爆料 最终幻想14国服将同步PS4版</a></li>
+                                                                        <li><a href="http://game.163.com/14/0608/11/9U7C388800314OSE.html?news"><em class="fB">女性英雄主义？ 《愤怒的小鸟 史黛拉》9月上架</em></a></li>
+                                                                        <li><a href="http://w.163.com/14/0608/14/9U7NKI6400314C3U.html?news">魔兽世界6.0钓鱼：鱼分大中小 可打开拾取鱼肉</a></li>
+                                                                        <li><a href="http://game.163.com/14/0608/14/9U7LVD1300314K8K.html?news">让移动设备也拥有类xbox控制方式！微软专利曝光</a></li>
                                             </ul>
                 </div>
             </div>
@@ -4185,7 +4183,7 @@ src="http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column960x
                     </span>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://imjiuge.blog.163.com/blog/static/23604310920145644349180/">那些年高考你花了多少钱</a> <a target="_blank" href="http://blog.163.com/liaozenghu@126/blog/static/3854691320145692591/">1977年的高考</a></h3>
+                                                            <h3 class="bigsize"><a href="http://wenruminblog.blog.163.com/blog/static/21126311020145765526805/">北大教授：京沪卷作文题好</a> <a target="_blank" href="http://xinluduwu.blog.163.com/blog/static/2298630012014584443775/">重庆卷傻爆了</a></h3>
                                         <ul class="mod-list main-list">
                                                                                                 <li><a href="http://qin.qy.blog.163.com/blog/static/275087452014560516559/">秦全耀：对越反击战的敢死队是被逼的吗？</a></li>
                                                                         <li><a href="http://blog.163.com/zhenghepeng@126/blog/static/1264655662014568194955/">郑和鹏：胡锡进有没有"胡说八道"的特权？</a></li>
@@ -4252,10 +4250,10 @@ src="http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column960x
                                         <ul class="mod-list main-list">
                                                                                                 <li><a href="http://vhouse.163.com/">英国3卧小别墅241万元</a></li>
                                                                         <li><a href="http://vhouse.163.com/photoview/5LTA0029/12842.html">留学生千万豪宅当宿舍</a> <a target="_blank" href="http://vhouse.163.com/photoview/5LTA0029/13791.html">"邂逅"美国总统</a></li>
-                                                                        <li><a href="http://vhouse.163.com/photoview/5LTA0029/13131.html"><em class="fB"><em class=' I_N_G_'>中国赴美7000人旅游团日花4.3亿元</em></em></a></li>
-                                                                        <li><a href="http://vhouse.163.com/14/0605/11/9TVMDVDB00294MCG.html">全球最贵房价:摩纳哥29.7万/平 北京第77</a></li>
-                                                                        <li><a href="http://vhouse.163.com/14/0603/11/9TQFOUE500294MCG.html">美国7成人有房产</a> <a target="_blank" href="http://vhouse.163.com/14/0605/15/9U04TIT500294MCG.html">令美国人费解的中国白领</a></li>
-                                                                        <li><a href="http://vhouse.163.com/photoview/5LTA0029/12702.html">美国养老院月/80美金</a> <a target="_blank" href="http://vhouse.163.com/photoview/5LTA0029/12194.html">奥巴马需还30年房贷</a></li>
+                                                                        <li><a href="http://vhouse.163.com/14/0608/11/9U7CPLM500294MCG.html"><em class="fB">2013年中国930万人移民海外 首选美加两国</em></a></li>
+                                                                        <li><a href="http://vhouse.163.com/photoview/5LTA0029/13131.html"><em class=' I_N_G_'>中国赴美7000人旅游团日花4.3亿元</em></a></li>
+                                                                        <li><a href="http://vhouse.163.com/photoview/5LTA0029/13924.html"><em class=' I_N_G_'>美国工程师将退役客机改造为舒适住宅</em></a></li>
+                                                                        <li><a href="http://vhouse.163.com/14/0603/11/9TQFOUE500294MCG.html">美国7成人有房产</a> <a target="_blank" href="http://vhouse.163.com/14/0608/19/9U89HC9L00294MCG.html">93%中国富人购房为子女</a></li>
                                                                         <li><a href="http://vhouse.163.com/14/0605/16/9U061JGV00294MCG.html">迪拜房价涨幅排全球榜首 中国位列第二</a></li>
                                                 <li><a href="http://vhouse.163.com/special/haiwaishenghuo/">海外生活真相大起底 福利待遇不是谁都给</a></li>
                                             </ul>
@@ -4320,22 +4318,22 @@ src="http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column960x
                 <div class="title-bar ui-til4"><h2><a href="http://news.163.com/shehui/">社会新闻</a></h2>
                 </div>
                 <div class="mod-list main-list news-date-list">
-                                                            <h3 class="bigsize"><a href="http://news.163.com/14/0607/06/9U496K4L00011229.html">网友举报妻子遭官员调戏 官方澄清系普通税收员</a></h3>
+                                                            <h3 class="bigsize"><a href="http://news.163.com/14/0608/02/9U6FJ1HD00011229.html">男子因恋情不顺绑架好友2岁儿子 称就是想进监狱</a></h3>
                                         <ul class="mod-list main-list">
-                                                                        <li><a href="http://news.163.com/14/0607/17/9U5EP11F00014JB6.html">广州一男子上演十多个小时＂跳桥秀＂已被刑拘</a></li>
-                                                <li><a href="http://news.163.com/14/0607/06/9U49SUCJ00011229.html">男子因酒后矛盾带20人携刀枪挑断他人脚筋</a></li>
-                                                <li><a href="http://news.163.com/14/0607/03/9U3TTBKU00014Q4P.html">江苏徐州捣毁大型幼童色情网站 会员达9万多人</a></li>
-                                                <li><a href="http://news.163.com/14/0607/15/9U59B60S00014JB5.html">陕西省蓝田县疾控中心主任因公车私用被免职</a></li>
-                                                <li><a href="http://news.163.com/14/0607/16/9U5BR61800014JB6.html">郭德纲昔日长文谈规矩命中高考作文题引热议(图)</a></li>
+                                                                        <li><a href="http://news.163.com/14/0608/21/9U8DKMI60001124J.html">中国三所＂高考牛校＂调查:学生酷似考试机器</a></li>
+                                                <li><a href="http://news.163.com/14/0608/21/9U8F19LI00014JB6.html">男子与小学13岁女生发生性关系获刑10年</a></li>
+                                                <li><a href="http://news.163.com/14/0608/18/9U85QNIE00011229.html">上海男子劝阻狗贩毒针捕狗 被误扎中毒身亡</a></li>
+                                                <li><a href="http://news.163.com/14/0608/20/9U8AU0GO0001124J.html">安徽1个考场电子钟出现误差 官方称未影响考试</a></li>
+                                                <li><a href="http://news.163.com/14/0608/10/9U7AKBJV00011229.html">河南160岁高僧圆寂8年真身不腐 瞻仰肉身需20元</a></li>
                                             </ul>
                     <span class="blank15"></span>
                     <ul class="mod-list main-list">
-                                                                        <li><a href="http://news.163.com/14/0607/17/9U5E05I700014JB6.html"><em class="fB">广州地铁内乘客晕倒引发恐慌逃离 6人受伤(图)</em></a></li>
-                                                                        <li><a href="http://news.163.com/14/0607/15/9U56MLS000014AED.html">北京佤族小伙手术后带着通气导管进高考考场(图)</a></li>
-                                                <li><a href="http://news.163.com/14/0607/15/9U56PPAF00014JB5.html">高考期间福州消防出警将只亮警灯不鸣警笛</a></li>
-                                                <li><a href="http://news.163.com/14/0607/15/9U59F25J0001121M.html">莫斯科连环色魔落网 或涉嫌强奸近百名妇女</a></li>
-                                                <li><a href="http://news.163.com/14/0607/15/9U59DN2I00014JB5.html">江西一男子在28省份发行非法报纸近200万份获刑</a></li>
-                                                <li><a href="http://news.163.com/14/0607/12/9U4TMUQI00014JB6.html">维吾尔族夫妇收养被弃汉族女孩9年 称情深难割舍</a></li>
+                                                                        <li><a href="http://news.163.com/14/0607/20/9U5PEG0Q00014JB6.html"><em class="fB">深圳全班准考证被堵路上续:并非老师睡过头</em></a></li>
+                                                                        <li><a href="http://news.163.com/14/0608/21/9U8ECBKM00014JB6.html">男子吸毒后劫持餐厅经理 与警方相持2个小时</a></li>
+                                                <li><a href="http://news.163.com/14/0608/18/9U86FDVM00014JB6.html">福州水泥槽罐车侧翻压扁小车 造成一死一伤</a></li>
+                                                <li><a href="http://news.163.com/14/0608/19/9U87OFFG00014JB5.html">黑龙江安达爆炸案中2名受伤警察目前情况平稳</a></li>
+                                                <li><a href="http://news.163.com/14/0608/16/9U7UVRR600014JB5.html">江西将用高考B卷对2名见义勇为考生单考单招</a></li>
+                                                <li><a href="http://news.163.com/14/0608/16/9U7USU680001124J.html">江西省教育厅:将为＂夺刀少年＂组织单考单招</a></li>
                                             </ul>
                 </div>
             </div>
@@ -4347,11 +4345,11 @@ src="http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column960x
                 <div class="title-bar ui-til4"><h2><a href="http://news.163.com/photo/">社会图片</a></h2></div>
                 <div class="mod-imgText imgList-widget-1 clearfix">
                     <ul>
-                                                                                                                           <li class="first"><a href="http://news.163.com/photoview/00AP0001/67041.html"><img width="100" height="70" src="http://img4.cache.netease.com/cnews/2014/6/6/201406061018318ce67.jpg" title="捡废品老人被打死" alt="捡废品老人被打死"></a>
-                            <p><a href="http://news.163.com/photoview/00AP0001/67041.html">捡废品老人被打死</a></p>
+                                                                                                                           <li class="first"><a href="http://news.163.com/photoview/00AP0001/67147.html"><img width="100" height="70" src="http://img2.cache.netease.com/cnews/2014/6/8/2014060810012398539.jpg" title="高考增无线电监控" alt="高考增无线电监控"></a>
+                            <p><a href="http://news.163.com/photoview/00AP0001/67147.html">高考增无线电监控</a></p>
                         </li>
-                                                                                                   <li class=""><a href="http://news.163.com/photoview/00AP0001/67037.html"><img width="100" height="70" src="http://img3.cache.netease.com/cnews/2014/6/6/20140606101712b8ead.jpg" title="高校拍4500人合照" alt="高校拍4500人合照"></a>
-                            <p><a href="http://news.163.com/photoview/00AP0001/67037.html">高校拍4500人合照</a></p>
+                                                                                                   <li class=""><a href="http://news.163.com/photoview/00AP0001/67146.html"><img width="100" height="70" src="http://img1.cache.netease.com/cnews/2014/6/8/2014060809401311290.jpg" title="黑龙江创烧烤记录" alt="黑龙江创烧烤记录"></a>
+                            <p><a href="http://news.163.com/photoview/00AP0001/67146.html">黑龙江创烧烤记录</a></p>
                         </li>
                                             </ul>
                 </div>
@@ -4367,7 +4365,7 @@ src="http://g.163.com/r?site=netease&affiliate=news&cat=homepage&type=column960x
         <div class="sub-col-8">
             <div class="title-bar ui-til4"><h2><a href="http://focus.news.163.com/">深度报道</a></h2></div>
             <div class="mod-imgText imgText-widget-1 clearfix">
-                                                <a href="http://focus.news.163.com/14/0606/08/9U1TUJEM00011SM9.html"><img width="100" height="70" title="高校拍4500人合照" alt="高校拍4500人合照" src="http://img2.cache.netease.com/cnews/2014/6/6/201406060857203999e.jpg"></a>
+                                                <a href="http://focus.news.163.com/14/0606/08/9U1TUJEM00011SM9.html"><img width="100" height="70" title="黑龙江创烧烤记录" alt="黑龙江创烧烤记录" src="http://img2.cache.netease.com/cnews/2014/6/6/201406060857203999e.jpg"></a>
                 <h3 class="main-title"><a href="http://focus.news.163.com/14/0606/08/9U1TUJEM00011SM9.html">中国大学雄心勃勃的全球领袖</a></h3>
                 <p>一场静园风波，将北大燕京学堂项目推到了公众眼前。这是一个一年制精英研究生项目，企图从世界一流大<span class="detail"><a href="http://focus.news.163.com/14/0606/08/9U1TUJEM00011SM9.html"> 全部&gt;&gt;</a></span></p>
                             </div>
@@ -5123,18 +5121,18 @@ NTES.ajax.importJs("http://ipservice.163.com/ipquery",function(){
             var houseNewsOrientation = {
                 bj:{
                     province:"北京市|山东省|山西省|河北省|河南省|内蒙古|陕西省|黑龙江省|辽宁省|吉林省|天津市|台湾",
-			                        title:"自住房摇号规则公布 摇取家庭不低于房源套数2倍",
-                    url:"http://bj.house.163.com/14/0606/18/9U30N0OV00073SD3.html"
+			                        title:"北京公布自住房摇号规则 中签后弃选弃购无影响",
+                    url:"http://bj.house.163.com/14/0608/08/9U72US7900073SD3.html"
 			        },
         sh:{
     province:"上海市|江苏省|浙江省|安徽省|福建省|江西省",
-			                title:"上海市公租房租赁即日起实行“一房一价”",
-            url:"http://sh.house.163.com/14/0607/05/9U44VKE300073SDJ.html"
+			                title:"沪楼市现“诡异”抛售形式 房主要求现金交易",
+            url:"http://sh.house.163.com/14/0608/08/9U72SK2100073SDJ.html"
 			},
 gz:{
     province:"湖南省|湖北省|广东省|贵州省|云南省|广西|甘肃省|青海省|宁夏|新疆|西藏|四川省|重庆市|海南省|香港|澳门",
-			                title:"广州一大波'白菜价'楼盘来袭</a> <a target='_blank' href='http://gz.house.163.com/14/0607/09/9U4HRG7400873C6D.html'>郊区白热化促销",
-            url:"http://gz.house.163.com/14/0607/09/9U4J5MGI00873C6D.html"
+			                title:"温州房产商低价售楼只为全身而退</a> <a target='_blank' href='http://gz.house.163.com/14/0605/16/9U08C23C0087482R.html'>降价楼盘如昙花一现",
+            url:"http://gz.house.163.com/14/0608/08/9U7297D300873C6D.html"
 			}
 };
 var loc;
