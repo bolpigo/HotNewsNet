@@ -46,3 +46,24 @@ def baiduinland(req):
 def baiduinternation(req):
 	newsinfo = NewsInfo.objects.filter(source=0)
 	return render_to_response('baidu_internation.html',{'newsinfo':newsinfo})
+def tencentmilitary(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_military.html',{'newsinfo':newsinfo})
+def tencententertainment(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_entertainment.html',{'newsinfo':newsinfo})
+def tencenttech(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_tech.html',{'newsinfo':newsinfo})
+def tencentsports(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_sports.html',{'newsinfo':newsinfo})
+def tencentsociety(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_society.html',{'newsinfo':newsinfo})
+def tencentinland(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_inland.html',{'newsinfo':newsinfo})
+def tencentinternation(req):
+	newsinfo = NewsInfo.objects.filter(source=1)
+	return render_to_response('tencent_internation.html',{'newsinfo':newsinfo})
