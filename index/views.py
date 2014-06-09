@@ -85,3 +85,25 @@ def sohulife(req):
 def sohuIT(req):
 	newsinfo = NewsInfo.objects.filter(source=2)
 	return render_to_response('sohu_IT.html',{'newsinfo':newsinfo})
+def neteasymilitary(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_military.html',{'newsinfo':newsinfo})
+def neteasyentertainment(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_entertainment.html',{'newsinfo':newsinfo})
+def neteasytech(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_tech.html',{'newsinfo':newsinfo})
+def neteasysports(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_sports.html',{'newsinfo':newsinfo})
+def neteasysociety(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_society.html',{'newsinfo':newsinfo})
+def neteasyinland(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_inland.html',{'newsinfo':newsinfo})
+def neteasyinternation(req):
+	newsinfo = NewsInfo.objects.filter(source=3)
+	return render_to_response('neteasy_internation.html',{'newsinfo':newsinfo})
+
