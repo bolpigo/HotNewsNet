@@ -31,6 +31,12 @@ urlpatterns = patterns('',
     url(r'^ntsociety$','index.views.tencentsociety'), 
     url(r'^ntinland$','index.views.tencentinland'), 
     url(r'^ntinternation$','index.views.tencentinternation'), 
+    url(r'^nsmilitary$','index.views.sohumilitary'), 
+    url(r'^nssp_etment$','index.views.sohusp_etment'), 
+    url(r'^nssociety$','index.views.sohusociety'), 
+    url(r'^nsfinance$','index.views.sohufinance'), 
+    url(r'^nslife$','index.views.sohulife'), 
+    url(r'^nsIT$','index.views.IT'), 
     # url(r'^static/(?P<path>.*)','django.views.static.serve',{'document_root':'e:/pythonproject/HotNewsNet/index/static'}),
 
 )

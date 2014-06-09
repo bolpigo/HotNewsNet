@@ -67,3 +67,21 @@ def tencentinland(req):
 def tencentinternation(req):
 	newsinfo = NewsInfo.objects.filter(source=1)
 	return render_to_response('tencent_internation.html',{'newsinfo':newsinfo})
+def sohumilitary(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_military.html',{'newsinfo':newsinfo})
+def sohusp_etment(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_sp_etment.html',{'newsinfo':newsinfo})
+def sohusociety(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_society.html',{'newsinfo':newsinfo})
+def sohufinance(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_finance.html',{'newsinfo':newsinfo})
+def sohulife(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_life.html',{'newsinfo':newsinfo})
+def sohuIT(req):
+	newsinfo = NewsInfo.objects.filter(source=2)
+	return render_to_response('sohu_IT.html',{'newsinfo':newsinfo})
