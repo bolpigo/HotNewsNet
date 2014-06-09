@@ -39,10 +39,10 @@ def baidusociety(req):
 	return render_to_response('baidu_society.html',{'newsinfo':newsinfo})
 def baidueducation(req):
 	newsinfo = NewsInfo.objects.filter(source=0)
-	return render_to_response('baidu_eudcation.html',{'newsinfo':newsinfo})
+	return render_to_response('baidu_education.html',{'newsinfo':newsinfo})
 def baiduinland(req):
 	newsinfo = NewsInfo.objects.filter(source=0)
 	return render_to_response('baidu_inland.html',{'newsinfo':newsinfo})
 def baiduinternation(req):
 	newsinfo = NewsInfo.objects.filter(source=0)
-	return render_to_response('baidu_intertainment.html',{'newsinfo':newsinfo})
+	return render_to_response('baidu_internation.html',{'newsinfo':newsinfo})
