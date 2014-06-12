@@ -157,11 +157,11 @@
 
     	      <div class="image-switcher" style="overflow: auto; width: 450px; margin: 0 auto; padding-bottom: 1em;">
     	        <div class="image" style="text-align: center; margin-bottom: 1em; height: 300px; overflow: hidden;">
-    	          <a href="/images/photos/1150546.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/0546/1150546_525_350_w.jpg"></a>
+    	          <a href="/images/photos/1151767.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/1767/1151767_525_350_w.jpg"></a>
     	        </div>
     	        <div class="pager" style="float: right; margin-left: 1em;"><img src="/images/lt_arrow.gif" width="25"> <img src="/images/rt_arrow.gif" width="25"></div>
-    	        <h5>IRAN FAMILY PLANNING</h5>
-    	        <p style="margin-top: .5em;">A nurse with a newborn in Tehran earlier this year. Iran is offering incentives to begin and enlarge families, but experts say little will change unless the country’s economy improves. (Morteza N...</p>
+    	        <h5>REPUBS CANTOR 7</h5>
+    	        <p style="margin-top: .5em;">Rep. Eric Cantor (R-Va.) takes a question at a news conference in Washington on Wednesday. Cantor of Virginia, the No. 2 House Republican, will resign as majority leader within weeks, according t...</p>
     	      </div>
 
         <p style="position: absolute; bottom: 0; width: 450px; margin: 10px 0 20px 15px;"><a href="/images/photos">Browse All Images</a></p>
@@ -236,37 +236,37 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
         <div class="headline" style="border-right: solid 1px #ccc">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=322">New York Times Op-Ed &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2918126"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?106134374522" alt="New York Times Op-Ed" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2924233?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?424538346754" alt="New York Times Op-Ed" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2918126">Memories from Normandy</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2924233?">Why We Must Arm Syria's Opposition</a></div>
         </div>
         <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=852">New York Review Dispatches &raquo;</a></div>
-          <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2917668"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?424537498746" alt="New York Review Dispatches" /></a>
-          </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2917668">Hitler’s Monumental Miscalculation</a></div>
-        </div>
-        <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=367">New York Review of Books &raquo;</a></div>
-          <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2917333"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?212268750222" alt="New York Review of Books" /></a>
-          </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2917333">Looking for Ukraine</a></div>
-        </div>
-        <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=74">New York Times Magazine &raquo;</a></div>
-          <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2915344"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?11792716038" alt="New York Times Magazine" /></a>
-          </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2915344">'I'm Never Satisfied'</a></div>
-        </div>
-        <div class="headline" style="">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=315">International New York Times &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2918634"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?424537498646" alt="International New York Times" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2925094?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?628946210" alt="International New York Times" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2918634">The Once and Future Kings</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2925094?">In Rwanda, All Justice Is Local</a></div>
+        </div>
+        <div class="headline" style="border-right: solid 1px #ccc">
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=13">Harvard Business Review &raquo;</a></div>
+          <div class="image">
+            <a href="https://www.nytsyn.com/marketplace/stories/2924998?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?141512830990" alt="Harvard Business Review" /></a>
+          </div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2924998?">21st-Century Talent Spotting</a></div>
+        </div>
+        <div class="headline" style="border-right: solid 1px #ccc">
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=363">Prospect &raquo;</a></div>
+          <div class="image">
+            <a href="https://www.nytsyn.com/marketplace/stories/2925044?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?15723646554" alt="Prospect" /></a>
+          </div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2925044?">Nick Clegg: The Lonely Rationalist</a></div>
+        </div>
+        <div class="headline" style="">
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=892">New York Times Magazine &raquo;</a></div>
+          <div class="image">
+            <a href="https://www.nytsyn.com/marketplace/stories/2923743?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?17689103902" alt="New York Times Magazine" /></a>
+          </div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2923743?">The Next Front on the War on Terror</a></div>
         </div>
   </div>
 
@@ -328,21 +328,21 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
         <div class="link"><a style="font-weight:bold;" href="/videos/videos">Browse All Videos</a></div>
 
           <div class="video">
-            <a href="/videos/videos/c2da9db0-30f1-4e9b-9e86-ab09855c7769:en-US">
-              <img src="/videos/c2da9db0-30f1-4e9b-9e86-ab09855c7769/116x88-default-true.jpg">
-              <div class="video_title">On the Scene at the Belmo<wbr>&shy;nt Stake<wbr>&shy;s</div>
+            <a href="/videos/videos/91e2ebce-6216-4f96-885d-68a7c7ead65c:en-US">
+              <img src="/videos/91e2ebce-6216-4f96-885d-68a7c7ead65c/116x88-default-true.jpg">
+              <div class="video_title">The Not-S<wbr>&shy;o-Sma<wbr>&shy;rt Home</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/83f3c753-8e48-43ed-8b41-de15668e15ad:en-US">
-              <img src="/videos/83f3c753-8e48-43ed-8b41-de15668e15ad/116x88-default-true.jpg">
-              <div class="video_title">Hot Spots<wbr>&shy;: All in the F<wbr>&shy;amily</div>
+            <a href="/videos/videos/715b80f1-9289-4305-85ce-87027116bd30:en-US">
+              <img src="/videos/715b80f1-9289-4305-85ce-87027116bd30/116x88-default-true.jpg">
+              <div class="video_title">The V.A. and Its Probl<wbr>&shy;ems, by th...</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/eafa1cbd-ea0d-493c-bedd-b2ad7f34b467:en-US">
-              <img src="/videos/eafa1cbd-ea0d-493c-bedd-b2ad7f34b467/116x88-default-true.jpg">
-              <div class="video_title">Highl<wbr>&shy;ights of the ‘Sing<wbr>&shy;ing Nun’</div>
+            <a href="/videos/videos/13a51778-bedf-4c6c-b088-f2ad8dc33785:en-US">
+              <img src="/videos/13a51778-bedf-4c6c-b088-f2ad8dc33785/116x88-default-true.jpg">
+              <div class="video_title">Women Who Belon<wbr>&shy;g in the K<wbr>&shy;itche<wbr>&shy;n</div>
             </a>
           </div>
     </div>
@@ -364,9 +364,9 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 
 <div id="featured-cartoon">
   <div class="title"><a href="/cartoons">Cartoons &raquo;</a></div>
-  <a href="/cartoons/cartoons/1147919">
+  <a href="/cartoons/cartoons/1149389">
     <div style="overflow: hidden; width: 346px; padding-top: 0; height: 210px; text-align: center;" class="nytimages-thumbnail-container">
-      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0114/7919/1147919_525_350_w.jpg">
+      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0114/9389/1149389_525_350_w.jpg">
     </div>
   </a>
 </div>
@@ -378,14 +378,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 <div style="display: none;">
 		
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1150304.html">
+  <a class="featured-photo" href="/images/photos/1151299.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>OBAMA DDAY 13</h5>
-      <p class="large-excerpt">French President Francois Hollande and Britain's Queen Elizabeth II and Prince Philip greet veterans during a ceremony marking the anniversary of the D-Day landing at Sword Beach in Ouistreham, France, June 6, 2014. Against a backdrop of new conflict in Europe, world leaders came together Friday to honor the men who stormed Normandy's beaches 70 years ago. (Stephen Crowley/The New York Times)</p>
-      <p class="small-excerpt">French President Francois Hollande and Britain's Queen Elizabeth II and Prince Philip greet veterans during a ceremony marking the anniversary of the D-Day landing at Sword Beach in Ouistreham, F...</p>
+      <h5>UKRAINE NORWAY TIES 1</h5>
+      <p class="large-excerpt">A lone figure walks through the street in Barentsburg, Norway, an ice-entombed island with no trees that the Arctic Coal Trust is pushing to develop into a tourist attraction, June 2, 2014. Ukraine's economic ruin and political tumult have ensured that the Russian company never has a shortage of labor, creating a deep pool of miners hungry for work -- no matter where. (Kyrre Lien/The New York Times)</p>
+      <p class="small-excerpt">A lone figure walks through the street in Barentsburg, Norway, an ice-entombed island with no trees that the Arctic Coal Trust is pushing to develop into a tourist attraction, June 2, 2014. Ukrai...</p>
     </div>
   </a>
   <h6><a href="/images/photos/world_news">
@@ -396,14 +396,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1150539.html">
+  <a class="featured-photo" href="/images/photos/1151446.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>WIS STABBING SLENDERMAN 1</h5>
-      <p class="large-excerpt">A memorial is left outside the woods where a 12-year-old girl was stabbed repeatedly by two of her classmates in Waukesha, Wis., June 5, 2014. The unfathomable moment of violence -- which the attackers attributed to their obsession with Slender Man, a macabre internet myth -- has deeply shaken parents and children alike in this upper-middle-class Milwaukee suburb. (Armando L. Sanchez/The New York Times)</p>
-      <p class="small-excerpt">A memorial is left outside the woods where a 12-year-old girl was stabbed repeatedly by two of her classmates in Waukesha, Wis., June 5, 2014. The unfathomable moment of violence -- which the att...</p>
+      <h5>IMMIG HIGHWAY 4</h5>
+      <p class="large-excerpt">A restored stucco facade on a home in north Wichita, Kan., June 8, 2014. Many of the small century-old bungalows were for decades rented out to young Mexican migrants, but with the neighborhood now full of families buying houses, the sights and sounds of home improvement projects are common. (Todd Heisler/The New York Times)</p>
+      <p class="small-excerpt">A restored stucco facade on a home in north Wichita, Kan., June 8, 2014. Many of the small century-old bungalows were for decades rented out to young Mexican migrants, but with the neighborhood n...</p>
     </div>
   </a>
   <h6><a href="/images/photos/us_news">
@@ -414,14 +414,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1139837.html">
+  <a class="featured-photo" href="/images/photos/1147442.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>TURKEY MINE BLAST 6</h5>
-      <p class="large-excerpt">Relatives of trapped miners during a funeral ceremony in Soma, Turkey, May 15, 2014. As the death toll from Turkey’s worst mining accident rose Thursday, labor leaders called for a one-day strike, adding to the growing political challenges facing the government of Prime Minister Recep Tayyip Erdogan over its handling of the disaster. (Uriel Sinai/The New York Times)</p>
-      <p class="small-excerpt">Relatives of trapped miners during a funeral ceremony in Soma, Turkey, May 15, 2014. As the death toll from Turkey’s worst mining accident rose Thursday, labor leaders called for a one-day strike...</p>
+      <h5>GM RECALL VICTIMS 4</h5>
+      <p class="large-excerpt">In an undated photo, the interior of the 2004 Saturn Ion that Candice Anderson was driving when she lost control of the vehicle and crashed into a tree, killing her boyfriend, Gene Mikale Erickson.  Thirteen deaths have been linked to a GM ignition switch defect, but the company has refused to disclose the names of the victims or the details of the accidents. (Poh Si Teng/The New York TImes)</p>
+      <p class="small-excerpt">In an undated photo, the interior of the 2004 Saturn Ion that Candice Anderson was driving when she lost control of the vehicle and crashed into a tree, killing her boyfriend, Gene Mikale Erickso...</p>
     </div>
   </a>
   <h6><a href="/images/photos/business_finance">
@@ -432,14 +432,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1138391.html">
+  <a class="featured-photo" href="/images/photos/1149777.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>MIDRIFFS MOMENT ADV11 4</h5>
-      <p class="large-excerpt">Midori Repp, background right in taupe top, works out, motivated in part by belly-baring tops, at Physique 57 in New York, April 23, 2014. The bared midriff is everywhere you look, thanks in part to the rage for crop tops. (Tina Fineberg/The New York Times) -- PHOTO MOVED IN ADVANCE AND NOT FOR USE - ONLINE OR IN PRINT - BEFORE MAY 11, 2014...</p>
-      <p class="small-excerpt">Midori Repp, background right in taupe top, works out, motivated in part by belly-baring tops, at Physique 57 in New York, April 23, 2014. The bared midriff is everywhere you look, thanks in part...</p>
+      <h5>MAINE COTTAGE BOOK 2</h5>
+      <p class="large-excerpt">Henry Petroski, the engineering historian and author, works in the cottage where he and his wife summer in Arrowsic, Maine, May 21, 2014. Petroski became so fascinated by the meticulous craft evident in the home's knotted-pine interiors that he penned "The House With Sixteen Handmade Doors" -- part whodunit, part social and architectural history. (Stacey Cramp/The New York Times)</p>
+      <p class="small-excerpt">Henry Petroski, the engineering historian and author, works in the cottage where he and his wife summer in Arrowsic, Maine, May 21, 2014. Petroski became so fascinated by the meticulous craft evi...</p>
     </div>
   </a>
   <h6><a href="/images/photos/lifestyle">
@@ -450,14 +450,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1147419.html">
+  <a class="featured-photo" href="/images/photos/1147296.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>SCI BRAIN RESEARCHER 2</h5>
-      <p class="large-excerpt">The reconstruction of a starburst amacrine cell (yellow) in a mouse retina, which is composed of brain tissue, and its connections to other neurons reveals the tangle of the central nervous system in an undated handout photo. A leading brain researcher conveys a sense of unlimited possibility in brain mapping, predicting it may be achieved in 20 to 30 years. (Alex Norton/EyeWire via The New York Times) -- NO SALES; FOR EDITOR...</p>
-      <p class="small-excerpt">The reconstruction of a starburst amacrine cell (yellow) in a mouse retina, which is composed of brain tissue, and its connections to other neurons reveals the tangle of the central nervous syste...</p>
+      <h5>SCI BREWING YEASTS 2</h5>
+      <p class="large-excerpt">Vials of different strains of yeast at White Labs in San Diego, Dec. 4, 2013. Researchers at the lab are working on a project to compare genetic data from yeasts with brewing data from more than 2,000 batches of beer. (Sandy Huffaker/The New York Times)</p>
+      <p class="small-excerpt">Vials of different strains of yeast at White Labs in San Diego, Dec. 4, 2013. Researchers at the lab are working on a project to compare genetic data from yeasts with brewing data from more than ...</p>
     </div>
   </a>
   <h6><a href="/images/photos/science_and_circuits">
@@ -468,14 +468,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1150567.html">
+  <a class="featured-photo" href="/images/photos/1150634.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>GLF TRAILBLAZER 2</h5>
-      <p class="large-excerpt">Letters and postcards written by Walter Hagen kept by Carlton and Shelby Plyler, who remained friends with the golfing legend long after caring for his dog in their teenage years, at their home in Tustin, Mich., May 30, 2014. Hagen won 11 major titles but his greatest legacy was his work spreading the popularity of golf. (Sean Proctor/The New York Times)</p>
-      <p class="small-excerpt">Letters and postcards written by Walter Hagen kept by Carlton and Shelby Plyler, who remained friends with the golfing legend long after caring for his dog in their teenage years, at their home i...</p>
+      <h5>SUB RAC BELMONT 52</h5>
+      <p class="large-excerpt">**EDS.: RETRANSMISSION OF XNYT87 SENT 6-7-14 TO CORRECT MISIDENTIFICATION OF SUBJECT IN PHOTO**Jockey Joel Rosario is congratulated after riding Tonalist to win the 146th Belmont Stakes, in Elmont, N.Y., June 7, 2014. A bumper crowd turned out to see California Chrome's bid to become the first Triple Crown winner since 1978, but it was Tonalist who caught Commissioner on the line to win. (Barton Silverman/The New York Times)</p>
+      <p class="small-excerpt">**EDS.: RETRANSMISSION OF XNYT87 SENT 6-7-14 TO CORRECT MISIDENTIFICATION OF SUBJECT IN PHOTO**Jockey Joel Rosario is congratulated after riding Tonalist to win the 146th Belmont Stakes, in Elmon...</p>
     </div>
   </a>
   <h6><a href="/images/photos/sports">

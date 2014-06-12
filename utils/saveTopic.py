@@ -98,7 +98,7 @@ def saveTencentTopics():
 	finally:
 		input1.close()
 	
-	wordb = "<span class=\"fr\"><a href=\"http://news.qq.com/photo.shtml\""
+	wordb = "<div class=\"bd\" style=\"margin-bottom:10px;\">"
 	worde = "<div class=\"pageInfo\">" 
 	index1 = [m.start() for m in re.finditer(wordb,content1)]
 	index2 = [m.start() for m in re.finditer(worde,content1)]
