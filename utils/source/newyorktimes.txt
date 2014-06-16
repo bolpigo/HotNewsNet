@@ -157,11 +157,11 @@
 
     	      <div class="image-switcher" style="overflow: auto; width: 450px; margin: 0 auto; padding-bottom: 1em;">
     	        <div class="image" style="text-align: center; margin-bottom: 1em; height: 300px; overflow: hidden;">
-    	          <a href="/images/photos/1151767.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/1767/1151767_525_350_w.jpg"></a>
+    	          <a href="/images/photos/1152703.html"><img style="height: 300px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/2703/1152703_525_350_w.jpg"></a>
     	        </div>
     	        <div class="pager" style="float: right; margin-left: 1em;"><img src="/images/lt_arrow.gif" width="25"> <img src="/images/rt_arrow.gif" width="25"></div>
-    	        <h5>REPUBS CANTOR 7</h5>
-    	        <p style="margin-top: .5em;">Rep. Eric Cantor (R-Va.) takes a question at a news conference in Washington on Wednesday. Cantor of Virginia, the No. 2 House Republican, will resign as majority leader within weeks, according t...</p>
+    	        <h5>VETS CARE 1</h5>
+    	        <p style="margin-top: .5em;">In response to employee whistle-blowers, the Department of Veterans Affairs has made clear over the years that it would not hesitate to retaliate, disciplining and even firing those who spoke up....</p>
     	      </div>
 
         <p style="position: absolute; bottom: 0; width: 450px; margin: 10px 0 20px 15px;"><a href="/images/photos">Browse All Images</a></p>
@@ -234,39 +234,39 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
     </div>
 
         <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=322">New York Times Op-Ed &raquo;</a></div>
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=74">New York Times Magzine &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2924233?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?424538346754" alt="New York Times Op-Ed" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2925066"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0001/1_178_135_w.jpg?70756490094" alt="New York Times Magzine" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2924233?">Why We Must Arm Syria's Opposition</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2925066">Bell Labs for Billionaires</a></div>
+        </div>
+        <div class="headline" style="border-right: solid 1px #ccc">
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=344">The Economist &raquo;</a></div>
+          <div class="image">
+            <a href="https://www.nytsyn.com/marketplace/stories/2928001"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?106134759854" alt="The Economist" /></a>
+          </div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2928001">Terror's New Headquarters</a></div>
         </div>
         <div class="headline" style="border-right: solid 1px #ccc">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=315">International New York Times &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2925094?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0002/2_178_135_w.jpg?628946210" alt="International New York Times" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2928550"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?53067379874" alt="International New York Times" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2925094?">In Rwanda, All Justice Is Local</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2928550">Rape and the Warrior's Code</a></div>
         </div>
         <div class="headline" style="border-right: solid 1px #ccc">
           <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=13">Harvard Business Review &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2924998?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0003/3_178_135_w.jpg?141512830990" alt="Harvard Business Review" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2928507"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?212269519526" alt="Harvard Business Review" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2924998?">21st-Century Talent Spotting</a></div>
-        </div>
-        <div class="headline" style="border-right: solid 1px #ccc">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=363">Prospect &raquo;</a></div>
-          <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2925044?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0004/4_178_135_w.jpg?15723646554" alt="Prospect" /></a>
-          </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2925044?">Nick Clegg: The Lonely Rationalist</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2928507">Mastering the Intermediaries</a></div>
         </div>
         <div class="headline" style="">
-          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=892">New York Times Magazine &raquo;</a></div>
+          <div class="title"><a href="https://www.nytsyn.com/marketplace/stories?channel_id=32">Global Business Perspectives &raquo;</a></div>
           <div class="image">
-            <a href="https://www.nytsyn.com/marketplace/stories/2923743?"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?17689103902" alt="New York Times Magazine" /></a>
+            <a href="https://www.nytsyn.com/marketplace/stories/2926981"><img src="https://nytsyn-production.s3.amazonaws.com/headlines/0000/0005/5_178_135_w.jpg?13266844974" alt="Global Business Perspectives" /></a>
           </div>
-          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2923743?">The Next Front on the War on Terror</a></div>
+          <div class="description"><a href="https://www.nytsyn.com/marketplace/stories/2926981">Negotiating Across Cultures</a></div>
         </div>
   </div>
 
@@ -328,21 +328,21 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
         <div class="link"><a style="font-weight:bold;" href="/videos/videos">Browse All Videos</a></div>
 
           <div class="video">
-            <a href="/videos/videos/91e2ebce-6216-4f96-885d-68a7c7ead65c:en-US">
-              <img src="/videos/91e2ebce-6216-4f96-885d-68a7c7ead65c/116x88-default-true.jpg">
-              <div class="video_title">The Not-S<wbr>&shy;o-Sma<wbr>&shy;rt Home</div>
+            <a href="/videos/videos/2e675c6f-0ec2-4845-a5e6-f354ab48bae5:en-US">
+              <img src="/videos/2e675c6f-0ec2-4845-a5e6-f354ab48bae5/116x88-default-true.jpg">
+              <div class="video_title">The First Seaso<wbr>&shy;n</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/715b80f1-9289-4305-85ce-87027116bd30:en-US">
-              <img src="/videos/715b80f1-9289-4305-85ce-87027116bd30/116x88-default-true.jpg">
-              <div class="video_title">The V.A. and Its Probl<wbr>&shy;ems, by th...</div>
+            <a href="/videos/videos/9ce85e78-daa8-40ee-bc4a-1ce4c0fd9b78:en-US">
+              <img src="/videos/9ce85e78-daa8-40ee-bc4a-1ce4c0fd9b78/116x88-default-true.jpg">
+              <div class="video_title">Makin<wbr>&shy;g Balls Behin<wbr>&shy;d Bar<wbr>&shy;s</div>
             </a>
           </div>
           <div class="video">
-            <a href="/videos/videos/13a51778-bedf-4c6c-b088-f2ad8dc33785:en-US">
-              <img src="/videos/13a51778-bedf-4c6c-b088-f2ad8dc33785/116x88-default-true.jpg">
-              <div class="video_title">Women Who Belon<wbr>&shy;g in the K<wbr>&shy;itche<wbr>&shy;n</div>
+            <a href="/videos/videos/6fe5c59e-353a-4f89-90b1-e35ace37e651:en-US">
+              <img src="/videos/6fe5c59e-353a-4f89-90b1-e35ace37e651/116x88-default-true.jpg">
+              <div class="video_title">Vows | A Defin<wbr>&shy;ing Momen<wbr>&shy;t</div>
             </a>
           </div>
     </div>
@@ -364,9 +364,9 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 
 <div id="featured-cartoon">
   <div class="title"><a href="/cartoons">Cartoons &raquo;</a></div>
-  <a href="/cartoons/cartoons/1149389">
+  <a href="/cartoons/cartoons/1150787">
     <div style="overflow: hidden; width: 346px; padding-top: 0; height: 210px; text-align: center;" class="nytimages-thumbnail-container">
-      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0114/9389/1149389_525_350_w.jpg">
+      <img style="margin: 0 auto; max-width: 346px; max-height: 194px;" src="https://nytsyn-production.s3.amazonaws.com/photos/0115/0787/1150787_525_350_w.jpg">
     </div>
   </a>
 </div>
@@ -378,14 +378,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 <div style="display: none;">
 		
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1151299.html">
+  <a class="featured-photo" href="/images/photos/1152670.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>UKRAINE NORWAY TIES 1</h5>
-      <p class="large-excerpt">A lone figure walks through the street in Barentsburg, Norway, an ice-entombed island with no trees that the Arctic Coal Trust is pushing to develop into a tourist attraction, June 2, 2014. Ukraine's economic ruin and political tumult have ensured that the Russian company never has a shortage of labor, creating a deep pool of miners hungry for work -- no matter where. (Kyrre Lien/The New York Times)</p>
-      <p class="small-excerpt">A lone figure walks through the street in Barentsburg, Norway, an ice-entombed island with no trees that the Arctic Coal Trust is pushing to develop into a tourist attraction, June 2, 2014. Ukrai...</p>
+      <h5>IRAQ ATTACKS</h5>
+      <p class="large-excerpt">A man surveys the aftermath of a suicide bombing in Baghdad on Sunday, June 15, 2014, at a market that sells new and used military uniforms. At the time of the bombing the market was crowded with volunteers seeking to join the fight against insurgents. (Ayman Oghanna/The New York Times)</p>
+      <p class="small-excerpt">A man surveys the aftermath of a suicide bombing in Baghdad on Sunday, June 15, 2014, at a market that sells new and used military uniforms. At the time of the bombing the market was crowded with...</p>
     </div>
   </a>
   <h6><a href="/images/photos/world_news">
@@ -396,14 +396,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1151446.html">
+  <a class="featured-photo" href="/images/photos/1152687.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>IMMIG HIGHWAY 4</h5>
-      <p class="large-excerpt">A restored stucco facade on a home in north Wichita, Kan., June 8, 2014. Many of the small century-old bungalows were for decades rented out to young Mexican migrants, but with the neighborhood now full of families buying houses, the sights and sounds of home improvement projects are common. (Todd Heisler/The New York Times)</p>
-      <p class="small-excerpt">A restored stucco facade on a home in north Wichita, Kan., June 8, 2014. Many of the small century-old bungalows were for decades rented out to young Mexican migrants, but with the neighborhood n...</p>
+      <h5>U.S. IRAQ RESPONSE</h5>
+      <p class="large-excerpt">FILE -- President Barack Obama gives a statement on the situation in Iraq outside the White House in Washington, June 13, 2014. While Obama has ordered unmanned surveillance flights over Iraq to gather intelligence, an official said, the White House's emphasis will be on prodding the country's leaders to form a new national unity government. (Stephen Crowley/The New York Times)</p>
+      <p class="small-excerpt">FILE -- President Barack Obama gives a statement on the situation in Iraq outside the White House in Washington, June 13, 2014. While Obama has ordered unmanned surveillance flights over Iraq to ...</p>
     </div>
   </a>
   <h6><a href="/images/photos/us_news">
@@ -414,14 +414,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1147442.html">
+  <a class="featured-photo" href="/images/photos/1144985.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>GM RECALL VICTIMS 4</h5>
-      <p class="large-excerpt">In an undated photo, the interior of the 2004 Saturn Ion that Candice Anderson was driving when she lost control of the vehicle and crashed into a tree, killing her boyfriend, Gene Mikale Erickson.  Thirteen deaths have been linked to a GM ignition switch defect, but the company has refused to disclose the names of the victims or the details of the accidents. (Poh Si Teng/The New York TImes)</p>
-      <p class="small-excerpt">In an undated photo, the interior of the 2004 Saturn Ion that Candice Anderson was driving when she lost control of the vehicle and crashed into a tree, killing her boyfriend, Gene Mikale Erickso...</p>
+      <h5>SMALL BIZ MANAGEMENT</h5>
+      <p class="large-excerpt">Clay Mathile, founder of Aileron, speaks with business owners on management at the non-profit in Tipp City, Ohio, May 6, 2014. Mathile, who grew the Iams dog food company before selling it, founded and endowed the organization with the goal of shortening learning curves for business owners. (Nick Fancher/The New York Times)</p>
+      <p class="small-excerpt">Clay Mathile, founder of Aileron, speaks with business owners on management at the non-profit in Tipp City, Ohio, May 6, 2014. Mathile, who grew the Iams dog food company before selling it, found...</p>
     </div>
   </a>
   <h6><a href="/images/photos/business_finance">
@@ -432,14 +432,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1149777.html">
+  <a class="featured-photo" href="/images/photos/1144092.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>MAINE COTTAGE BOOK 2</h5>
-      <p class="large-excerpt">Henry Petroski, the engineering historian and author, works in the cottage where he and his wife summer in Arrowsic, Maine, May 21, 2014. Petroski became so fascinated by the meticulous craft evident in the home's knotted-pine interiors that he penned "The House With Sixteen Handmade Doors" -- part whodunit, part social and architectural history. (Stacey Cramp/The New York Times)</p>
-      <p class="small-excerpt">Henry Petroski, the engineering historian and author, works in the cottage where he and his wife summer in Arrowsic, Maine, May 21, 2014. Petroski became so fascinated by the meticulous craft evi...</p>
+      <h5>BEER COCKTAIL 3</h5>
+      <p class="large-excerpt">Ivy Mix, a bartender at Clover Club, makes a Slow Clap beer cocktail, which she created, in New York, May 7, 2014. Light in body and low in alcohol, a new class of beer cocktails are being created by today's young bartenders that are complex and well suited to summer.(Evan Sung/The New York Times)</p>
+      <p class="small-excerpt">Ivy Mix, a bartender at Clover Club, makes a Slow Clap beer cocktail, which she created, in New York, May 7, 2014. Light in body and low in alcohol, a new class of beer cocktails are being create...</p>
     </div>
   </a>
   <h6><a href="/images/photos/lifestyle">
@@ -450,14 +450,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1147296.html">
+  <a class="featured-photo" href="/images/photos/1149093.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>SCI BREWING YEASTS 2</h5>
-      <p class="large-excerpt">Vials of different strains of yeast at White Labs in San Diego, Dec. 4, 2013. Researchers at the lab are working on a project to compare genetic data from yeasts with brewing data from more than 2,000 batches of beer. (Sandy Huffaker/The New York Times)</p>
-      <p class="small-excerpt">Vials of different strains of yeast at White Labs in San Diego, Dec. 4, 2013. Researchers at the lab are working on a project to compare genetic data from yeasts with brewing data from more than ...</p>
+      <h5>SCI OCEAN BOOK REVIEW 4</h5>
+      <p class="large-excerpt">An undated handout photo of coralline algae, seaweed from Josie Iselin's new book, "An Ocean Garden." Iselin celebrates seaweeds, saying she hopes to "reveal the largely unseen forms of ocean flora as a nexus where art and science converge." (Josie Iselin via The New York Times) -- NO SALES; FOR EDITORIAL USE ONLY WITH STORY SLUGGED SCI OCEAN BOOK REVIEW. ALL OTHER USE PROHIBITED.</p>
+      <p class="small-excerpt">An undated handout photo of coralline algae, seaweed from Josie Iselin's new book, "An Ocean Garden." Iselin celebrates seaweeds, saying she hopes to "reveal the largely unseen forms of ocean flo...</p>
     </div>
   </a>
   <h6><a href="/images/photos/science_and_circuits">
@@ -468,14 +468,14 @@ document.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"\n\
 </div>
 
 <div class="nytimages-thumbnail">
-  <a class="featured-photo" href="/images/photos/1150634.html">
+  <a class="featured-photo" href="/images/photos/1152673.html">
     <div class="nytimages-thumbnail-container">
     </div>
 
     <div class="meta" style="display: none;">
-      <h5>SUB RAC BELMONT 52</h5>
-      <p class="large-excerpt">**EDS.: RETRANSMISSION OF XNYT87 SENT 6-7-14 TO CORRECT MISIDENTIFICATION OF SUBJECT IN PHOTO**Jockey Joel Rosario is congratulated after riding Tonalist to win the 146th Belmont Stakes, in Elmont, N.Y., June 7, 2014. A bumper crowd turned out to see California Chrome's bid to become the first Triple Crown winner since 1978, but it was Tonalist who caught Commissioner on the line to win. (Barton Silverman/The New York Times)</p>
-      <p class="small-excerpt">**EDS.: RETRANSMISSION OF XNYT87 SENT 6-7-14 TO CORRECT MISIDENTIFICATION OF SUBJECT IN PHOTO**Jockey Joel Rosario is congratulated after riding Tonalist to win the 146th Belmont Stakes, in Elmon...</p>
+      <h5>GLF OPEN 2</h5>
+      <p class="large-excerpt">Martin Kaymer drives off the first tee to begin the final round of the U.S. Open in Pinehurst, N.C., June 15, 2014. (Doug Mills/The New York Times)</p>
+      <p class="small-excerpt">Martin Kaymer drives off the first tee to begin the final round of the U.S. Open in Pinehurst, N.C., June 15, 2014. (Doug Mills/The New York Times)</p>
     </div>
   </a>
   <h6><a href="/images/photos/sports">
