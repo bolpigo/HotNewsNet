@@ -156,7 +156,7 @@ def saveSohuTopics():
 		input1.close()
 	
 	wordb = "<ul class=\"picLeft\""
-	worde = "<A class=btn-show" 
+	worde = "<div class=\"btn blue\"" 
 	index1 = [m.start() for m in re.finditer(wordb,content1)]
 	index2 = [m.start() for m in re.finditer(worde,content1)]
 	content = content1[index1[0]+len(wordb):index2[0]]
